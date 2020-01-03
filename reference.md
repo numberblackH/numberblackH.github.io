@@ -5,12 +5,12 @@ image: /assets/img/blog/hydejack-8.png
 # Reference
 
 ## News
-* [MLB]{:.heading.flip-title} --- How to install and run Hydejack.
+* [MLB] --- How to install and run Hydejack.
 * [ESPN]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [MTR]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 * [yahoo sports]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
-
 {:.related-posts.faded}
+
 
 * [news-mlb.com]
 * [news-espn]
@@ -23,6 +23,7 @@ image: /assets/img/blog/hydejack-8.png
 * [news-bleacherreport]
 * [news-sportspyder]
 * [news-usatoday]
+
 [MLB]: https://www.mlb.com/
 [ESPN]: http://www.espn.com/mlb/
 [MTR]: https://www.mlbtraderumors.com/
