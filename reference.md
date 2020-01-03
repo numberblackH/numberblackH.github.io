@@ -3,19 +3,7 @@
 
 # Reference
 
-## Other
-* [THE PLAYERS TRIBUNE]{:.heading.flip-title} --- The Players' Tribune : STORY
-* [The Ole Ballgame]{:.heading.flip-title} --- baseball coaching youth, and amateur
-* [Inside Ptich]{:.heading.flip-title} --- Official Magazine of the ABCA
-* [Baseball Think Factory]{:.heading.flip-title} --- Baseball Think Factory
-{:.related-posts.faded}
-
-[THE PLAYERS TRIBUNE]: https://www.theplayerstribune.com/en-us/sports/baseball/
-[The Ole Ballgame]: http://www.theoleballgame.com/
-[Inside Ptich]: http://www.theoleballgame.com/
-[Baseball Think Factory]: http://www.baseballthinkfactory.org/
-
-## News 11
+## News
 * [MLB]{:.heading.flip-title} --- MLB
 * [B/R]{:.heading.flip-title} --- Bleacher Report
 * [MTR]{:.heading.flip-title} --- MLB Trdae Rumors
@@ -41,7 +29,7 @@
 [Sport Spyder]: http://sportspyder.com/sports/mlb/news/
 [USA TODAY]: https://www.usatoday.com/sports/mlb/
 
-## Column 8
+## Column
 * [THE ATHLETIC]{:.heading.flip-title} --- THE ATHLETIC
 * [SI]{:.heading.flip-title} --- Sports Illustrated
 * [FiveThirtyEight]{:.heading.flip-title} --- FiveThirtyEight
@@ -67,7 +55,7 @@
 [THE RINGER]: https://www.theringer.com/mlb/
 [Pitcher List]: https://www.pitcherlist.com/
 
-## Prospect 5
+## Prospect
 * [MiLB]{:.heading.flip-title} --- MiLB
 * [BA]{:.heading.flip-title} --- Baseball America
 * [BP]{:.heading.flip-title} --- Baseball Prospectus
@@ -81,7 +69,7 @@
 [The Baseball Cube]: http://www.thebaseballcube.com/prospects/
 [MINOR LEAGUE BALL]: https://www.minorleagueball.com/
 
-## Stat & PITCHf/x Tool 5
+## Stat & PITCHf/x Tool
 * [BASEBALL-REFERENCE]{:.heading.flip-title} --- Baseball Stats and History
 * [Baseball Savant]{:.heading.flip-title} --- Trending MLB Players, Statcast and Visualizations
 * [Brooksbaseball]{:.heading.flip-title} --- Home of the PITCHf/x Tool. Pitch Tracking. Simplified.
@@ -106,6 +94,20 @@
 [Driveline Baseball]: https://www.drivelinebaseball.com/
 [Importing data into R]: https://tht.fangraphs.com/tht-live/importing-data-into-r/
 [Statcast-Modeling]: https://github.com/BillPetti/Statcast-Modeling/
+
+## Other
+* [THE PLAYERS TRIBUNE]{:.heading.flip-title} --- The Players' Tribune : STORY
+* [The Ole Ballgame]{:.heading.flip-title} --- baseball coaching youth, and amateur
+* [Inside Ptich]{:.heading.flip-title} --- Official Magazine of the ABCA
+* [Baseball Think Factory]{:.heading.flip-title} --- Baseball Think Factory
+* [spotrac]{:.heading.flip-title} --- Team Payroll Tracker
+{:.related-posts.faded}
+
+[THE PLAYERS TRIBUNE]: https://www.theplayerstribune.com/en-us/sports/baseball/
+[The Ole Ballgame]: http://www.theoleballgame.com/
+[Inside Ptich]: http://www.theoleballgame.com/
+[Baseball Think Factory]: http://www.baseballthinkfactory.org/
+[spotrac]: https://www.spotrac.com/mlb/payroll/
 
 ## MLB-KOR
 * [주경야덕]{:.heading.flip-title} --- MLB 포스트 번역
