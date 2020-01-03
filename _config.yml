@@ -19,12 +19,12 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 a man of figures
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
+  "a man of figures's baseball story".
   **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
@@ -38,7 +38,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+logo:                  /assets/icons/man.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -326,7 +326,7 @@ relative_links:
 titles_from_headings:
   strip_title:         true
   collections:         true
-  
+
 replace_img:
   re_img:              <img\s*(?<attrs>.*?)\s*/>
   re_ignore:           (re|data)-ignore
