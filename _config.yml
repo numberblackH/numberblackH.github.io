@@ -29,8 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  "a man of figures's baseball story"
 
 # A list of keywords for your blog
 keywords:              []
@@ -55,8 +54,8 @@ menu:
     url:               /hyde/
   - title:             Documentation
     url:               /docs/
-  - title:             About
-    url:               /about/
+  - title:             Reference
+    url:               /reference/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
