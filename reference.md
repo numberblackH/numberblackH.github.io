@@ -5,7 +5,7 @@ image: /assets/img/blog/hydejack-8.png
 # Reference
 
 ## News
-* [MLB] --- How to install and run Hydejack.
+* [MLB]{:.heading.flip-title} --- How to install and run Hydejack.
 * [ESPN]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [MTR]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 * [yahoo sports]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
