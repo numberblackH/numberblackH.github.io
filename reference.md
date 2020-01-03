@@ -15,7 +15,7 @@ image: /assets/img/blog/hydejack-8.png
 [baseballthinkfactory]: http://www.baseballthinkfactory.org/
 
 ## News 11
-* [MLB]{:.heading.flip-title} ---
+* [MLB]{:.heading.flip-title} --- MLB
 * [B/R]{:.heading.flip-title} ---
 * [MTR]{:.heading.flip-title} --- MLB Trdae Rumors
 * [ESPN]{:.heading.flip-title} ---
@@ -29,70 +29,66 @@ image: /assets/img/blog/hydejack-8.png
 {:.related-posts.faded}
 
 [MLB]: https://www.mlb.com/
-[B/R]: http://bleacherreport.com/mlb
+[B/R]: http://bleacherreport.com/mlb/
 [MTR]: https://www.mlbtraderumors.com/
 [ESPN]: http://www.espn.com/mlb/
 [Yahoo Sports]: https://sports.yahoo.com/mlb/
 [Fox Sports]: http://www.foxsports.com/mlb
 [Cbs Sports]: https://www.cbssports.com/mlb/
-[rotoworld]: http://www.rotoworld.com/sports/mlb/baseball?ls=roto:mlb:gnav
-[fancred]: https://fancredsports.com/Categories/baseball
-[SportSpyder]: http://sportspyder.com/sports/mlb/news
+[rotoworld]: http://www.rotoworld.com/sports/mlb/baseball?ls=roto:mlb:gnav/
+[fancred]: https://fancredsports.com/Categories/baseball/
+[SportSpyder]: http://sportspyder.com/sports/mlb/news/
 [usatoday]: https://www.usatoday.com/sports/mlb/
 
 ## Stat & PITCHf/x Tool 5
 * [Reference]{:.heading.flip-title} --- Baseball Reference
 * [baseballsavant]{:.heading.flip-title} --- Baseball Savant
-* [brooksbaseball]{:.heading.flip-title} --- Home of the PITCHf/x Tool.
+* [brooksbaseball]{:.heading.flip-title} --- Home of the PITCHf/x Tool
 * [pitchfx texasleaguers]{:.heading.flip-title} ---
 * [baseballanalysts]{:.heading.flip-title} ---
 {:.related-posts.faded}
 
 [reference]: http://www.baseball-reference.com/
-[brooksbaseball]: http://www.brooksbaseball.net
+[brooksbaseball]: http://www.brooksbaseball.net/
 [pitchfx texasleaguers]: http://pitchfx.texasleaguers.com/
-[baseballsavant]: https://baseballsavant.mlb.com/about
+[baseballsavant]: https://baseballsavant.mlb.com/about/
 [baseballanalysts]: http://baseballanalysts.com/archives/fx_visualizatio_1/
 
-## Column
+## Column 8
 * [THE ATHLETIC]{:.heading.flip-title} --- THE ATHLETIC
 * [SI]{:.heading.flip-title} --- Sports Illustrated
+* [Fangraphs]{:.heading.flip-title} --- Fangraphs Baseball : Statistics and Analysis
+* [The Hardball Times]{:.heading.flip-title} --- The Hardball Times Fangraphs
 * [SB NATION]{:.heading.flip-title} --- SB NATION
-* [Fangraphs]{:.heading.flip-title} --- Fangraphs Baseball | Statistics and Analysis
+* [BEYOND THE BOX SCORE]{:.heading.flip-title} --- SB NATION BEYOND THE BOX SCORE
 * [FANSIDED]{:.heading.flip-title} --- FANSIDED MLB
-* [BEYOND THE BOX SCORE]{:.heading.flip-title} --- BEYOND THE BOX SCORE
-* [The Hardball Times]{:.heading.flip-title} --- The Hardball Times
 * [THE RINGER]{:.heading.flip-title} --- THE RINGER
 {:.related-posts.faded}
 
 [THE ATHLETIC]: https://theathletic.com/
-[SI]: https://www.si.com/mlb
-[SB NATION]: https://www.sbnation.com/mlb
+[SI]: https://www.si.com/mlb/
 [Fangraphs]: https://www.fangraphs.com/
-[FANSIDED]: https://fansided.com/mlb/
-[BEYOND THE BOX SCORE]: https://www.beyondtheboxscore.com/
 [The Hardball Times]: https://tht.fangraphs.com/
-[THE RINGER]: https://www.theringer.com/mlb
+[SB NATION]: https://www.sbnation.com/mlb/
+[BEYOND THE BOX SCORE]: https://www.beyondtheboxscore.com/
+[FANSIDED]: https://fansided.com/mlb/
+[THE RINGER]: https://www.theringer.com/mlb/
 
-## prospect
-* [SI]{:.heading.flip-title} --- Sports Illustrated
+## Prospect 5
+* [MiLB]{:.heading.flip-title} --- MiLB
+* [BA]{:.heading.flip-title} --- Baseball America
+* [BP]{:.heading.flip-title} --- Baseball Prospectus
+* [The Baseball Cube]{:.heading.flip-title} --- The Baseball Cube
+* [MINOR LEAGUE BALL]{:.heading.flip-title} --- SB NATION MINOR LEAGUE BALL
+{:.related-posts.faded}
 
-#### mlb-prospect
-* [prospect-milb]
-* [prospect-baseballamerica]
-* [prospect-baseballprospectus]
-* [prospect-thebaseballcube]
-* [prospect-minorleagueball]
-* [prospect-stats]
+[MiLB]: https://www.milb.com/
+[BA]: https://www.baseballamerica.com/
+[BP]: https://www.baseballprospectus.com/
+[The Baseball Cube]: http://www.thebaseballcube.com/prospects/
+[MINOR LEAGUE BALL]: https://www.minorleagueball.com/
 
-[prospect-milb]: https://www.milb.com/
-[prospect-baseballamerica]: https://www.baseballamerica.com/
-[prospect-baseballprospectus]: https://www.baseballprospectus.com
-[prospect-thebaseballcube]: http://www.thebaseballcube.com/prospects/
-[prospect-minorleagueball]: https://www.minorleagueball.com/
-[prospect-stats]: https://www.mlb.com/prospects/stats
-
-#### dodgers
+## Dodgers 
 * [dodgers-bleacherreport]
 * [dodgers-latimes]
 * [dodgers-truebluela]
@@ -103,8 +99,6 @@ image: /assets/img/blog/hydejack-8.png
 * [dodgers-sportsnetla]
 * [dodgers-payroll]
 
----
-
 #### mlb-korea
 * [kor-주경야덕]
 * [kor-yagongso]
@@ -112,50 +106,13 @@ image: /assets/img/blog/hydejack-8.png
 * [kor-mlbkor]
 * [kor-coachround]
 
----
-
-
----
-
-
-
----
-
-#### mlb-column&story
-* [column&story-fansided]
-* [column&stroy-theringer]
-* [column&stroy-theplayerstribune]
-* [column&stroy-sbnation]
-* [column&stroy-si]
-* [column&stroy-thehardballtimes]
-* [column&stroy-fangraphs]
-* [column&stroy-beyondtheboxscore]
-* [column&stroy-baseballthinkfactory]
-
----
-
-#### mlb-stats
-* [stats-reference]
-* [stats-statcorner]
-* [stats-brooksbaseball]
-* [stats-pitchfx.texasleaguers]
-* [stats-theoleballgame]
-* [stats-baseballsavant]
-* [stats-baseballanalysts]
-
----
-
 #### mlb-data
 * [data-retrosheet]
 * [data-drivelinebaseball]
 
----
-
 #### mlb-R
 * [R-fangraphs]
 * [R-blog]
-
----
 
 #### kbo
 * [kbo-기록위원회]
@@ -164,7 +121,6 @@ image: /assets/img/blog/hydejack-8.png
 * [kbo-gameone]
 * [kbo-yachin]
 * [kbo-strikes.zone]
-
 
 [dodgers-bleacherreport]: https://bleacherreport.com/los-angeles-dodgers
 [dodgers-latimes]: https://www.latimes.com/sports/dodgers
@@ -182,10 +138,6 @@ image: /assets/img/blog/hydejack-8.png
 [kor-mlbkor]: http://mlb.mbcsportsplus.com/#07D0
 [kor-coachround]: http://coachround.com/
 [kor-kini's Sportugese]: https://kini.kr/
-
-
-
-
 
 [data-retrosheet]: https://www.retrosheet.org/game.html
 [data-drivelinebaseball]: https://www.drivelinebaseball.com/
