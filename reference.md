@@ -4,45 +4,74 @@ image: /assets/img/blog/hydejack-8.png
 
 # Reference
 
-## News
-* [MLB]{:.heading.flip-title} --- How to install and run Hydejack.
-* [ESPN]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [MTR]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
-* [yahoo sports]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
+## Other
+* [theoleballgame]{:.heading.flip-title} ---
 {:.related-posts.faded}
 
+[theoleballgame]: http://www.theoleballgame.com
 
-* [news-mlb.com]
-* [news-espn]
-* [news-mlbtraderumors]
-* [news-yahoo]
-* [news-foxsports]
-* [news-cbs]
-* [news-rotoworld]
-* [news-fancredsports]
-* [news-bleacherreport]
-* [news-sportspyder]
-* [news-usatoday]
+## News 11
+* [MLB]{:.heading.flip-title} ---
+* [B/R]{:.heading.flip-title} ---
+* [MTR]{:.heading.flip-title} --- MLB Trdae Rumors
+* [ESPN]{:.heading.flip-title} ---
+* [Yahoo Sports]{:.heading.flip-title} ---
+* [Fox Sports]{:.heading.flip-title} ---
+* [CBS Sports]{:.heading.flip-title} ---
+* [ROTOWORLD]{:.heading.flip-title} ---
+* [FANCRED]{:.heading.flip-title} ---
+* [SportSpyder]{:.heading.flip-title} ---
+* [USATODAY]{:.heading.flip-title} ---
+{:.related-posts.faded}
 
 [MLB]: https://www.mlb.com/
-[ESPN]: http://www.espn.com/mlb/
+[B/R]: http://bleacherreport.com/mlb
 [MTR]: https://www.mlbtraderumors.com/
-[yahoo sports]: https://sports.yahoo.com/mlb/
-[news-foxsports]: http://www.foxsports.com/mlb
-[news-cbs]: https://www.cbssports.com/mlb/
-[news-rotoworld]: http://www.rotoworld.com/sports/mlb/baseball?ls=roto:mlb:gnav
-[news-fancredsports]: https://fancredsports.com/Categories/baseball
-[news-bleacherreport]: http://bleacherreport.com/mlb
-[news-sportspyder]: http://sportspyder.com/sports/mlb/news
-[news-usatoday]: https://www.usatoday.com/sports/mlb/
+[ESPN]: http://www.espn.com/mlb/
+[Yahoo Sports]: https://sports.yahoo.com/mlb/
+[fox sports]: http://www.foxsports.com/mlb
+[cbs sports]: https://www.cbssports.com/mlb/
+[rotoworld]: http://www.rotoworld.com/sports/mlb/baseball?ls=roto:mlb:gnav
+[fancred]: https://fancredsports.com/Categories/baseball
+[SportSpyder]: http://sportspyder.com/sports/mlb/news
+[usatoday]: https://www.usatoday.com/sports/mlb/
 
-## Using Hydejack
-* [MLB]{:.heading.flip-title} --- How to add different types of content.
-* [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
-* [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
-* [Build]{:.heading.flip-title} --- How to build the static files for deployment.
-* [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
+## Stat 5
+* [Reference]{:.heading.flip-title} --- Baseball Reference
+* [baseballsavant]{:.heading.flip-title} --- Baseball Savant
+* [brooksbaseball]{:.heading.flip-title} --- Home of the PITCHf/x Tool.
+* [pitchfx.texasleaguers]{:.heading.flip-title} ---
+* [baseballanalysts]{:.heading.flip-title} ---
 {:.related-posts.faded}
+
+[reference]: http://www.baseball-reference.com/
+[brooksbaseball]: http://www.brooksbaseball.net
+[pitchfx.texasleaguers]: http://pitchfx.texasleaguers.com/
+[baseballsavant]: https://baseballsavant.mlb.com/about
+[baseballanalysts]: http://baseballanalysts.com/archives/fx_visualizatio_1/
+
+#### mlb-column&story
+* [column&story-fansided]
+* [column&stroy-theringer]
+* [column&stroy-theplayerstribune]
+* [column&stroy-sbnation]
+* [column&stroy-si]
+* [column&stroy-thehardballtimes]
+* [column&stroy-fangraphs]
+* [column&stroy-beyondtheboxscore]
+* [column&stroy-baseballthinkfactory]
+
+[column&story-fansided]: https://fansided.com/mlb/
+[column&stroy-theringer]: https://www.theringer.com/mlb
+[column&stroy-theplayerstribune]: https://www.theplayerstribune.com/en-us/sports/baseball
+[column&stroy-sbnation]: https://www.sbnation.com/mlb
+[column&stroy-si]: https://www.si.com/mlb
+[column&stroy-thehardballtimes]: https://tht.fangraphs.com/
+[column&stroy-fangraphs]: https://www.fangraphs.com/
+[column&stroy-beyondtheboxscore]: https://www.beyondtheboxscore.com/
+[column&stroy-baseballthinkfactory]: http://www.baseballthinkfactory.org/
+
+
 
 ## Other
 * [LICENSE]{:.heading.flip-title} --- The license of this project.
@@ -179,23 +208,7 @@ image: /assets/img/blog/hydejack-8.png
 [prospect-minorleagueball]: https://www.minorleagueball.com/
 [prospect-stats]: https://www.mlb.com/prospects/stats
 
-[column&story-fansided]: https://fansided.com/mlb/
-[column&stroy-theringer]: https://www.theringer.com/mlb
-[column&stroy-theplayerstribune]: https://www.theplayerstribune.com/en-us/sports/baseball
-[column&stroy-sbnation]: https://www.sbnation.com/mlb
-[column&stroy-si]: https://www.si.com/mlb
-[column&stroy-thehardballtimes]: https://tht.fangraphs.com/
-[column&stroy-fangraphs]: https://www.fangraphs.com/
-[column&stroy-beyondtheboxscore]: https://www.beyondtheboxscore.com/
-[column&stroy-baseballthinkfactory]: http://www.baseballthinkfactory.org/
 
-[stats-reference]: http://www.baseball-reference.com/
-[stats-statcorner]: http://www.statcorner.com/index.php
-[stats-brooksbaseball]: http://www.brooksbaseball.net
-[stats-pitchfx.texasleaguers]: http://pitchfx.texasleaguers.com/
-[stats-theoleballgame]: http://www.theoleballgame.com
-[stats-baseballsavant]: https://baseballsavant.mlb.com/about
-[stats-baseballanalysts]: http://baseballanalysts.com/archives/fx_visualizatio_1/
 
 [data-retrosheet]: https://www.retrosheet.org/game.html
 [data-drivelinebaseball]: https://www.drivelinebaseball.com/
