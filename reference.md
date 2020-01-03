@@ -6,9 +6,13 @@ image: /assets/img/blog/hydejack-8.png
 
 ## Other
 * [theoleballgame]{:.heading.flip-title} ---
+* [THE PLAYERS TRIBUNE]{:.heading.flip-title} --- THE PLAYERS TRIBUNE
+* [baseballthinkfactory]{:.heading.flip-title} --- baseballthinkfactory
 {:.related-posts.faded}
 
 [theoleballgame]: http://www.theoleballgame.com
+[THE PLAYERS TRIBUNE]: https://www.theplayerstribune.com/en-us/sports/baseball
+[baseballthinkfactory]: http://www.baseballthinkfactory.org/
 
 ## News 11
 * [MLB]{:.heading.flip-title} ---
@@ -29,56 +33,64 @@ image: /assets/img/blog/hydejack-8.png
 [MTR]: https://www.mlbtraderumors.com/
 [ESPN]: http://www.espn.com/mlb/
 [Yahoo Sports]: https://sports.yahoo.com/mlb/
-[fox sports]: http://www.foxsports.com/mlb
-[cbs sports]: https://www.cbssports.com/mlb/
+[Fox Sports]: http://www.foxsports.com/mlb
+[Cbs Sports]: https://www.cbssports.com/mlb/
 [rotoworld]: http://www.rotoworld.com/sports/mlb/baseball?ls=roto:mlb:gnav
 [fancred]: https://fancredsports.com/Categories/baseball
 [SportSpyder]: http://sportspyder.com/sports/mlb/news
 [usatoday]: https://www.usatoday.com/sports/mlb/
 
-## Stat 5
+## Stat & PITCHf/x Tool 5
 * [Reference]{:.heading.flip-title} --- Baseball Reference
 * [baseballsavant]{:.heading.flip-title} --- Baseball Savant
 * [brooksbaseball]{:.heading.flip-title} --- Home of the PITCHf/x Tool.
-* [pitchfx.texasleaguers]{:.heading.flip-title} ---
+* [pitchfx texasleaguers]{:.heading.flip-title} ---
 * [baseballanalysts]{:.heading.flip-title} ---
 {:.related-posts.faded}
 
 [reference]: http://www.baseball-reference.com/
 [brooksbaseball]: http://www.brooksbaseball.net
-[pitchfx.texasleaguers]: http://pitchfx.texasleaguers.com/
+[pitchfx texasleaguers]: http://pitchfx.texasleaguers.com/
 [baseballsavant]: https://baseballsavant.mlb.com/about
 [baseballanalysts]: http://baseballanalysts.com/archives/fx_visualizatio_1/
 
-#### mlb-column&story
-* [column&story-fansided]
-* [column&stroy-theringer]
-* [column&stroy-theplayerstribune]
-* [column&stroy-sbnation]
-* [column&stroy-si]
-* [column&stroy-thehardballtimes]
-* [column&stroy-fangraphs]
-* [column&stroy-beyondtheboxscore]
-* [column&stroy-baseballthinkfactory]
-
-[column&story-fansided]: https://fansided.com/mlb/
-[column&stroy-theringer]: https://www.theringer.com/mlb
-[column&stroy-theplayerstribune]: https://www.theplayerstribune.com/en-us/sports/baseball
-[column&stroy-sbnation]: https://www.sbnation.com/mlb
-[column&stroy-si]: https://www.si.com/mlb
-[column&stroy-thehardballtimes]: https://tht.fangraphs.com/
-[column&stroy-fangraphs]: https://www.fangraphs.com/
-[column&stroy-beyondtheboxscore]: https://www.beyondtheboxscore.com/
-[column&stroy-baseballthinkfactory]: http://www.baseballthinkfactory.org/
-
-
-
-## Other
-* [LICENSE]{:.heading.flip-title} --- The license of this project.
-* [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
-* [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
+## Column
+* [THE ATHLETIC]{:.heading.flip-title} --- THE ATHLETIC
+* [SI]{:.heading.flip-title} --- Sports Illustrated
+* [SB NATION]{:.heading.flip-title} --- SB NATION
+* [Fangraphs]{:.heading.flip-title} --- Fangraphs Baseball | Statistics and Analysis
+* [FANSIDED]{:.heading.flip-title} --- FANSIDED MLB
+* [BEYOND THE BOX SCORE]{:.heading.flip-title} --- BEYOND THE BOX SCORE
+* [The Hardball Times]{:.heading.flip-title} --- The Hardball Times
+* [THE RINGER]{:.heading.flip-title} --- THE RINGER
 {:.related-posts.faded}
 
+[THE ATHLETIC]: https://theathletic.com/
+[SI]: https://www.si.com/mlb
+[SB NATION]: https://www.sbnation.com/mlb
+[Fangraphs]: https://www.fangraphs.com/
+[FANSIDED]: https://fansided.com/mlb/
+[BEYOND THE BOX SCORE]: https://www.beyondtheboxscore.com/
+[The Hardball Times]: https://tht.fangraphs.com/
+[THE RINGER]: https://www.theringer.com/mlb
+
+## prospect
+* [SI]{:.heading.flip-title} --- Sports Illustrated
+
+#### mlb-prospect
+* [prospect-milb]
+* [prospect-baseballamerica]
+* [prospect-baseballprospectus]
+* [prospect-thebaseballcube]
+* [prospect-minorleagueball]
+* [prospect-stats]
+
+[prospect-milb]: https://www.milb.com/
+[prospect-baseballamerica]: https://www.baseballamerica.com/
+[prospect-baseballprospectus]: https://www.baseballprospectus.com
+[prospect-thebaseballcube]: http://www.thebaseballcube.com/prospects/
+[prospect-minorleagueball]: https://www.minorleagueball.com/
+[prospect-stats]: https://www.mlb.com/prospects/stats
 
 #### dodgers
 * [dodgers-bleacherreport]
@@ -102,28 +114,10 @@ image: /assets/img/blog/hydejack-8.png
 
 ---
 
-#### mlb-news
-* [news-mlb.com]
-* [news-espn]
-* [news-mlbtraderumors]
-* [news-yahoo]
-* [news-foxsports]
-* [news-cbs]
-* [news-rotoworld]
-* [news-fancredsports]
-* [news-bleacherreport]
-* [news-sportspyder]
-* [news-usatoday]
 
 ---
 
-#### mlb-prospect
-* [prospect-milb]
-* [prospect-baseballamerica]
-* [prospect-baseballprospectus]
-* [prospect-thebaseballcube]
-* [prospect-minorleagueball]
-* [prospect-stats]
+
 
 ---
 
@@ -189,24 +183,7 @@ image: /assets/img/blog/hydejack-8.png
 [kor-coachround]: http://coachround.com/
 [kor-kini's Sportugese]: https://kini.kr/
 
-[news-mlb.com]: https://www.mlb.com/
-[news-espn]: http://www.espn.com/mlb/
-[news-mlbtraderumors]: https://www.mlbtraderumors.com/
-[news-yahoo]: https://sports.yahoo.com/mlb/
-[news-foxsports]: http://www.foxsports.com/mlb
-[news-cbs]: https://www.cbssports.com/mlb/
-[news-rotoworld]: http://www.rotoworld.com/sports/mlb/baseball?ls=roto:mlb:gnav
-[news-fancredsports]: https://fancredsports.com/Categories/baseball
-[news-bleacherreport]: http://bleacherreport.com/mlb
-[news-sportspyder]: http://sportspyder.com/sports/mlb/news
-[news-usatoday]: https://www.usatoday.com/sports/mlb/
 
-[prospect-milb]: https://www.milb.com/
-[prospect-baseballamerica]: https://www.baseballamerica.com/
-[prospect-baseballprospectus]: https://www.baseballprospectus.com
-[prospect-thebaseballcube]: http://www.thebaseballcube.com/prospects/
-[prospect-minorleagueball]: https://www.minorleagueball.com/
-[prospect-stats]: https://www.mlb.com/prospects/stats
 
 
 
