@@ -3,7 +3,7 @@ layout: list
 title: Dodgers
 slug: dodgers
 menu: true
-order: 1
+order: 7
 description: >
   Dodgers
 accent_color: rgb(38,139,210)
