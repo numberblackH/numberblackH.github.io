@@ -42,7 +42,7 @@ logo:                  /assets/icons/man.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  email:               <jikenkruz@naver.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
