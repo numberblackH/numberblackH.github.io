@@ -80,7 +80,7 @@ copyright:             © 2020. All rights reserved.
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
+paginate:              5
 paginate_path:         /page-:num/
 
 
@@ -156,7 +156,7 @@ defaults:
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  post_addons:         [about, newsletter, related, random]
+  post_addons:         [related, random]
 
   # Configure the order of complementary content on project pages
   project_addons:      [about, newsletter, other]
