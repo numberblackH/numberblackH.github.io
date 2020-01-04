@@ -1,11 +1,11 @@
 ---
 layout: list
-title: Column
-slug: column
+title: Other
+slug: other
 menu: true
 order: 1
 description: >
-  Column
+  other
 accent_color: rgb(38,139,210)
 accent_image:
   background: rgb(32,32,32)
