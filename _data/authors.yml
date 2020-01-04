@@ -4,7 +4,7 @@
 author1:
   name:              <firstname> <lastname>
   email:             <jikenkruz@naver.com>
-  github:            <jikenkruz@naver.com>
+  # github:            jikenkruz@naver.com
 
 
   # Used at the bottom of each page and at the top of the `about` layout
