@@ -164,3 +164,24 @@
 [한국스포츠통신]: http://www.apsk.co.kr/news/articleList.html?sc_section_code=S1N1&view_type=sm
 [KBSA]: http://www.korea-baseball.com/record/record/player_record
 [백종인의 야구는 구라다]: https://sports.media.daum.net/sports/column/353
+
+## Soccer
+* [Sky Sports]{:.heading.flip-title} --- Football Results, Scores, Transfers, News
+* [WhoScored]{:.heading.flip-title} --- Football Statistics
+* [SofaScore]{:.heading.flip-title} --- Football LiveScore
+* [BTP]{:.heading.flip-title} --- Between The Posts + Match Plots
+* [Squawka]{:.heading.flip-title} --- Football News, Stats, Predictions
+* [opta]{:.heading.flip-title} --- Detailed data to bring your sports
+content and coverage to life
+* [STATSPERFORM]{:.heading.flip-title} --- Sports Data - Sports AI, Technology, Data Feeds
+{:.related-posts.faded}
+
+[Sky Sports]: https://www.skysports.com/football
+[WhoScored]: https://www.whoscored.com/
+[SofaScore]: https://www.sofascore.com/
+[BTP]: https://betweentheposts.net/
+[Squawka]: https://www.squawka.com/en/
+[opta]: https://www.optasports.com/
+[STATSPERFORM]: https://www.statsperform.com/
+
+## NBA
