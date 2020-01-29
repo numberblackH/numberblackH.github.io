@@ -58,7 +58,7 @@ menu:
     url:               /prospect/
   - title:             Stat & PITCHf/x Tool
     url:               /stat/
-  - title:             Data
+  - title:             Data & R
     url:               /data/
   - title:             Other
     url:               /other/
