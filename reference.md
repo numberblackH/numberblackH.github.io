@@ -72,6 +72,11 @@
 ## Stat & PITCHf/x Tool
 * [BASEBALL-REFERENCE]{:.heading.flip-title} --- Baseball Stats and History
 * [Baseball Savant]{:.heading.flip-title} --- Trending MLB Players, Statcast and Visualizations
+* [Driveline Baseball]{:.heading.flip-title} --- Data-Driven Baseball Performance Trainng
+* [TrackMan]{:.heading.flip-title} --- TrackMan
+* [FlightScope]{:.heading.flip-title} --- FlightScope
+* [Rapsodo]{:.heading.flip-title} --- Rapsodo
+* [HAWK-EYE]{:.heading.flip-title} --- HAWK-EYE
 * [Brooksbaseball]{:.heading.flip-title} --- Home of the PITCHf/x Tool. Pitch Tracking. Simplified.
 * [TexasLeaguers]{:.heading.flip-title} --- PITCHf/x Database
 * [BASEBALL ANALYSTS]{:.heading.flip-title} --- F/X Visualizations Arhives
@@ -79,21 +84,26 @@
 
 [BASEBALL-REFERENCE]: http://www.baseball-reference.com/
 [Baseball Savant]: https://baseballsavant.mlb.com/
+[Driveline Baseball]: https://www.drivelinebaseball.com/
+[TrackMan]: https://trackmanbaseball.com/
+[FlightScope]: https://baseball.flightscope.com/
+[Rapsodo]: https://rapsodo.com/baseball/
+[HAWK-EYE]: https://www.hawkeyeinnovations.com/sports/baseball
 [Brooksbaseball]: http://www.brooksbaseball.net/
 [TexasLeaguers]: http://pitchfx.texasleaguers.com/
 [BASEBALL ANALYSTS]: http://baseballanalysts.com/archives/fx_visualizatio_1/
 
-## Data
-* [RETROSHEET]{:.heading.flip-title} --- RETROSHEET
-* [Driveline Baseball]{:.heading.flip-title} --- Data-Driven Baseball Performance Trainng
+## Data & R
 * [Importing data into R]{:.heading.flip-title} --- Importing data into R tht.Fangraphs
+* [RETROSHEET]{:.heading.flip-title} --- RETROSHEET
 * [Statcast-Modeling]{:.heading.flip-title} --- Statcast-Modeling
+* [SeanLahman]{:.heading.flip-title} --- Baseball, data, and storytelling
 {:.related-posts.faded}
 
 [RETROSHEET]: https://www.retrosheet.org/game.html/
-[Driveline Baseball]: https://www.drivelinebaseball.com/
 [Importing data into R]: https://tht.fangraphs.com/tht-live/importing-data-into-r/
 [Statcast-Modeling]: https://github.com/BillPetti/Statcast-Modeling/
+[SeanLahman]: http://www.seanlahman.com/
 
 ## Other
 * [THE PLAYERS TRIBUNE]{:.heading.flip-title} --- The Players' Tribune : STORY
@@ -101,6 +111,7 @@
 * [Inside Ptich]{:.heading.flip-title} --- Official Magazine of the ABCA
 * [Baseball Think Factory]{:.heading.flip-title} --- Baseball Think Factory
 * [spotrac]{:.heading.flip-title} --- Team Payroll Tracker
+* [MLB Technology]{:.heading.flip-title} --- The latest from MLB’s Technology Organization
 {:.related-posts.faded}
 
 [THE PLAYERS TRIBUNE]: https://www.theplayerstribune.com/en-us/sports/baseball/
@@ -108,6 +119,7 @@
 [Inside Ptich]: http://www.theoleballgame.com/
 [Baseball Think Factory]: http://www.baseballthinkfactory.org/
 [spotrac]: https://www.spotrac.com/mlb/payroll/
+[MLB Technology]: https://technology.mlblogs.com/
 
 ## MLB-KOR
 * [주경야덕]{:.heading.flip-title} --- MLB 포스트 번역
@@ -167,21 +179,35 @@
 
 ## Soccer
 * [Sky Sports]{:.heading.flip-title} --- Football Results, Scores, Transfers, News
+* [BBC]{:.heading.flip-title} --- Football BBC Sport
+* [The Guardian]{:.heading.flip-title} --- Football news, match reports and fixtures
+
+* [Soccerway]{:.heading.flip-title} --- Live scores, results, fixtures, tables, statistics and news
 * [WhoScored]{:.heading.flip-title} --- Football Statistics
-* [SofaScore]{:.heading.flip-title} --- Football LiveScore
 * [BTP]{:.heading.flip-title} --- Between The Posts + Match Plots
+* [SofaScore]{:.heading.flip-title} --- Football LiveScore
 * [Squawka]{:.heading.flip-title} --- Football News, Stats, Predictions
 * [opta]{:.heading.flip-title} --- Detailed data to bring your sports
 content and coverage to life
 * [STATSPERFORM]{:.heading.flip-title} --- Sports Data - Sports AI, Technology, Data Feeds
+
+* [Football Bloody Hell]{:.heading.flip-title} --- Sports Data - Sports AI, Technology, Data Feeds
+* [Red Devils Report]{:.heading.flip-title} --- Match Analysis Archives
 {:.related-posts.faded}
 
 [Sky Sports]: https://www.skysports.com/football
+[BBC]: https://www.bbc.com/sport/football
+[The Guardian]: https://www.theguardian.com/football
+
+[Soccerway]: https://int.soccerway.com/
 [WhoScored]: https://www.whoscored.com/
-[SofaScore]: https://www.sofascore.com/
 [BTP]: https://betweentheposts.net/
+[SofaScore]: https://www.sofascore.com/
 [Squawka]: https://www.squawka.com/en/
 [opta]: https://www.optasports.com/
 [STATSPERFORM]: https://www.statsperform.com/
+
+[Football Bloody Hell]: https://footballbh.net/
+[Red Devils Report]: https://reddevilsreport.com/category/analysis/match-analysis
 
 ## NBA
