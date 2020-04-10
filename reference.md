@@ -210,4 +210,26 @@ content and coverage to life
 [Football Bloody Hell]: https://footballbh.net/
 [Red Devils Report]: https://reddevilsreport.com/category/analysis/match-analysis
 
+## Soccer
+* [THE Sun]{:.heading.flip-title} --- Transfers, Fixtures, Scores, Pictures
+* [Daily Mirror]{:.heading.flip-title} --- Daily Mirror
+* [Daily Star]{:.heading.flip-title} --- News, Trasfers, Live Scores, Results & Opinion
+* [Express]{:.heading.flip-title} --- Transfers News, Scores and Results
+* [standard]{:.heading.flip-title} --- Lastest scores, Team Fixtures, Gossip
+* [Metro]{:.heading.flip-title} --- News
+* [Independent]{:.heading.flip-title} --- The Independent
+* [Telegraph]{:.heading.flip-title} --- The Telegraph
+* [The Times]{:.heading.flip-title} --- The times & The Sunday Times
+{:.related-posts.faded}
+
+[THE Sun]: https://www.thesun.co.uk
+[Daily Mirror]: http://www.dailymirror.lk/sport
+[Daily Star]: https://www.dailystar.co.uk/sport/football
+[Express]: https://www.express.co.uk/sport/football
+[standard]: https://www.standard.co.uk/sport/football
+[Metro]: https://metro.co.uk/sport/football
+[Independent]: https://www.independent.co.uk/sport/football
+[Telegraph]: https://www.telegraph.co.uk/sport
+[The Times]: https://www.thetimes.co.uk
+
 ## NBA
