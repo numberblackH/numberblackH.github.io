@@ -64,7 +64,7 @@ menu:
     url:               /other/
   - title:             Reference
     url:               /reference/
-  - title:             link
+  - title:             Link
     url:               /link/
 
 # Add links to the footer.

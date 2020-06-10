@@ -142,7 +142,7 @@
 [suxism]: http://suxism.com/
 [kini's Sportugese]: https://kini.kr/
 [야알못의 야구 블로그]: https://ladodgers.tistory.com/
-[이현우의 MLB+]: https://www.mbcsportsplus.com/msp/?bv=12
+[이현우의 MLB+]: https://sports.news.naver.com/column/columnList.nhn?expertId=1231
 [이영미의 스포츠人 스토리]: https://sports.news.naver.com/column/columnList.nhn?expertId=531
 [김형준의 베이스볼+]: https://sports.news.naver.com/column/columnList.nhn?expertId=214
 [이창섭의 올 어바웃 베이스볼]: https://sports.news.naver.com/column/columnList.nhn?expertId=656
