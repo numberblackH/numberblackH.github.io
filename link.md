@@ -4,6 +4,7 @@
 # Link
 
 ## Football News
+### UK
 * [Sky Sports]{:.heading.flip-title} --- Football Results, Scores, Transfers, News
 * [BBC]{:.heading.flip-title} --- Football BBC Sport
 * [The Guardian]{:.heading.flip-title} --- Football news, match reports and fixtures
@@ -16,6 +17,25 @@
 * [standard]{:.heading.flip-title} --- Lastest scores, Team Fixtures, Gossip
 * [Metro]{:.heading.flip-title} --- Metro News
 * [Independent]{:.heading.flip-title} --- The Independent
+
+### Spain
+* [marca]{:.heading.flip-title} --- MARCA La Liga
+* [as]{:.heading.flip-title} --- AS La Liga
+* [mundodeportivo]{:.heading.flip-title} --- Mundo Deportivo La Liga
+* [cadenaser]{:.heading.flip-title} --- Cadena SER La Liga
+
+### Italy
+* [gianlucadimarzio]{:.heading.flip-title} --- Gianluca di Marzio Serie A
+* [repubblica]{:.heading.flip-title} --- la Repubblica Serie A
+
+### Germany
+* [bild]{:.heading.flip-title} --- Bild Bundesliga
+* [kicker]{:.heading.flip-title} --- Kicker Bundesliga
+
+### France
+* [lequipe]{:.heading.flip-title} --- Lequipe  Ligue 1  
+* [francefootball]{:.heading.flip-title} --- France Football Ligue 1
+* [rmcsport]{:.heading.flip-title} --- RMC Sport Radio Ligue 1
 {:.related-posts.faded}
 
 [Sky Sports]: https://www.skysports.com/football
@@ -31,6 +51,21 @@
 [standard]: https://www.standard.co.uk/sport/football
 [Metro]: https://metro.co.uk/sport/football
 [Independent]: https://www.independent.co.uk/sport/football
+
+[marca]: https://www.marca.com/
+[as]: https://www.as.com/
+[mundodeportivo]: https://www.mundodeportivo.com/
+[cadenaser]: https://cadenaser.com
+
+[gianlucadimarzio]: https://gianlucadimarzio.com/
+[repubblica]: https://www.repubblica.it/
+
+[bild]: https://www.bild.de/sport/fussball/fussball/home-15769054.bild.html
+[kicker]: https://www.kicker.de/
+
+[lequipe]: https://www.lequipe.fr/
+[francefootball]: https://www.francefootball.fr/
+[rmcsport]: https://rmcsport.bfmtv.com/football/
 
 ## Tactics
 * [BTP]{:.heading.flip-title} --- Between The Posts + Match Plots
@@ -85,3 +120,9 @@
 [opta]: https://www.optasports.com/
 [TOTAL FOOTBALL ANALYSIS]: https://totalfootballanalysis.com/
 [STATSPERFORM]: https://www.statsperform.com/
+
+## United
+* [thebusbybabe]{:.heading.flip-title} --- thebusbybabe SB NATION
+{:.related-posts.faded}
+
+[thebusbybabe]: https://thebusbybabe.sbnation.com/
