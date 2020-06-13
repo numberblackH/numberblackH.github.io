@@ -3,8 +3,7 @@
 
 # Link
 
-## Football News
-### UK
+## UK News
 * [Sky Sports]{:.heading.flip-title} --- Football Results, Scores, Transfers, News
 * [BBC]{:.heading.flip-title} --- Football BBC Sport
 * [The Guardian]{:.heading.flip-title} --- Football news, match reports and fixtures
@@ -17,25 +16,6 @@
 * [standard]{:.heading.flip-title} --- Lastest scores, Team Fixtures, Gossip
 * [Metro]{:.heading.flip-title} --- Metro News
 * [Independent]{:.heading.flip-title} --- The Independent
-
-### Spain
-* [marca]{:.heading.flip-title} --- MARCA La Liga
-* [as]{:.heading.flip-title} --- AS La Liga
-* [mundodeportivo]{:.heading.flip-title} --- Mundo Deportivo La Liga
-* [cadenaser]{:.heading.flip-title} --- Cadena SER La Liga
-
-### Italy
-* [gianlucadimarzio]{:.heading.flip-title} --- Gianluca di Marzio Serie A
-* [repubblica]{:.heading.flip-title} --- la Repubblica Serie A
-
-### Germany
-* [bild]{:.heading.flip-title} --- Bild Bundesliga
-* [kicker]{:.heading.flip-title} --- Kicker Bundesliga
-
-### France
-* [lequipe]{:.heading.flip-title} --- Lequipe  Ligue 1  
-* [francefootball]{:.heading.flip-title} --- France Football Ligue 1
-* [rmcsport]{:.heading.flip-title} --- RMC Sport Radio Ligue 1
 {:.related-posts.faded}
 
 [Sky Sports]: https://www.skysports.com/football
@@ -52,16 +32,39 @@
 [Metro]: https://metro.co.uk/sport/football
 [Independent]: https://www.independent.co.uk/sport/football
 
+## La Liga News
+* [marca]{:.heading.flip-title} --- MARCA La Liga
+* [as]{:.heading.flip-title} --- AS La Liga
+* [mundodeportivo]{:.heading.flip-title} --- Mundo Deportivo La Liga
+* [cadenaser]{:.heading.flip-title} --- Cadena SER La Liga
+{:.related-posts.faded}
+
 [marca]: https://www.marca.com/
 [as]: https://www.as.com/
 [mundodeportivo]: https://www.mundodeportivo.com/
 [cadenaser]: https://cadenaser.com
 
+## Serie A News
+* [gianlucadimarzio]{:.heading.flip-title} --- Gianluca di Marzio Serie A
+* [repubblica]{:.heading.flip-title} --- la Repubblica Serie A
+{:.related-posts.faded}
+
 [gianlucadimarzio]: https://gianlucadimarzio.com/
 [repubblica]: https://www.repubblica.it/
 
+## Bundesliga News
+* [bild]{:.heading.flip-title} --- Bild Bundesliga
+* [kicker]{:.heading.flip-title} --- Kicker Bundesliga
+{:.related-posts.faded}
+
 [bild]: https://www.bild.de/sport/fussball/fussball/home-15769054.bild.html
 [kicker]: https://www.kicker.de/
+
+## Ligue 1 News
+* [lequipe]{:.heading.flip-title} --- Lequipe Ligue 1  
+* [francefootball]{:.heading.flip-title} --- France Football Ligue 1
+* [rmcsport]{:.heading.flip-title} --- RMC Sport Radio Ligue 1
+{:.related-posts.faded}
 
 [lequipe]: https://www.lequipe.fr/
 [francefootball]: https://www.francefootball.fr/
