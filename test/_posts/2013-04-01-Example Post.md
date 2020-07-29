@@ -6,6 +6,11 @@ tags: [algo, data structure, graph]
 
 > MLB TODAY
 
+## image
+![Dark Mode](/assets/img/blog/dark-mode.jpg){:data-width="1440" data-height="836"}
+*This is what it looks like!*
+{:.figure}
+
 `build.gradle`
 ```
 
@@ -13,11 +18,6 @@ tags: [algo, data structure, graph]
 
 ## gif
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-## image
-![Dark Mode](/assets/img/blog/dark-mode.jpg){:data-width="1440" data-height="836"}
-*This is what it looks like!*
-{:.figure}
 
 ## tweet
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
