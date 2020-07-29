@@ -9,7 +9,17 @@ description: >
 
 ![Bilby Stampede](https://twitter.com/DodgerYard/status/1288331984146780161/photo/1)
 
-### Alex Wood on IL
+### Wood on IL
+Dodgers manager Dave Roberts said Alex Wood has been dealing with left shoulder discomfort for several weeks, but the pitcher and the club decided it wasn’t serious enough to scratch him from Saturday’s start.
+
+### Kershaw bullpen session
+Kershaw was scheduled to throw a 15-pitch bullpen session on Tuesday and, if that goes well, Roberts said it’s a possibility that the three-time Cy Young Award winner could start on Friday night in what would have been Wood’s turn in the rotation.
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  <a href="https://twitter.com/kengurnick/status/1288219670445613058">Jul 29, 2020</a>
+</blockquote>
+
 
 ### LAD vs HOU  
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
