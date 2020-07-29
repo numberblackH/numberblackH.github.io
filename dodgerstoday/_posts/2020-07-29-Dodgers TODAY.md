@@ -7,7 +7,9 @@ description: >
   FINAL: Dodgers 5, Astros 2
 ---
 
-![Bilby Stampede](https://twitter.com/DodgerYard/status/1288331984146780161/photo/1)
+![Bilby Stampede](https://twitter.com/DodgerYard/status/1288331984146780161/photo/1){:data-width="1440" data-height="836"}
+*This is what it looks like!*
+{:.figure}
 
 ### Wood on IL
 Dodgers manager Dave Roberts said Alex Wood has been dealing with left shoulder discomfort for several weeks, but the pitcher and the club decided it wasn’t serious enough to scratch him from Saturday’s start.
