@@ -1,0 +1,142 @@
+---
+title: Dodgers TODAY
+layout: post
+date: 2020-07-28 08:26:28 -0400
+image: /assets/img/blog/example-content-iii.jpg
+description: >
+  Dodgers TODAY
+---
+
+title: Dodgers TODAY
+
+### Alex Wood on IL
+
+### LAD vs HOU  
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  <p lang="en" dir="ltr">
+    The next version of Hydejack (v6.3.0) will allow embedding 3rd party scripts,
+    like the one that comes with this tweet for example.
+  </p>
+  &mdash; Jorge Castillo (@jorgecastillo)
+  <a href="https://twitter.com/jorgecastillo/status/1288313344001269760">Jul 29, 2020</a>
+</blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  <p lang="en" dir="ltr">
+    The next version of Hydejack (v6.3.0) will allow embedding 3rd party scripts,
+    like the one that comes with this tweet for example.
+  </p>
+  &mdash; Jorge Castillo (@jorgecastillo)
+  <a href="https://twitter.com/MLBONFOX/status/1288320305425977344">Jul 29, 2020</a>
+</blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  <p lang="en" dir="ltr">
+    The next version of Hydejack (v6.3.0) will allow embedding 3rd party scripts,
+    like the one that comes with this tweet for example.
+  </p>
+  &mdash; Jorge Castillo (@jorgecastillo)
+  <a href="https://twitter.com/MLBONFOX/status/1288312588846149632">Jul 29, 2020</a>
+</blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  <p lang="en" dir="ltr">
+    The next version of Hydejack (v6.3.0) will allow embedding 3rd party scripts,
+    like the one that comes with this tweet for example.
+  </p>
+  &mdash; Jorge Castillo (@jorgecastillo)
+  <a href="https://twitter.com/MLBONFOX/status/1288311045522694146">Jul 29, 2020</a>
+</blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  <p lang="en" dir="ltr">
+    The next version of Hydejack (v6.3.0) will allow embedding 3rd party scripts,
+    like the one that comes with this tweet for example.
+  </p>
+  &mdash; Jorge Castillo (@jorgecastillo)
+  <a href="https://twitter.com/zachrymer/status/1288314062594433024">Jul 29, 2020</a>
+</blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  <p lang="en" dir="ltr">
+    The next version of Hydejack (v6.3.0) will allow embedding 3rd party scripts,
+    like the one that comes with this tweet for example.
+  </p>
+  &mdash; Jorge Castillo (@jorgecastillo)
+  <a href="https://twitter.com/darenw/status/1288310296847818753">Jul 29, 2020</a>
+</blockquote>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`build.gradle`
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/5yfB8-N57xY' frameborder='0' allowfullscreen></iframe></div>
+
+## link
+* [Graph]
+
+[Graph]: https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html
+
+![Dark Mode](/assets/img/blog/dark-mode.jpg){:data-width="1440" data-height="836"}
+*This is what it looks like!*
+{:.figure}
