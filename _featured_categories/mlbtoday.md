@@ -1,7 +1,7 @@
 ---
 layout: list
 title: MLB TODAY
-slug: today
+slug: mlbtoday
 menu: true
 order: 1
 description: >
