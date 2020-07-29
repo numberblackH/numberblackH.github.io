@@ -70,6 +70,8 @@ menu:
     url:               /mlbtoday/
   - title:             Dodgers TODAY
     url:               /dodgerstoday/
+  - title:             Test
+    url:               /test/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
