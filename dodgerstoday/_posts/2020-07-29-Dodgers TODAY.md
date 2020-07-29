@@ -9,7 +9,7 @@ description: >
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
-  <a href="https://twitter.com/kengurnick/status/1288219670445613058">Jul 29, 2020</a>
+  <a href="https://twitter.com/Dodgers/status/1288331308154806272">Jul 29, 2020</a>
 </blockquote>
 
 ### Wood on IL
