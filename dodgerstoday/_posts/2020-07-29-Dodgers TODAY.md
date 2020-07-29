@@ -2,15 +2,12 @@
 title: Dodgers TODAY
 layout: post
 date: 2020-07-28 08:26:28 -0400
-image: ![Bilby Stampede](https://twitter.com/DodgerYard/status/1288331984146780161/photo/1)
 description: >
-  Dodgers TODAY
+  DodgersWin!
+  FINAL: Dodgers 5, Astros 2
 ---
 
-```
-DodgersWin!
-FINAL: Dodgers 5, Astros 2
-```
+![Bilby Stampede](https://twitter.com/DodgerYard/status/1288331984146780161/photo/1)
 
 ### Alex Wood on IL
 
