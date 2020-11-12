@@ -73,20 +73,20 @@
 ## Tactics
 * [BTP]{:.heading.flip-title} --- Between The Posts + Match Plots
 * [CV]{:.heading.flip-title} --- The COACHES VOICE
+* [EPL ANALYSIS]: EPL Analysis
 * [Red Devils Report]{:.heading.flip-title} --- Match Analysis Archives
 * [Football Bloody Hell]{:.heading.flip-title} --- Sports Data - Sports AI, Technology, Data Feeds
 * [spielverlagerung]{:.heading.flip-title} --- Football Analysis
 * [opta analysis]{:.heading.flip-title} --- opta news and analysis
-* [infogol]{:.heading.flip-title} --- Football Analysis based on the infogol Expected  Goals model
 {:.related-posts.faded}
 
 [BTP]: https://betweentheposts.net/
 [CV]: https://www.coachesvoice.com/category/the-game/
+[EPL ANALYSIS]: https://eplanalysis.com/
 [Red Devils Report]: https://reddevilsreport.com/category/analysis/match-analysis
 [Football Bloody Hell]: https://footballbh.net/
 [spielverlagerung]: https://spielverlagerung.com/
 [opta analysis]: https://www.optasportspro.com/news-and-analysis/
-[infogol]: https://www.infogol.net/en/blog
 
 ## Statistics & Data
 * [Soccerway]{:.heading.flip-title} --- Live scores, results, fixtures, tables, statistics and news
@@ -100,6 +100,7 @@
 * [wyscout]{:.heading.flip-title} --- blog.wyscout  
 * [Tale of Two Halves]{:.heading.flip-title} --- Your home of football nostalgia
 * [FootballSlices]{:.heading.flip-title} --- Organized Chaos
+* [infogol]{:.heading.flip-title} --- Football Predictions & Betting Tips using Expected Goals (xG)
 {:.related-posts.faded}
 
 [Soccerway]: https://int.soccerway.com/
@@ -113,6 +114,7 @@
 [wyscout]: https://blog.wyscout.com/
 [Tale of Two Halves]: https://taleoftwohalves.uk/
 [FootballSlices]: https://organizedchaos.herokuapp.com/
+[infogol]: https://www.infogol.net/en
 
 ## Member; Statistics & Data
 * [opta]{:.heading.flip-title} --- Detailed data to bring your sports content and coverage to life
@@ -129,3 +131,25 @@
 {:.related-posts.faded}
 
 [thebusbybabe]: https://thebusbybabe.sbnation.com/
+
+## YOUTUBE
+* [Nouman]{:.heading.flip-title} --- Nouman analysis
+* [Nouman Chelsea]{:.heading.flip-title} --- Nouman analysis Chelsea
+* [FMS]{:.heading.flip-title} --- football made simple
+* [이스타TV]{:.heading.flip-title} --- 이스타TV
+* [달수네라이브]{:.heading.flip-title} --- 박문성의 달수네라이브
+* [맹피셜]{:.heading.flip-title} --- 맹훈이의 뇌피셜 풋볼
+* [새벽의축구전문가]{:.heading.flip-title} --- 새벽의 축구 전문가
+* [한준TV Footics]{:.heading.flip-title} --- 한준의 Football tactics
+* [김진짜 Real KIM]{:.heading.flip-title} --- 김진짜 Real KIM
+{:.related-posts.faded}
+
+[Nouman]: https://www.youtube.com/channel/UC5bIgc-p-6MPbodo1OI-1MA/videos
+[Nouman Chelsea]: https://www.youtube.com/c/LetsAnalyzeChelsea/videos
+[FMS]: https://www.youtube.com/channel/UCFY0YHhxiIQWYYsLgeUBcbg/videos
+[이스타TV]: https://www.youtube.com/channel/UCn9mJ4htO64-1osMWYu9k5Q
+[달수네라이브]: https://www.youtube.com/c/%EC%9D%B4%EC%8A%A4%ED%83%80TV/videos
+[맹피셜]: https://www.youtube.com/channel/UCRaEQm6yar7P7FeVpkL8xYg/videos
+[새벽의축구전문가]: https://www.youtube.com/c/%EC%83%88%EB%B2%BD%EC%9D%98%EC%B6%95%EA%B5%AC%EC%A0%84%EB%AC%B8%EA%B0%80/videos
+[한준TV Footics]: https://www.youtube.com/c/HANJUNETVFootics/videos
+[김진짜 Real KIM]: https://www.youtube.com/channel/UChb4gtsgSdwMDktdLukfrfw/videos

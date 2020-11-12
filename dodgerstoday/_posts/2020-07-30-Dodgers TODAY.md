@@ -12,16 +12,27 @@ description: >
   <a href="https://twitter.com/Dodgers/status/1288331308154806272">Jul 29, 2020</a>
 </blockquote>
 
-### Wood on IL
-Dodgers manager Dave Roberts said Alex Wood has been dealing with left shoulder discomfort for several weeks, but the pitcher and the club decided it wasn’t serious enough to scratch him from Saturday’s start.
-
-### Kershaw bullpen session
-Kershaw was scheduled to throw a 15-pitch bullpen session on Tuesday and, if that goes well, Roberts said it’s a possibility that the three-time Cy Young Award winner could start on Friday night in what would have been Wood’s turn in the rotation.
+### Dodgers-Astros Brawl Suspensions
+• Joe Kelly gets eight-game ban
+• Dave Roberts gets one-game ban
+• Dusty Baker fined
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
-  <a href="https://twitter.com/kengurnick/status/1288219670445613058">Jul 29, 2020</a>
+  <a href="https://twitter.com/Ken_Rosenthal/status/1288581677846016002">Jul 29, 2020</a>
 </blockquote>
+
+https://twitter.com/TobinBen/status/1288630546223042560
+
+### Edwin Rios hit the first leadoff multi-run homer.
+Edwin Rios hit the first leadoff multi-run homer in baseball history.
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  <a href="https://twitter.com/theaceofspaeder/status/1288687666523967488">Jul 29, 2020</a>
+</blockquote>
+
+
 
 
 ### LAD vs HOU  
