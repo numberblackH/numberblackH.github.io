@@ -1,12 +1,12 @@
 ---
 layout: post
-title: MLB TODAY 2020-11-14
+title: Marlins News
 date: 2020-11-14 08:26:28 -0400
 description: >
 noindex: true
 ---
 
-> Ng joins Marlins as MLB's first woman GM🚨
+>> Ng joins Marlins as MLB's first woman GM🚨
 
 ### Official Marlins.
 MIAMI -- The Marlins have pledged to build as diverse an organization as possible. On Friday morning, they made history by announcing Kim Ng as their new general manager.
@@ -48,13 +48,34 @@ Kim Ng Career Notes
   <a href="https://twitter.com/MLB/status/1327377729633841153">Nov 14, 2020</a>
 </blockquote>
 
-[These women broke barriers in baseball](https://www.mlb.com/news/women-break-barriers-in-baseball-history)
-
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
   &mdash; MLB Network (@MLBNetwork)
   <a href="https://twitter.com/MLBNetwork/status/1327298616776601606">Nov 14, 2020</a>
 </blockquote>
+
+> Women have been doing amazing things to break barriers in baseball throughout the history of the sport. Here are just some of the women who broke barriers in baseball.
+
+[These women broke barriers in baseball](https://www.mlb.com/news/women-break-barriers-in-baseball-history)
+
+Kim Ng -- MLB's first woman GM
+Alyssa Nakken -- MLB’s first woman Major League coach
+Rachel Balkovec and Rachel Folden -- Hitting coaches for Major League organizations
+Andrea Hayden -- First woman strength and conditioning coach in MLB
+Raquel Ferreira -- Becomes highest-ranking woman in baseball operations
+Justine Siegal -- MLB’s first woman coach
+Jessica Mendoza -- First analyst for nationally televised MLB games
+Mo'Ne Davis -- Little League World Series star
+Eri Yoshida -- First woman to play professionally in Japan
+Effa Manley -- First woman inducted into Baseball Hall of Fame
+Jean Afterman -- Agent and executive
+Ila Borders -- Professional starting pitcher
+Elaine Weddington Steward -- First woman assistant GM
+Toni Stone -- First woman to play regularly in a major men’s pro league
+Mamie Johnson -- First woman to pitch in the Negro Leagues
+Edith Houghton and Amanda Hopkins -- First female scouts
+Jackie Mitchell -- The girl who struck out Ruth and Gehrig
+Lizzie Murphy and Lizzie Arlington -- First women to play professional baseball
 
 ---
 
