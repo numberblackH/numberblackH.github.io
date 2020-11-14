@@ -6,7 +6,7 @@ description: >
 noindex: true
 ---
 
->> Ng joins Marlins as MLB's first woman GM🚨
+> Ng joins Marlins as MLB's first woman GM🚨
 
 ### Official Marlins.
 MIAMI -- The Marlins have pledged to build as diverse an organization as possible. On Friday morning, they made history by announcing Kim Ng as their new general manager.
@@ -29,7 +29,6 @@ Kim Ng Career Notes
 : 3 WOLRD SERIES CHAMPIONSHIPS
 
 ---
-
 ### She is the first female GM in MLB history
 
 - 1995: Youngest person & 1st woman to present an arbitration case in the Majors
@@ -78,7 +77,6 @@ Jackie Mitchell -- The girl who struck out Ruth and Gehrig
 Lizzie Murphy and Lizzie Arlington -- First women to play professional baseball
 
 ---
-
 ### Cashman: Ng was 'indispensable' with Yanks
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
