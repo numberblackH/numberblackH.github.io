@@ -1,7 +1,7 @@
 ---
 title: Dodgers TODAY
 layout: post
-date: 2020-07-29 08:26:28 -0400
+date: 2020-08-29 08:26:28 -0400
 description: >
   DodgersWin!
   FINAL: Dodgers 5, Astros 2
