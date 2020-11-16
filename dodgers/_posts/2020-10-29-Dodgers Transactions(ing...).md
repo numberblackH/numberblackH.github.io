@@ -16,7 +16,8 @@ noindex: true
 
 The Dodgers declined a 2021 contract option on right-hander Jimmy Nelson, who is now a free agent. Nelson did not pitch in 2020 because of back surgery.
 
-Nelson was signed last offseason to a contract paying $750,000 with a 2021 option for $2 million or a $500,000 buyout. He was signed to provide starting pitching depth. -- October 30, 2020
+Nelson was signed last offseason to a contract paying $750,000 with a 2021 option for $2 million or a $500,000 buyout. He was signed to provide starting pitching depth.   
+ -- October 30, 2020
 
 ---
 
@@ -28,7 +29,8 @@ Nelson was signed last offseason to a contract paying $750,000 with a 2021 optio
   <a href="https://twitter.com/kengurnick/status/1322945668911034368">Nov 14, 2020</a>
 </blockquote>
 
-The Dodgers outrighted outfielder and pinch-running specialist Terrance Gore to Triple-A Oklahoma City on Saturday, opening a spot on the 40-man roster. -- November 1, 2020  
+The Dodgers outrighted outfielder and pinch-running specialist Terrance Gore to Triple-A Oklahoma City on Saturday, opening a spot on the 40-man roster.   
+ -- November 1, 2020  
 
 ---
 
