@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marlins News
+title: Marlins new GM
 date: 2020-11-14 08:26:28 -0400
 description: >
 noindex: true
@@ -29,6 +29,7 @@ Kim Ng Career Notes
 : 3 WOLRD SERIES CHAMPIONSHIPS
 
 ---
+
 ### She is the first female GM in MLB history
 
 - 1995: Youngest person & 1st woman to present an arbitration case in the Majors
@@ -77,6 +78,7 @@ Jackie Mitchell -- The girl who struck out Ruth and Gehrig
 Lizzie Murphy and Lizzie Arlington -- First women to play professional baseball
 
 ---
+
 ### Cashman: Ng was 'indispensable' with Yanks
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
