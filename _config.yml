@@ -54,16 +54,16 @@ menu:
     url:               /news/
   - title:             Column
     url:               /column/
-  - title:             Prospect
-    url:               /prospect/
-  - title:             Stat & PITCHf/x Tool
-    url:               /stat/
-  - title:             Data & R
-    url:               /data/
+#  - title:             Prospect
+#    url:               /prospect/
+#  - title:             Stat & PITCHf/x Tool
+#    url:               /stat/
+#  - title:             Data & R
+#    url:               /data/
   - title:             MLB TODAY
     url:               /mlbtoday/
-  - title:             Other
-    url:               /other/
+#  - title:             Other
+#    url:               /other/
   - title:             Reference
     url:               /reference/
   - title:             Football Link
