@@ -7,12 +7,15 @@ noindex: true
 
 > Why you can't shift on LeMahieu
 
-Mike Petriello(Mike Petriello is an analyst for MLB.com)분석가가 쓴 칼럼의 부분입니다. [Why you can't shift on LeMahieu](https://www.mlb.com/news/why-you-cant-shift-on-dj-lemahieu/)옆 링크로 원본을 볼 수있습니다.
+[Why you can't shift on LeMahieu](https://www.mlb.com/news/why-you-cant-shift-on-dj-lemahieu/)Mike Petriello(Mike Petriello is an analyst for MLB.com)분석가가 쓴 칼럼의 부분입니다.
 간단히 필요한것만 요약하겠습니다.
+{:.faded}
 
 ![DJ Shift](https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/svrodm7byuzrffckqlvk){:data-width="1440" data-height="836"}
 
-> LeMahieu is baseball's most un-shiftable man.
+LeMahieu is baseball's most un-shiftable man.
+{:.faded}
+
 > 가장 시프트에 자유로웠던 선수였다고합니다.
 
 > Two plate appearances ending with a shift! In five years! Think about that.
@@ -32,7 +35,6 @@ Lowest percent of pitches with a shift on, 2016-20 (active players at least 2,50
 0.2% -- Christian Vázquez
 0.2% -- Orlando Arcia
 0.2% -- Travis Jankowski
-```
 
 마지막 시프트는 2016년 7월 18일 쿠어스 필드
 
@@ -64,56 +66,3 @@ https://www.baseballprospectus.com/news/article/61566/baseball-therapy-the-mirro
 
 새들러 소개
 https://ladodgers.tistory.com/31033
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`build.gradle`
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/5yfB8-N57xY' frameborder='0' allowfullscreen></iframe></div>
-
-## link
-* [Graph]
-
-[Graph]: https://gmlwjd9405.github.io/2018/08/13/data-structure-graph.html
-
-![Dark Mode](/assets/img/blog/dark-mode.jpg){:data-width="1440" data-height="836"}
-*This is what it looks like!*
-{:.figure}
