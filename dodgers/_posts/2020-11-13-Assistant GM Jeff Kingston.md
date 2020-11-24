@@ -28,5 +28,3 @@ In terms of the future, it’s unclear if the Dodgers have any intention of movi
  -- Nov 13, 2020
 
 ---
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">i hope my kids do shit like this. <a href="https://t.co/s7wNLMs0Zm">pic.twitter.com/s7wNLMs0Zm</a></p>&mdash; Victor Samuel Huckabee (@popesaintvictor) <a href="https://twitter.com/popesaintvictor/status/1331102090610012161?ref_src=twsrc%5Etfw">November 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
