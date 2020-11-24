@@ -29,6 +29,8 @@ In terms of the future, it’s unclear if the Dodgers have any intention of movi
 
 ---
 
+![instagram](BpKjlo-B4uI)
+
 <div>
   <iframe
     src="https://instagram.com/p/CH8XDHwBi9q/embed/"
@@ -37,6 +39,49 @@ In terms of the future, it’s unclear if the Dodgers have any intention of movi
     scrolling="no"
     allowtransparency
     width="320"
-    height="320"
-  ></iframe>
+    height="320"></iframe>
 </div>
+
+ㅎㅎ
+
+
+<div>
+  <iframe
+    src="https://instagram.com/p/CH8XDHwBi9q/"
+    frameborder="0"
+    allowfullscreen
+    scrolling="no"
+    allowtransparency
+    width="320"
+    height="320"></iframe>
+</div>
+
+ㄴㄴ
+
+<code>
+  <iframe
+    id="instagram-embed-0"
+    class="instagram-media instagram-media-rendered"
+    style="background: white; max-width: 658px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid #dbdbdb; box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;"
+    src="https://www.instagram.com/p/CBVlsG8AcB7/embed?utm_source=ig_embedembed/captioned/"
+    scrolling="no"
+    data-instgrm-payload-id="instagram-media-payload-0"
+    height="750"
+    frameborder="0">
+    <span
+      data-mce-type="bookmark"
+      style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;"
+      class="mce_SELRES_start"></span>
+    <span
+      data-mce-type="bookmark"
+      style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;"
+      class="mce_SELRES_start"></span>
+    <span
+      data-mce-type="bookmark"
+      style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;"
+      class="mce_SELRES_start"></span>
+  </iframe>
+</code>
+
+
+---
