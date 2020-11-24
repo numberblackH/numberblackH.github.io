@@ -60,16 +60,14 @@ menu:
     url:               /stat/
   - title:             Data & R
     url:               /data/
+  - title:             MLB TODAY
+    url:               /mlbtoday/
   - title:             Other
     url:               /other/
   - title:             Reference
     url:               /reference/
   - title:             Football Link
     url:               /link/
-  - title:             MLB TODAY
-    url:               /mlbtoday/
-  - title:             Dodgers TODAY
-    url:               /dodgerstoday/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
