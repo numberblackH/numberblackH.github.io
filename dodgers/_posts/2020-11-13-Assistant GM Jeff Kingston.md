@@ -74,7 +74,7 @@ In terms of the future, it’s unclear if the Dodgers have any intention of movi
 <div>
   <iframe
     src="https://instagram.com/p/BpKjlo-B4uI/embed"
-    frameborder="0"
+    frameborder="1"
     allowfullscreen
     scrolling="no"
     allowtransparency
@@ -88,13 +88,13 @@ dd
 <div>
   <iframe
     src="https://www.instagram.com/p/CGlF23fFeyr/embed"
-    frameborder="0"
+    frameborder="1"
     allowfullscreen
-    scrolling="no"
+    scrolling="yes"
     allowtransparency
     width="320"
-    height="320"
-  ></iframe>
+    height="320">
+  </iframe>
 </div>
 
 ㄴㅇㄹㄴㄹㅇㄹ
