@@ -5,9 +5,7 @@ date: 2020-11-01 08:26:28 -0400
 noindex: true
 ---
 
-> Why you can't shift on LeMahieu
-
-[Why you can't shift on LeMahieu](https://www.mlb.com/news/why-you-cant-shift-on-dj-lemahieu/)Mike Petriello(Mike Petriello is an analyst for MLB.com)분석가가 쓴 칼럼의 부분입니다.
+[Why you can't shift on LeMahieu](https://www.mlb.com/news/why-you-cant-shift-on-dj-lemahieu/) Mike Petriello(Mike Petriello is an analyst for MLB.com)분석가가 쓴 칼럼의 부분입니다.
 간단히 필요한것만 요약하겠습니다.
 {:.faded}
 
@@ -16,11 +14,12 @@ noindex: true
 LeMahieu is baseball's most un-shiftable man.
 {:.faded}
 
-> 가장 시프트에 자유로웠던 선수였다고합니다.
+가장 시프트에 자유로웠던 선수였다고합니다.
 
-> Two plate appearances ending with a shift! In five years! Think about that.
+Two plate appearances ending with a shift! In five years! Think about that.
 
 5년간 단 2회라고합니다.
+{:.faded}
 
 The last "real" shift we could find came back on July 18, 2016, when the Rays did it to him for a handful of pitches in Coors Field.
 
