@@ -29,7 +29,7 @@ In terms of the future, it’s unclear if the Dodgers have any intention of movi
 
 ---
 
-<div class="fb-post" data-href="https://www.facebook.com/20531316728/posts/10154009990506729/" data-show-text="true" data-width=""><blockquote cite="https://www.facebook.com/20531316728/posts/10154009990506729/" class="fb-xfbml-parse-ignore">게시: <a href="https://www.facebook.com/facebookapp/">Facebook App</a>&nbsp;<a href="https://www.facebook.com/20531316728/posts/10154009990506729/">2015년 8월 27일 목요일</a></blockquote></div>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmanchesterunited%2Fposts%2F10158165843602746&show_text=true&width=552&height=490&appId" width="552" height="490" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 ---
 
