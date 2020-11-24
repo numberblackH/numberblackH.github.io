@@ -24,7 +24,19 @@ Kingston was hired by the Dodgers during the winter of 2018, filling the vacancy
 
 The Dodgers hired Jeff Kingston away from the Seattle Mariners where he had spent 9 years previously. Kingston also served as the Padres director of baseball operations for several years before that.
 
-In terms of the future, it’s unclear if the Dodgers have any intention of moving back to a more traditional front-office structure. Zaidi leaving for San Francisco left them in a spot where they have no true General Manager, but it does not seem like they are headed toward filling that position any time soon.
+In terms of the future, it’s unclear if the Dodgers have any intention of moving back to a more traditional front-office structure. Zaidi leaving for San Francisco left them in a spot where they have no true General Manager, but it does not seem like they are headed toward filling that position any time soon.   
  -- Nov 13, 2020
 
 ---
+
+<div>
+  <iframe
+    src="https://instagram.com/p/CH8XDHwBi9q/embed/"
+    frameborder="0"
+    allowfullscreen
+    scrolling="no"
+    allowtransparency
+    width="320"
+    height="320"
+  ></iframe>
+</div>
