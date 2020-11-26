@@ -2,7 +2,6 @@
 title: Assistant GM Jeff Kingston
 layout: post
 date: 2020-11-13 07:26:28 -0400
-description: >
 noindex: true
 ---
 

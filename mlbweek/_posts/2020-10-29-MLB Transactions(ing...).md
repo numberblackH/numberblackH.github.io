@@ -2,7 +2,6 @@
 layout: post
 title: MLB Transactions(ing...)
 date: 2020-10-29 08:26:28 -0400
-description: >
 noindex: true
 ---
 

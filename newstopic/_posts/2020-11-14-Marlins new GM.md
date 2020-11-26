@@ -2,7 +2,6 @@
 layout: post
 title: Marlins new GM
 date: 2020-11-14 08:26:28 -0400
-description: >
 noindex: true
 ---
 

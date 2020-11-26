@@ -62,8 +62,8 @@ menu:
 #    url:               /data/
   - title:             MLB WEEK
     url:               /mlbweek/
-#  - title:             Other
-#    url:               /other/
+  - title:             Other
+    url:               /other/
   - title:             Reference
     url:               /reference/
   - title:             Football Link
