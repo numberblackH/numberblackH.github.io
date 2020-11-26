@@ -44,14 +44,15 @@ Here's his agent, Scott Boras, attempting to explain away some 2018 Harper troub
 
 But while the shift may have begun as a way to steal singles from lefty hitters, it's most effective when used as a mind game, when you can make dangerous hitters choose to turn themselves into something less than their best versions. Remember back in Spring Training, when a few teams deployed four-man outfields against Harper? His Philadelphia mates summed up the situation best:
 
-"As soon as you try to do something different, they win,” Phillies first baseman Rhys Hoskins said. “If I’m trying to hit a ground ball to the right side, then they’ve done their job and I’m not doing mine."
-
-That's exactly right. That's what Gallo learned, and that's what Ramírez learned. Maybe we can see if Harper did the same, because when you look at the pre- and post-July 27 heatmaps, it's pretty clear that the rate at which he's pulling the ball has changed greatly.
-
 좌타자로부터 안타를 뺏기 위해 시프트를 시작했을지 모르지만, 위협적인 타자가 그들이 가장 잘하는 것이 아니라 다른것을 하게 하도록 시프트가 사용될 때 가장 효과적입니다.
 {:.faded}
 
+"As soon as you try to do something different, they win,” Phillies first baseman Rhys Hoskins said. “If I’m trying to hit a ground ball to the right side, then they’ve done their job and I’m not doing mine."
+
 "다른 것을 하려고 하는 순간 수비하는 야수가 승리합니다." 필리스 1루수 호스킨스가 말했습니다. "내가 우측으로 그라운드볼을 치려고한다면, 수비수들은 그들이 하려는 것을 해냈지만 나는 내가 하려는ㅍ것을 하지 못하게됩니다."   
+{:.faded}
+
+That's exactly right. That's what Gallo learned, and that's what Ramírez learned. Maybe we can see if Harper did the same, because when you look at the pre- and post-July 27 heatmaps, it's pretty clear that the rate at which he's pulling the ball has changed greatly.
 
 7월 27일 전후의 히트맵을 보게 되면 그가 공을 당겨치는 비율이 라미레스와 갈로가 배웠던것을 하퍼도 배우게 되었다는 것을 알 수 있게 됩니다.
 {:.faded}
@@ -91,4 +92,4 @@ Since this hot streak started on July 28, his OBP and SLG are up by a lot, and h
 
 ---
 
-하퍼는 최근들어 다른 좌타자들처럼 강하게 시프트가 걸려서 타석에서 생산이 줄었들었으나, 당겨치는 비율을 늘려 더욱 강한 타구와 시프트를 하늘로 띄우는 발사각을 높여서 해결책을 찾아가고 있나봅니다.
+하퍼는 최근 들어 다른 좌타자들처럼 강하게 시프트가 걸려서 타석에서 생산이 줄었들었으나, 당겨치는 비율을 늘려 더욱 강한 타구와 시프트를 하늘로 띄우는 발사각을 높여서 해결책을 찾아가고 있나봅니다.

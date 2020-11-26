@@ -50,8 +50,8 @@ author:
 menu:
   - title:             Dodgers
     url:               /dodgers/
-  - title:             News
-    url:               /news/
+  - title:             News Topic
+    url:               /newstopic/
   - title:             Column
     url:               /column/
 #  - title:             Prospect
@@ -60,8 +60,8 @@ menu:
 #    url:               /stat/
 #  - title:             Data & R
 #    url:               /data/
-  - title:             MLB TODAY
-    url:               /mlbtoday/
+  - title:             MLB WEEK
+    url:               /mlbweek/
 #  - title:             Other
 #    url:               /other/
   - title:             Reference
