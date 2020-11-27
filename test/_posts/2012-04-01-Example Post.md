@@ -6,15 +6,15 @@ tags: [algo, data structure, graph]
 
 > MLB TODAY
 
-## image
-![Dark Mode](/assets/img/blog/dark-mode.jpg){:data-width="1440" data-height="836"}
-*This is what it looks like!*
-{:.figure}
-
 `build.gradle`
 ```
 
 ```
+
+## image
+![Dark Mode](/assets/img/blog/dark-mode.jpg){:data-width="1440" data-height="836"}
+*This is what it looks like!*
+{:.figure}
 
 ## gif
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
