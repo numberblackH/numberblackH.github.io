@@ -91,3 +91,7 @@ Lizzie Murphy and Lizzie Arlington -- First women to play professional baseball
   &mdash; New York Yankees (@Yankees)
   <a href="https://twitter.com/Yankees/status/1327296311490715655">Nov 14, 2020</a>
 </blockquote>
+
+---
+
+누군가 이 업계의 최초가 되고 벽들을 하나 하나 깨고 있습니다. 말린스를 응원하겠습니다. 벽이 하나 하나 깨지고 있다는건 MLB의 발전이기 때문입니다.

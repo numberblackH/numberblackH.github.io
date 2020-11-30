@@ -63,16 +63,16 @@ On Tuesday morning, Theo Epstein resigned from his role as president of baseball
 [10 of Epstein's best moments with the Cubs](https://www.mlb.com/cubs/news/theo-epstein-s-best-moments-with-cubs) - Jordan Bastian(Jordan Bastian covers the Cubs for MLB.com)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}
 
-10) Signing Ben Zobrist
-9) Finding a leadoff man in Dexter Fowler
-8) Acquiring Kyle Hendricks
-7) Bringing David Ross into the fold
-6) Hiring Maddon as manager
-5) Drafting Kris Bryant
-4) Getting Anthony Rizzo back
-3) The Lester signing
-2) The Jake Arrieta trade
-1) Ending the 108-year drought
+10) Signing Ben Zobrist   
+9) Finding a leadoff man in Dexter Fowler   
+8) Acquiring Kyle Hendricks   
+7) Bringing David Ross into the fold   
+6) Hiring Maddon as manager   
+5) Drafting Kris Bryant   
+4) Getting Anthony Rizzo back   
+3) The Lester signing   
+2) The Jake Arrieta trade   
+1) Ending the 108-year drought   
 
 팀을 빌딩하는데 훌륭한 영입들이 많았습니다. 코어로 선택했던 헨드릭스와 리조는 여전히 컵스의 로스터 중십입니다.
 {:.faded}
@@ -121,7 +121,7 @@ If it is baseball to which he decides to return, whenever and wherever he decide
   <a href="https://twitter.com/Cubs/status/1329878507506311174">Nov 18, 2020</a>
 </blockquote>
 
-Theo Epstein Career Notes in Chicago Cubs
+### Theo Epstein Career Notes in Chicago Cubs
 : Chicago Cubs president of baseball operations.(2011-PRESENT)
 : 5 POSTSEASON APPEARANCES
 : 3 DIVISION TITLES
@@ -133,4 +133,6 @@ Theo Epstein Career Notes in Chicago Cubs
 
 ---
 
-엡스타인이 15년 포스트시즌 진출 이후 16년 월드시리즈 타이틀 따내고 정말 왕조를 만들어낼거같은 행보였습니다. 수 많은 준비된 유망주와 여유로운 페이롤로 앞이 밝은 팀이었죠. 그런데 채프먼과 호세 퀸타나 트레이드때 많은 야수 유망주를 유출하면서 윈나우를 계속 해갔고 러셀의 망함과 헤이워드의 악성계약으로 선수들 페이롤이 늘어나면서 유연성있는 운영이 어려워지고 결국에는 지금 지점에 이르게된 점은 정말 아쉽습니다. 이후에 올라온 유망주들이 모두 성공하지는 못했습니다. 자체 투수를 육성하지 못했고 이로 인해 결국 지속가능한 팀을 만들지는 못했습니다. 윈나우와 팜을 동시에 진행하기는 정말 어려운일입니다. 엡스타인이 보여주었던 컵스의 행보에 대해 존경을 표합니다.
+엡스타인이 15년 포스트시즌 진출 이후 16년 월드시리즈 타이틀 따내고 정말 왕조를 만들어낼거같은 행보였습니다. 수 많은 준비된 유망주와 여유로운 페이롤로 앞이 밝은 팀이었죠.   
+그런데 채프먼과 호세 퀸타나 트레이드때 많은 야수 유망주를 유출하면서 윈나우를 계속 해갔고 러셀의 망함과 헤이워드의 악성계약으로 선수들 페이롤이 늘어나면서 유연성있는 운영이 어려워지고 결국에는 지금 지점에 이르게된 점은 정말 아쉽습니다. 이후에 올라온 유망주들이 모두 성공하지는 못했습니다. 자체 투수를 육성하지 못했고 이로 인해 결국 지속가능한 팀을 만들지는 못했습니다. 엡스타인 투수 팜 그리고 투수 파트 부분에 많은 돈을 투자하여 새로운 시스템을 도입하고 있었습니다.    
+이렇게 윈나우와 팜을 동시에 진행하기는 정말 어려운일입니다. 엡스타인이 보여주었던 컵스의 행보에 대해 존경을 표합니다.

@@ -25,7 +25,7 @@ It signaled the end of one of the great eras in Cubs history, but also the begin
 
 ---
 
-## who is GM?
+## Who is GM?
 
 [Cubs searching for GM from outside the club](https://www.mlb.com/cubs/news/jed-hoyer-on-general-manager-search) Jordan Bastian(Jordan Bastian covers the Cubs for MLB.com)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}
@@ -48,7 +48,7 @@ Chris Valaika가 David Ross의 스태프로 새로운 보조 타격코치로 합
 
 ---
 
-## what is biggest question?
+## What is biggest question?
 
 [Cubs' biggest questions as Hoyer takes over](https://www.mlb.com/cubs/news/jed-hoyer-cubs-face-offseason-questions) Jordan Bastian(Jordan Bastian covers the Cubs for MLB.com)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}
@@ -80,7 +80,7 @@ With so many uncertainties still in play for the 2021 season, Hoyer said there i
 
 The frustrations with the Cubs' lineup are heightened by the fact that there have been little changes to the group in the past few winters. And as the cast has remained relatively the same, the contact rate has gone from 76 percent in '18 to 73.8 percent in '19 to 72.8 percent in '20. Unsurprisingly, the strikeout rate climbed in each of the past two years as well.
 
-지난 몇 번의 겨울동안 변화가 거의 없었다는 사실로 컵스 라인업의 좌절감은 고조된다. 컨택비율이 18년 76% 19년 73.8% 20년 72.8%로 점점 떨어졌다. 놀랍지않게도, 삼진비율은 지난 2년동안 상승했다.
+지난 몇 번의 겨울동안 변화가 거의 없었다는 사실로 컵스 라인업의 좌절감은 고조됩니다. 컨택비율이 18년 76% 19년 73.8% 20년 72.8%로 점점 떨어졌으며 놀랍지않게, 삼진비율은 지난 2년동안 상승했습니다.
 {:.faded}
 
 ---
@@ -94,7 +94,7 @@ Starting pitching
 Three of the Cubs' starting pitchers from last season -- Tyler Chatwood, Jon Lester and José Quintana -- are on the open market. While Chicago has one of the game's stronger duos in Yu Darvish and Kyle Hendricks, the team will need to add arms in the coming months. Alec Mills and Adbert Alzolay are two internal options primed for jobs, but there is an opening in the Major League staff and more depth is needed behind the top five.
 
 선발 투수   
-작년 선발투수중 3명 -- Tyler Chatwood, Jon Lester and José Quintana가 fa로 나갔습니다. 컵스의 강력한 듀오 Yu Darvish and Kyle Hendricks에 오프시즌에 투수들을 추가가 필요합니다. Alec Mills and Adbert Alzolay 2명의 내부 옵션이 있습니다.
+: 작년 선발투수중 3명 -- Tyler Chatwood, Jon Lester and José Quintana가 fa로 나갔습니다. 컵스의 강력한 듀오 Yu Darvish and Kyle Hendricks에 오프시즌에 투수들을 추가가 필요합니다. Alec Mills and Adbert Alzolay 2명의 내부 옵션이 있습니다.
 {:.faded}
 
 Impact bat   
@@ -138,14 +138,14 @@ Andrew Chafin, Tyler Chatwood, Billy Hamilton, Jeremy Jeffress, Jason Kipnis, Ca
 
 ---
 
-여담1.. 호이어가 Padres GM 시절에 Boston GM인 엡스타인에게 애드리안 곤잘레스를 팔면서 리조를 무조건 원했다고 합니다. 시간이 흘러 컵스에 와서 호이어는 코어로 리조를 트레이드로 데려오게됩니다.   
-여담2.. 호이어는 호세 퀸타나 트레이드에 지금은 White Sox와 장기계약을 맺은 Eloy를 포함시키지않고 싶다고 했답니다.
+여담1.. 호이어가 Padres GM 시절에 Boston GM인 엡스타인에게 애드리안 곤잘레스를 팔면서 리조를 무조건 원했다고 합니다. 시간이 흘러 컵스에 와서 호이어는 자신이 Padres로 데려왔던 리조를 다시 또 트레이드로 데려오게됩니다. 리조는 이렇게 컵스의 4번 타자이자 리더가 됩니다.  
+여담2.. 호이어는 호세 퀸타나 트레이드에 지금은 White Sox와 장기계약을 맺은 Eloy를 포함시키지않고 싶다고 했답니다.   
 엡스타인과 호이어과 월드시리즈를 따냈지만 헤이워드의 쓰레기 계약과 러셀의 갑작스러운 망함과 동시에 투수 강화를 위한 훌륭한 타자 유망주들의 소모가 지금의 컵스의 상황을 이렇게 만들게 되었죠. 하지만 컵스는 아직 변화할 기회가 있고 돈도 있고 여전히 훌륭한 자원들이 많은 프랜차이즈입니다. 호이어의 첫 오픈시즌은 해야될 것도 많고 페이롤도 꽉 차있어, 매우 어려운 오프시즌이 될겁니다. KB나 슈와버가 논텐더 후보로도 불리고 첫 오픈 시즌에 그가 어떤 무브를 보여줄지 기대됩니다. 호이어와 컵스가 어떤 방향으로 향하든 그들의 행보가 기대됩니다. 호이어는 과연 컵스를 지속가능한 강팀으로 만들 수 있을까요? GO Cubs!!
 
 ---
 
-엡스타인에 대한 많은 글들이 있습니다.
-[As Theo Epstein Departs, What Will Become of the Cubs?](https://blogs.fangraphs.com/as-theo-epstein-departs-what-will-become-of-the-cubs/) by Jon Tayler
-[Drafting Kris Bryant, passing on Justin Verlander: Theo Epstein’s best, worst moves](https://theathletic.com/2210222/2020/11/20/theo-epstein-cubs-trades/)  By Sahadev Sharma and Patrick Mooney
+엡스타인에 대한 많은 글들이 있습니다.   
+[As Theo Epstein Departs, What Will Become of the Cubs?](https://blogs.fangraphs.com/as-theo-epstein-departs-what-will-become-of-the-cubs/) by Jon Tayler   
+[Drafting Kris Bryant, passing on Justin Verlander: Theo Epstein’s best, worst moves](https://theathletic.com/2210222/2020/11/20/theo-epstein-cubs-trades/)  By Sahadev Sharma and Patrick Mooney   
 
 ---
