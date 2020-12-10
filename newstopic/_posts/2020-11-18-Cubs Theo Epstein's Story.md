@@ -50,7 +50,7 @@ On Tuesday morning, Theo Epstein resigned from his role as president of baseball
   <a href="https://twitter.com/Cubs/status/1328749580125679626">Nov 18, 2020</a>
 </blockquote>
 
-[In a letter to the Cubs, president Theo Epstein explains why he is stepping down](https://theathletic.com/2203590/2020/11/17/theo-epstein-letter-to-cubs/) - Jon Greenberg(Jon Greenberg is the lead columnist for The Athletic's Chicago coverage and The Athletic's founding editor.)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[In a letter to the Cubs, president Theo Epstein explains why he is stepping down](https://theathletic.com/2203590/2020/11/17/theo-epstein-letter-to-cubs/) - Jon Greenberg(Jon Greenberg is the lead columnist for The Athletic's Chicago coverage and The Athletic's founding editor)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}
 
 디 애슬레틱이 엡스타인이 컵스 동료들에게 보내는 편지를 얻었고 편지 내용입니다. 공식 발표가 있기전 그의 동료들에게 쓴 편지이고 그가 왜 사임하려고 했는지 이유가 담겨있습니다. 또한 편지에는 그가 컵스에 대한 감사와 존경이 담겨있고 그가 컵스와 함께 걸었고 만들어낸 많은 순간들과 현재와 미래 등등 여러가지 내용을 있습니다. 한 글자 한 글자 깔끔하고 그의 마음을 알 수 있네요.
