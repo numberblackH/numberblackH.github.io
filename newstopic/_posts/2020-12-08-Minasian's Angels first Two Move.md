@@ -14,7 +14,6 @@ noindex: true
 </blockquote>
 
 [Halos trade for veteran shortstop Iglesias](https://www.mlb.com/angels/news/orioles-trade-jose-iglesias-to-angels) - T.R. Sullivan(T.R. Sullivan has covered the Rangers since 1989, and for MLB.com since 2006)가 쓴 칼럼의 부분입니다.       
-
 [O's add to prospect depth with Iglesias trade](https://www.mlb.com/orioles/news/orioles-angels-jose-iglesias-trade) - Joe Trezza(Joe Trezza covers the Orioles for MLB.com)가 쓴 칼럼의 부분입니다. 두 팀의 입장을 간단히 요약만 하겠습니다.
 {:.faded}      
 
@@ -33,6 +32,7 @@ The Angels addressed a huge need at shortstop by acquiring José Iglesias from t
 ## Orioles move is rebuilding
 
 [Connolly: Trade and a non-tender again show Orioles that rebuilding’s not pretty](https://theathletic.com/2236143/2020/12/03/trade-non-tender-orioles-rebuilding/) - Dan Connolly(Dan Connolly is a senior writer covering the Baltimore Orioles for The Athletic)가 쓴 칼럼의 부분입니다.     
+{:.faded}   
 
 Elias said he scouted Stallings, the Angels’ 21st-ranked prospect by MLB.com, in 2019 when he was one of the best pitchers in the incomparable SEC. Orioles scouts added more looks at Stallings during the Angels’ instructional league this fall and saw additional improvement, making him a guy they coveted.
 
@@ -56,6 +56,7 @@ Pinto는 Elias가 모으기를 원하는 유형이고 조직에 부족한 국제
 ## Iglesias solidifies and stabilizes the Angels’ infield defense
 
 [Angels add an ‘impact defender’ with trade for shortstop José Iglesias](https://theathletic.com/2236031/2020/12/02/angels-jose-iglesias-trade/) - Fabian Ardaya(Fabian Ardaya is a staff writer for The Athletic covering the Los Angeles Angels)가 쓴 칼럼의 부분입니다.     
+{:.faded}   
 
 Iglesias figures to be a short-term solution.
 
@@ -80,12 +81,9 @@ The Angels also will be free to add to the position from outside the organizatio
 
 > Reds Trade Raisel Iglesias To Angels In Two Player Deal
 
-[Angels nab closer Raisel Iglesias from Reds](https://www.mlb.com/angels/news/raisel-iglesias-traded-to-angels) - Rhett Bollinger(Rhett Bollinger covers the Angels for MLB.com)가 쓴 칼럼의 부분입니다.  
-
-[Reds trade Iglesias to Halos, acquire Ramirez](https://www.mlb.com/reds/news/reds-acquire-noe-ramirez-for-raisel-iglesias) - Mark Sheldon(Mark Sheldon has covered the Reds for MLB.com since 2006)가 쓴 칼럼의 부분입니다.
-
-[Angels continue revamping their bullpen with trade for closer Raisel Iglesias](https://theathletic.com/2245171/2020/12/07/angels-trade-raisel-iglesias-reds/) - Fabian Ardaya(Fabian Ardaya is a staff writer for The Athletic covering the Los Angeles Angels)가 쓴 칼럼의 부분입니다.
-
+[Angels nab closer Raisel Iglesias from Reds](https://www.mlb.com/angels/news/raisel-iglesias-traded-to-angels) - Rhett Bollinger(Rhett Bollinger covers the Angels for MLB.com)가 쓴 칼럼의 부분입니다.     
+[Reds trade Iglesias to Halos, acquire Ramirez](https://www.mlb.com/reds/news/reds-acquire-noe-ramirez-for-raisel-iglesias) - Mark Sheldon(Mark Sheldon has covered the Reds for MLB.com since 2006)가 쓴 칼럼의 부분입니다.   
+[Angels continue revamping their bullpen with trade for closer Raisel Iglesias](https://theathletic.com/2245171/2020/12/07/angels-trade-raisel-iglesias-reds/) - Fabian Ardaya(Fabian Ardaya is a staff writer for The Athletic covering the Los Angeles Angels)가 쓴 칼럼의 부분입니다.   
 [Reds continue ‘reallocating resources’ with Raisel Iglesias trade](https://theathletic.com/2244995/2020/12/07/reds-continue-reallocating-resources-with-raisel-iglesias-trade/) - C. Trent Rosecrans(C. Trent Rosecrans is a senior writer for The Athletic covering the Cincinnati Reds)가 쓴 칼럼의 부분입니다. 두 팀의 입장을 간단히 요약만 하겠습니다.
 {:.faded}  
 

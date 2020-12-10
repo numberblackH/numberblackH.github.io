@@ -103,6 +103,7 @@ K% 30.9 -> 30.2
 
 [What Rockies, Reds net in four-player trade headlined by Jeff Hoffman](https://theathletic.com/2222136/2020/11/25/jeff-hoffman-rockies-reds-trade-robert-stephenson/) -- By Nick Groke and C. Trent Rosecrans
 이 함께 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+{:.faded}   
 
 The Reds were set to draft him with the 113th pick, but the Rockies sneaked in front to draft him three picks earlier.
 
