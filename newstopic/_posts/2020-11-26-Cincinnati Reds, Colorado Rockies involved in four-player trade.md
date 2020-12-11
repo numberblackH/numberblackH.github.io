@@ -22,8 +22,8 @@ noindex: true
 Rockies get: Robert Stephenson, Jameson Hannah   
 Reds get: Jeff Hoffman, Case Williams
 
-[Reds get Hoffman, top 30 prospect in trade](https://www.mlb.com/reds/news/reds-rockies-robert-stephenson-jeff-hoffman-trade) - Mark Sheldon(Mark Sheldon has covered the Reds for MLB.com since 2006)가 쓴 칼럼의 부분입니다.    
-[Rox net RHP, top 30 prospect for Hoffman](https://www.mlb.com/rockies/news/robert-stephenson-jameson-hannah-traded-to-rockies) - Thomas Harding(Thomas Harding has covered the Rockies since 2000, and for MLB.com since 2002)가 쓴 칼럼의 부분입니다. 두 팀의 입장을 간단히 요약만 하겠습니다.
+[Reds get Hoffman, top 30 prospect in trade](https://www.mlb.com/reds/news/reds-rockies-robert-stephenson-jeff-hoffman-trade) &mdash; Mark Sheldon(Mark Sheldon has covered the Reds for MLB.com since 2006)가 쓴 칼럼의 부분입니다.    
+[Rox net RHP, top 30 prospect for Hoffman](https://www.mlb.com/rockies/news/robert-stephenson-jameson-hannah-traded-to-rockies) &mdash; Thomas Harding(Thomas Harding has covered the Rockies since 2000, and for MLB.com since 2002)가 쓴 칼럼의 부분입니다. 두 팀의 입장을 간단히 요약만 하겠습니다.
 {:.faded}
 
 DENVER -- In a classic change-of-scenery trade for once highly regarded pitching prospects who became right-handed relievers, the Rockies received Robert Stephenson from the Reds in exchange for Jeff Hoffman.

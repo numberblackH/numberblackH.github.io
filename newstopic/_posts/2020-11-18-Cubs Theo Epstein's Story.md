@@ -50,7 +50,7 @@ On Tuesday morning, Theo Epstein resigned from his role as president of baseball
   <a href="https://twitter.com/Cubs/status/1328749580125679626">Nov 18, 2020</a>
 </blockquote>
 
-[In a letter to the Cubs, president Theo Epstein explains why he is stepping down](https://theathletic.com/2203590/2020/11/17/theo-epstein-letter-to-cubs/) - Jon Greenberg(Jon Greenberg is the lead columnist for The Athletic's Chicago coverage and The Athletic's founding editor)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[In a letter to the Cubs, president Theo Epstein explains why he is stepping down](https://theathletic.com/2203590/2020/11/17/theo-epstein-letter-to-cubs/) &mdash; Jon Greenberg(Jon Greenberg is the lead columnist for The Athletic's Chicago coverage and The Athletic's founding editor)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}
 
 디 애슬레틱이 엡스타인이 컵스 동료들에게 보내는 편지를 얻었고 편지 내용입니다. 공식 발표가 있기전 그의 동료들에게 쓴 편지이고 그가 왜 사임하려고 했는지 이유가 담겨있습니다. 또한 편지에는 그가 컵스에 대한 감사와 존경이 담겨있고 그가 컵스와 함께 걸었고 만들어낸 많은 순간들과 현재와 미래 등등 여러가지 내용을 있습니다. 한 글자 한 글자 깔끔하고 그의 마음을 알 수 있네요.
@@ -60,7 +60,7 @@ On Tuesday morning, Theo Epstein resigned from his role as president of baseball
 
 ## 10 of Epstein's best moments with the Cubs
 
-[10 of Epstein's best moments with the Cubs](https://www.mlb.com/cubs/news/theo-epstein-s-best-moments-with-cubs) - Jordan Bastian(Jordan Bastian covers the Cubs for MLB.com)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[10 of Epstein's best moments with the Cubs](https://www.mlb.com/cubs/news/theo-epstein-s-best-moments-with-cubs) &mdash; Jordan Bastian(Jordan Bastian covers the Cubs for MLB.com)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}
 
 10) Signing Ben Zobrist   
@@ -136,3 +136,5 @@ Theo Epstein Career Notes in Chicago Cubs
 > 엡스타인이 15년 포스트시즌 진출 이후 16년 월드시리즈 타이틀 따내고 정말 왕조를 만들어낼거 같은 행보였습니다. 수 많은 준비된 유망주와 여유로운 페이롤로 앞이 밝은 팀이었죠.   
 그런데 채프먼과 호세 퀸타나 트레이드때 많은 야수 유망주를 유출하면서 윈나우를 계속 해갔고 러셀의 망함과 헤이워드의 악성계약으로 선수들 페이롤이 늘어나면서 유연성있는 운영이 어려워지고 결국에는 지금 지점에 이르게된 점은 정말 아쉽습니다. 이후에 올라온 유망주들이 모두 성공하지는 못했습니다. 자체 투수를 육성하지 못했고 이로 인해 결국 지속가능한 팀을 만들지는 못했습니다. 그 후 엡스타인은 투수 팜 그리고 투수 파트 부분에 많은 돈을 투자하여 새로운 시스템을 도입하고 있었습니다.    
 이렇게 윈나우와 팜을 동시에 진행하기는 정말 어려운 일입니다. 엡스타인이 보여주었던 컵스의 행보에 대해 존경을 표합니다.
+
+---

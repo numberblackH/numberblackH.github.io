@@ -11,6 +11,11 @@ tags: [algo, data structure, graph]
 
 ```
 
+## Link
+
+[Why you can't shift on LeMahieu](https://www.mlb.com/news/why-you-cant-shift-on-dj-lemahieu/) &mdash;Mike Petriello(Mike Petriello is an analyst for MLB.com)분석가가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+{:.faded}
+
 ## image
 ![Dark Mode](/assets/img/blog/dark-mode.jpg){:data-width="1440" data-height="836"}
 *This is what it looks like!*
