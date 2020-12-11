@@ -13,6 +13,9 @@ noindex: true
   <a href="https://twitter.com/Ken_Rosenthal/status/1334289375031681026">DEC 3, 2020</a>
 </blockquote>
 
+Angels get: SS José Iglesias    
+Orioles get: RHP Garrett Stallings, RHP Jean Pinto
+
 [Halos trade for veteran shortstop Iglesias](https://www.mlb.com/angels/news/orioles-trade-jose-iglesias-to-angels) - T.R. Sullivan(T.R. Sullivan has covered the Rangers since 1989, and for MLB.com since 2006)가 쓴 칼럼의 부분입니다.       
 [O's add to prospect depth with Iglesias trade](https://www.mlb.com/orioles/news/orioles-angels-jose-iglesias-trade) - Joe Trezza(Joe Trezza covers the Orioles for MLB.com)가 쓴 칼럼의 부분입니다. 두 팀의 입장을 간단히 요약만 하겠습니다.
 {:.faded}      
@@ -81,6 +84,9 @@ The Angels also will be free to add to the position from outside the organizatio
 
 > Reds Trade Raisel Iglesias To Angels In Two Player Deal
 
+Angels get: RHP Raisel Iglesias   
+Reds get: RHP Noé Ramirez, player to be named(IF Leonardo Rivas)
+
 [Angels nab closer Raisel Iglesias from Reds](https://www.mlb.com/angels/news/raisel-iglesias-traded-to-angels) - Rhett Bollinger(Rhett Bollinger covers the Angels for MLB.com)가 쓴 칼럼의 부분입니다.     
 [Reds trade Iglesias to Halos, acquire Ramirez](https://www.mlb.com/reds/news/reds-acquire-noe-ramirez-for-raisel-iglesias) - Mark Sheldon(Mark Sheldon has covered the Reds for MLB.com since 2006)가 쓴 칼럼의 부분입니다.   
 [Angels continue revamping their bullpen with trade for closer Raisel Iglesias](https://theathletic.com/2245171/2020/12/07/angels-trade-raisel-iglesias-reds/) - Fabian Ardaya(Fabian Ardaya is a staff writer for The Athletic covering the Los Angeles Angels)가 쓴 칼럼의 부분입니다.   
@@ -103,7 +109,24 @@ As he said after the non-tender deadline, Krall said the move was about “reall
   <a href="https://twitter.com/CespedesBBQ/status/1336007892315607042">DEC 8, 2020</a>
 </blockquote>
 
-> 레즈는 9.125M 마무리 Raisel Iglesias를 트레이드 할 수밖에 없는 안타까운 스몰마켓팀의 모습이네요. 레즈는 올해 fa시장에서 여러곳을 보강했는데 1년 달리고 다시 페이롤을 줄여야하는 현실이 안타깝습니다. 에인절스는 훌륭한 클로저를 작은 대가로 영입했습니다.
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  &mdash; Mike Petriello (@mike_petriello)
+  <a href="https://twitter.com/mike_petriello/status/1336005144090189825">DEC 8, 2020</a>
+</blockquote>
+
+> 레즈는 9.125M 마무리 Raisel Iglesias를 트레이드 할 수밖에 없는 안타까운 스몰마켓팀의 모습이네요. 레즈는 올해 fa시장에서 여러 포지션을 보강했는데 1년 달리고 다시 페이롤을 줄여야하는 현실이 안타깝습니다. 에인절스는 훌륭한 클로저를 작은 대가로 영입했습니다.
+
+++
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  &mdash; Mark Sheldon @m_sheldon)
+  <a href="https://twitter.com/m_sheldon/status/1337158068602286083">DEC 8, 2020</a>
+</blockquote>
+
+추가로 넘어가는 선수가 공개되었습니다. IF Leonardo Rivas
+{:.faded}
 
 ---
 

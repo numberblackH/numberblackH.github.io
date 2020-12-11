@@ -146,6 +146,6 @@ Andrew Chafin, Tyler Chatwood, Billy Hamilton, Jeremy Jeffress, Jason Kipnis, Ca
 
 엡스타인에 대한 많은 글들이 있습니다. 그중에 몇 개 링크해놓겠습니다.   
 [As Theo Epstein Departs, What Will Become of the Cubs?](https://blogs.fangraphs.com/as-theo-epstein-departs-what-will-become-of-the-cubs/) by Jon Tayler   
-[Drafting Kris Bryant, passing on Justin Verlander: Theo Epstein’s best, worst moves](https://theathletic.com/2210222/2020/11/20/theo-epstein-cubs-trades/)  By Sahadev Sharma and Patrick Mooney   
+[Drafting Kris Bryant, passing on Justin Verlander: Theo Epstein’s best, worst moves](https://theathletic.com/2210222/2020/11/20/theo-epstein-cubs-trades/) by Sahadev Sharma and Patrick Mooney   
 
 ---

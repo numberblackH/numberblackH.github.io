@@ -19,6 +19,9 @@ noindex: true
   <a href="https://twitter.com/JonHeyman/status/1331666579927560193">Nov 26, 2020</a>
 </blockquote>
 
+Rockies get: Robert Stephenson, Jameson Hannah   
+Reds get: Jeff Hoffman, Case Williams
+
 [Reds get Hoffman, top 30 prospect in trade](https://www.mlb.com/reds/news/reds-rockies-robert-stephenson-jeff-hoffman-trade) - Mark Sheldon(Mark Sheldon has covered the Reds for MLB.com since 2006)가 쓴 칼럼의 부분입니다.    
 [Rox net RHP, top 30 prospect for Hoffman](https://www.mlb.com/rockies/news/robert-stephenson-jameson-hannah-traded-to-rockies) - Thomas Harding(Thomas Harding has covered the Rockies since 2000, and for MLB.com since 2002)가 쓴 칼럼의 부분입니다. 두 팀의 입장을 간단히 요약만 하겠습니다.
 {:.faded}
@@ -101,7 +104,7 @@ K% 30.9 -> 30.2
 
 ## Trade Story 'Case Williams'
 
-[What Rockies, Reds net in four-player trade headlined by Jeff Hoffman](https://theathletic.com/2222136/2020/11/25/jeff-hoffman-rockies-reds-trade-robert-stephenson/) -- By Nick Groke and C. Trent Rosecrans
+[What Rockies, Reds net in four-player trade headlined by Jeff Hoffman](https://theathletic.com/2222136/2020/11/25/jeff-hoffman-rockies-reds-trade-robert-stephenson/) &mdash; By Nick Groke and C. Trent Rosecrans
 이 함께 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}   
 

@@ -19,10 +19,10 @@ Harper has actually been red-hot for weeks -- and we might be able to explain wh
 
 If we set that July 27 date as the cutoff, he's striking out less (27% to 23%), his hard-hit rate is up (45% to 57%), and he's walking more (15% to 22%). Those are are all good things, none terribly surprising. But why?
 
-AVG/OBP/SLG OPS : .253/.366/.465, an OPS of .830 >> .250/.423/.650, an OPS of 1.073   
-K % : 27 >> 23   
-Hard Hit % : 45 >> 57   
-BB % : 15 >> 22   
+AVG/OBP/SLG OPS : .253/.366/.465, an OPS of .830 -> .250/.423/.650, an OPS of 1.073   
+K % : 27 -> 23   
+Hard Hit % : 45 -> 57   
+BB % : 15 -> 22   
 모두 좋은 방향으로 변했고, 놀랍지 않아. 왜?
 {:.faded}
 
@@ -48,7 +48,7 @@ But while the shift may have begun as a way to steal singles from lefty hitters,
 
 "As soon as you try to do something different, they win,” Phillies first baseman Rhys Hoskins said. “If I’m trying to hit a ground ball to the right side, then they’ve done their job and I’m not doing mine."
 
-"다른 것을 하려고 하는 순간 수비하는 야수가 승리합니다." 필리스 1루수 호스킨스가 말했습니다. "내가 우측으로 그라운드볼을 치려고한다면, 수비수들은 그들이 하려는 것을 해냈지만 나는 내가 하려는ㅍ것을 하지 못하게됩니다."   
+"다른 것을 하려고 하는 순간 수비하는 야수가 승리합니다." 필리스 1루수 호스킨스가 말했습니다. "내가 우측으로 그라운드볼을 치려고한다면, 수비수들은 그들이 하려는 것을 해냈지만 나는 내가 하려는것을 하지 못하게됩니다."   
 {:.faded}
 
 That's exactly right. That's what Gallo learned, and that's what Ramírez learned. Maybe we can see if Harper did the same, because when you look at the pre- and post-July 27 heatmaps, it's pretty clear that the rate at which he's pulling the ball has changed greatly.
@@ -81,7 +81,7 @@ Center/oppo since 7/28 -- 75% hard-hit rate, 25% grounder rate
 
 What you're seeing there is that he's hitting it a lot harder everywhere, and that he's also hitting it in the air more. That's a big deal, remember, because as we dug into several months ago, even at his lowest, very few batters hit the ball in the air as hard as Harper does. (His 97.4 mph exit velocity on flies and liners is currently fifth best, just behind Christian Yelich. When he pulls it in the air, that's up to 99.8 mph, essentially tied with Pete Alonso.)
 
-우리가 보고 있는 것은 그가 어디든 훨씬 더 강한 타구를 치고 있다는 것과, 또한 타구를 띄우고 있다는 것입니다. 그의 플라이타구 라이너타구 97.4mph 타구 속도는 현재 크리스찬 옐리치에 바로 뒤이어 5위다. 그가 끌어당길때 플라이볼 타구 속도는 99.8mph로, 피터 알론소와 같은 수치입니다.
+우리가 보고 있는 것은 그가 어디든 훨씬 더 강한 타구를 치고 있다는 것과, 또한 타구를 띄우고 있다는 것입니다. 그의 플라이타구 라이너타구 97.4mph 타구 속도는 현재 크리스찬 옐리치에 바로 뒤이어 5위입니다. 그가 끌어당길때 플라이볼 타구 속도는 99.8mph로, 피터 알론소와 같은 수치입니다.
 {:.faded}
 
 Since this hot streak started on July 28, his OBP and SLG are up by a lot, and his batting average is down. That's a good thing. The shift can hurt your average, and that frustrates a lot of hitters. But the worst thing they can let it do is to cause them to change their games so much that it takes away the things they do best, too. We saw Gallo and Ramírez get over that. We might be seeing Harper get over it too. After all, the opponents want him to not be himself.
