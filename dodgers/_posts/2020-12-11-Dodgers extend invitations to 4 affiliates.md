@@ -5,11 +5,11 @@ date: 2020-12-11 08:26:28 -0400
 noindex: true
 ---
 
-[Tracking new Minor League affiliates for '21](https://www.mlb.com/news/new-minor-league-affiliates-for-2021) &mdash; Ken Gurnick(Ken Gurnick has covered the Dodgers for MLB.com since 2001)가 쓴 칼럼의 부분입니다.  
+[Tracking new Minor League affiliates for '21](https://www.mlb.com/news/new-minor-league-affiliates-for-2021) &mdash; William Boor(William Boor is a reporter for MLB Pipeline)가 쓴 칼럼의 부분입니다.
 30개팀 마이너리그 정보를 확인할 수 있습니다.
 {:.faded}   
 
-[Dodgers extend invitations to 4 affiliates](https://www.mlb.com/news/new-minor-league-affiliates-for-2021) &mdash; William Boor(William Boor is a reporter for MLB Pipeline)가 쓴 칼럼의 부분입니다.     
+[Dodgers extend invitations to 4 affiliates](https://www.mlb.com/dodgers/news/dodgers-extend-minor-league-invites) &mdash; Ken Gurnick(Ken Gurnick has covered the Dodgers for MLB.com since 2001)가 쓴 칼럼의 부분입니다.        
 {:.faded}   
 
 The Dodgers on Wednesday extended invitations to keep their Minor League affiliates in Oklahoma City, Tulsa, Great Lakes and Rancho Cucamonga as part of MLB’s new player development structure.
