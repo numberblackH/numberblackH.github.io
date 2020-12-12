@@ -25,7 +25,7 @@ his curveball featured even more vertical movement in 2018 — 7.5 inches, which
 {:.faded}
 
 
-![Knebel](/image/coreyknebelcurve.png){:data-width="1440" data-height="836"}
+![Knebel](/image/coreyknebelcurve.png){:data-width="1440" data-height="836"}   
 *Knebel is on the left, Kelly is on the right*
 {:.figure}
 
