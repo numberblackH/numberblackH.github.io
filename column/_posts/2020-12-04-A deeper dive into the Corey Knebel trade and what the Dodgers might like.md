@@ -24,7 +24,8 @@ his curveball featured even more vertical movement in 2018 — 7.5 inches, which
 2018년 그의 커브의 수직 무브먼트는 — 7.5인치, 상위 8th. 평균 대비 15%의 더 떨어지고(상위 4th) 그는 이전 시즌보다 더 좋은 무브먼트(58.5 inches)를 보여주었습니다.
 {:.faded}
 
-![Knebel](http://dodgersdigest.com/wp-content/uploads/2020/12/2018-curveball-movement-Knebel-Kelly-557x500.png){:data-width="1440" data-height="836"}
+
+![Knebel](/image/coreyknebelcurve.png){:data-width="1440" data-height="836"}
 *Knebel is on the left, Kelly is on the right*
 {:.figure}
 
