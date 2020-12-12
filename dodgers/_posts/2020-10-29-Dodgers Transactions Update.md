@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dodgers Transactions(update)
+title: Dodgers Transactions Update
 date: 2020-10-29 08:26:28 -0400
 noindex: true
 ---
@@ -16,7 +16,7 @@ noindex: true
 The Dodgers declined a 2021 contract option on right-hander Jimmy Nelson, who is now a free agent. Nelson did not pitch in 2020 because of back surgery.
 
 Nelson was signed last offseason to a contract paying $750,000 with a 2021 option for $2 million or a $500,000 buyout. He was signed to provide starting pitching depth.   
- -- Oct 30, 2020
+ -- OCT 30, 2020
 
 Jimmy Nelson은 $500000를 받고 FA가 됩니다. 싼 복권인데 아무것도 못했죠.
 {:.faded}
@@ -36,7 +36,7 @@ The Dodgers outrighted outfielder and pinch-running specialist Terrance Gore to 
 예정된 수준이었고 사실 왜 40-man roster에 있었는지 모르겠습니다.
 {:.faded}
 
- -- Nov 1, 2020  
+ -- NOV 1, 2020  
 
 ---
 
@@ -49,7 +49,7 @@ Turner received a qualifying offer four years ago before re-signing with the Dod
 JT는 4년전에 QO를 4년전에 받았고 다저스와 4년 계약을 했습니다. 올해 다저스는 FA가 되는 어떤 선수에게도 QO를 하지않았습니다. (2021년 $18.9M)
 {:.faded}
 
- -- Nov 1, 2020  
+ -- NOV 1, 2020  
 
 ---
 
@@ -60,7 +60,7 @@ Dodgers added right-handed pitchers Gerardo Carrillo, Andre Jackson and Edwin Uc
 Gerardo Carrillo, Andre Jackson, Edwin Uceta, Zach Reks 40-man roster 등록
 {:.faded}
 
- -- Nov 21, 2020  
+ -- NOV 21, 2020  
 
 ---
 
@@ -99,5 +99,30 @@ Gerardo Carrillo, Andre Jackson, Edwin Uceta, Zach Reks 40-man roster 등록
 {:.faded}
 
 -- DEC 3, 2020
+
+++   
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  &mdash; Dodger Insider (@DodgerInsider)
+  <a href="https://twitter.com/DodgerInsider/status/1337442731426123776">DEC 12, 2020</a>
+</blockquote>
+
+-- DEC 12, 2020
+
+---
+
+> The Los Angeles Dodgers agreed to minor league deals with 5 Players
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  &mdash; AlaNNa Rizzo (@alannarizzo)
+  <a href="https://twitter.com/alannarizzo/status/1337554834384416768">DEC 12, 2020</a>
+</blockquote>
+
+RHP Brandon Morrow, RHP Brock Stewart, RHP Jimmy Nelson, LHP James Pazos, IF Carlos Asuaje 총 5명의 선수와 마이너 계약을 했습니다.
+{:.faded}
+
+-- DEC 12, 2020
 
 ---
