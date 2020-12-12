@@ -8,7 +8,7 @@ noindex: true
 [Why you can't shift on LeMahieu](https://www.mlb.com/news/why-you-cant-shift-on-dj-lemahieu/) &mdash;Mike Petriello(Mike Petriello is an analyst for MLB.com)분석가가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}
 
-![DJ Shift](https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/svrodm7byuzrffckqlvk){:data-width="1440" data-height="836"}
+![DJ LeMahieu](https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/svrodm7byuzrffckqlvk){:data-width="1440" data-height="836"}
 
 LeMahieu is baseball's most un-shiftable man.
 
@@ -40,12 +40,12 @@ Lowest percent of pitches with a shift on, 2016-20 (active players at least 2,50
 2016-20년 최소 2500구 이상 본 현역 선수들 중 시프트 적용이 낮은 순서
 {:.faded}
 
-![DJ Shift](https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/fdjom2n5ckqbpax6y7yo){:data-width="1440" data-height="836"}
+![DJ LeMahieu](https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/fdjom2n5ckqbpax6y7yo){:data-width="1440" data-height="836"}
 
 최근 5년간 시프트는 계속해서 증가했고, 좌타자에게는 무려 51% 증가했다는 사진 자료입니다.
 {:.faded}
 
-![DJ Shift](https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/ovtk2sqb8yaeg9irqueu){:data-width="1440" data-height="836"}
+![DJ LeMahieu](https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/ovtk2sqb8yaeg9irqueu){:data-width="1440" data-height="836"}
 
 르메이휴의 타구방향 사진입니다.
 {:.faded}

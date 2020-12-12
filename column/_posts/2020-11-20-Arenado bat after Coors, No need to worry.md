@@ -43,15 +43,15 @@ At home, over the last two seasons, Rockies hitters have had the eighth-lowest s
 
 ['Coors Field effect' shouldn't scare off teams interested in CarGo](https://www.mlb.com/rockies/news/carlos-gonzalez-is-not-a-coors-field-creation/c-159753498)
 
-Team batting stats, 2016-20
+Team batting stats, 2016-20   
 
-OPS
-Rockies (home) -- .862, best in baseball
-Rockies (road) -- .685, worst in baseball
+OPS   
+Rockies (home) -- .862, best in baseball   
+Rockies (road) -- .685, worst in baseball   
 
-Runs scored
-Rockies (home) -- 2,094, most in baseball
-Rockies (road) -- 1,465, 27th-most in baseball
+Runs scored   
+Rockies (home) -- 2,094, most in baseball   
+Rockies (road) -- 1,465, 27th-most in baseball   
 
 Still happening! This all seems compelling, though maybe a visual will sell it easier. From .862 at home to .685 on the road is a .177-point difference in OPS between home and road.
 
@@ -71,13 +71,13 @@ For what it's worth, they're not blind to this; Charlie Blackmon, in particular,
 중요한 것은, 그들은 이것에 대해 맹목적이지 않다는 것입니다; Charlie Blackmon, 특히 원정가서 연습 루틴을 바꿈으로서 이 원정 문제를 극복하려고 했습니다. 원정에서 타격을 극복하는것은 그렇게 간단한 문제가 아니거나 또는 그들의 라인업이 좋지 못하기 때문인지 아직은 큰 결과를 보여주지는 못합니다.
 {:.faded}
 
-Holliday, home OPS w/ Rockies: 1.068
-Holliday, home OPS w/ Cardinals: .895
+Holliday, home OPS w/ Rockies: 1.068   
+Holliday, home OPS w/ Cardinals: .895   
 
-His home performance away from Coors got worse. Just like you'd expect, right? Now about the road ...
+His home performance away from Coors got worse. Just like you'd expect, right? Now about the road ...   
 
-Holliday, road OPS w/ Rockies: .803
-Holliday, road OPS w/ Cardinals: .853
+Holliday, road OPS w/ Rockies: .803   
+Holliday, road OPS w/ Cardinals: .853   
 
 which got better. After he left the Rockies, he became a better road hitter. This is what happens, at least for players who still have enough of their prime remaining when they leave the Rockies. Arenado won't turn 30 until April, so he still has plenty of time to succeed.
 
@@ -122,7 +122,7 @@ If Arenado can do that with the anchor of his home field weighing him down, imag
 만약 Arenado가 홈필드의 무게감을 내려놓을 수 있다면, 그가 쿠어스 요인 없는 원정에서의 모습을 상상해봐. 만약 걱정해야될 이유가 있다면, 장기간의 이슈는 아니지만, 어깨 문제의 심각성에 대한 것일수 있습니다. 그는 여전히, 분명, 훌륭한 3루수이며, 그리고 그가 홈이 어디든 문제없이 플레이 할겁니다. 당신은 그의 배트를 걱정할 필요없습니다.
 {:.faded}
 
-> 아레나도가 쿠어스를 벗어나서 문제가 된다는 생각은 없습니다. 그는 NL 최고의 수비를 가진 3루수이며 타격도 훌륭합니다. 아마 트레이드에 문제가 된다면 그의 연봉과 2021년 후 옵트아웃이 있는 계약일겁니다.    
-다저스와 링크가 있던 선수라 칼럼을 간단하게 요약해봤습니다. 저는 다저스가 차라리 지난 4년간 연간 20M도 안되는 계약으로 훌륭한 생산을 보여준 터너와의 계약을 연장했으면 합니다.
-
 ---
+
+> 칼럼을 보다보니 그렇게 좋은 칼럼은 아닌거 같습니다. 아레나도가 쿠어스를 벗어나서 스탯때문에 문제가 된다는 생각을 해본적은 없습니다. 그는 NL 최고의 수비를 가진 3루수이며 타격도 훌륭합니다. 아마 트레이드에 문제가 된다면 그의 연봉과 2021년 후 옵트아웃이 있는 계약일겁니다.    
+다저스와 링크가 있던 선수라 칼럼을 간단하게 요약해봤습니다. 저는 다저스가 차라리 지난 4년간 연간 20M도 안되는 계약으로 훌륭한 생산을 보여준 터너와의 계약을 연장했으면 합니다.
