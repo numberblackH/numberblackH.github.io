@@ -1,28 +1,28 @@
 ---
-title: "BAE/<JOON dynamic programming 11054"
+title: "BAEKJOON dynamic programming 11054"
 date: 2013-03-01 08:26:28 -0400
 categories: algo, baekjoon, dynamic programming
 ---
 
 > [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
 
-### IDEA
+## IDEA
 dynamic programming
 : 1) 좌 우에서 최장 증가 부분 수열을 각각 구함
 : 2) 좌우의 최장 증가 부분 수열 중 최대값을 구함
 
-|-|1|5|2|1|4|3|4|5|2|1|
-|-|-|-|-|-|-|-|-|-|-|-|
-|dp|1|2|2|1|3|3|4|5|2|1|
-|dp|1|5|2|1|4|3|3|3|2|1|
+ |-|1|5|2|1|4|3|4|5|2|1|
+ |-|-|-|-|-|-|-|-|-|-|-|
+ |dp|1|2|2|1|3|3|4|5|2|1|
+ |dp|1|5|2|1|4|3|3|3|2|1|
 
-### explicit formula
+## explicit formula
 ```
 dp[0][i] : 좌측부터 i번재 항을 마지막으로 사용하는 수열 중 최대 길이
 dp[1][i] : 우측부터 i번재 항을 마지막으로 사용하는 수열 중 최대 길이
 ```
 
-### INPUT && OUTPUT
+## INPUT && OUTPUT
 ```
 수열크기
 수열정보
@@ -33,7 +33,7 @@ dp[1][i] : 우측부터 i번재 항을 마지막으로 사용하는 수열 중 �
 7
 ```
 
-### CODE
+## CODE
 ```java
 public class Main {
 	public static void main(String[] args) throws Exception {
@@ -72,4 +72,4 @@ public class Main {
 ```
 
 ### COMMENT
-* 아이디어만 생각하면 간단한 문제
+* 좌측 우측 따로 생각만 하면 바로 해결가능한 문제
