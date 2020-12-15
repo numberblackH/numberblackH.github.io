@@ -1,26 +1,22 @@
 ---
 title: "BAEKJOON 11054 dynamic programming"
 date: 2013-03-01 08:26:28 -0400
-categories: algo, baekjoon, dynamic programming
+categories: baekjoon, dynamic programming
 ---
 
-## [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+> [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
 
 ## IDEA
 dynamic programming
 : 1) 좌 우에서 최장 증가 부분 수열을 각각 구함
 : 2) 좌우의 최장 증가 부분 수열 중 최대값을 구함
+: 3) dp[0][i] : 좌측부터 i번재 항을 마지막으로 사용하는 수열 중 최대 길이    
+ dp[1][i] : 우측부터 i번재 항을 마지막으로 사용하는 수열 중 최대 길이
 
  |-|1|5|2|1|4|3|4|5|2|1|
  |-|-|-|-|-|-|-|-|-|-|-|
  |dp|1|2|2|1|3|3|4|5|2|1|
  |dp|1|5|2|1|4|3|3|3|2|1|
-
-## explicit formula
-```
-dp[0][i] : 좌측부터 i번재 항을 마지막으로 사용하는 수열 중 최대 길이
-dp[1][i] : 우측부터 i번재 항을 마지막으로 사용하는 수열 중 최대 길이
-```
 
 ## INPUT && OUTPUT
 ```
