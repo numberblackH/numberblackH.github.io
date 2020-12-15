@@ -1,10 +1,10 @@
 ---
-title: "BAEKJOON dynamic programming 11054"
+title: "BAEKJOON 11054 dynamic programming"
 date: 2013-03-01 08:26:28 -0400
 categories: algo, baekjoon, dynamic programming
 ---
 
-> [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
+## [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)
 
 ## IDEA
 dynamic programming
@@ -42,19 +42,21 @@ public class Main {
 		int[] numbers = new int[n];
 		int[][] dp = new int[2][n];
 		StringTokenizer st = new StringTokenizer(br.readLine());
+
 		for (int i = 0; i < n; i++) {
 			numbers[i] = Integer.parseInt(st.nextToken());
 			dp[0][i] = 1;
 			dp[1][i] = 1;
 		}
+
 		for (int i = 1; i < n; i++) {
 			for (int j = 0; j < i; j++) {
 				if (numbers[j] < numbers[i]) {
 					dp[0][i] = Math.max(dp[0][i], dp[0][j] + 1);
 				}
-
 			}
 		}
+
 		for (int i = n - 2; i >= 0; i--) {
 			for (int j = n - 1; j > i; j--) {
 				if (numbers[j] < numbers[i]) {
@@ -62,6 +64,7 @@ public class Main {
 				}
 			}
 		}
+
 		int answer = 0;
 		for (int i = 0; i < n; i++) {
 			answer = Math.max(answer, dp[0][i] + dp[1][i]);
