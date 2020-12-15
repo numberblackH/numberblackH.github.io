@@ -39,6 +39,6 @@ Knebel’s curveball has been one of the most effective from a pitcher since the
 Knebel의 커브는 2016년이후로 가장 효과적인 투수 중 한명입니다. 그의 커브는 .197 wOBA만 허용했고, 이는 릴리버중에 하위 10th입니다. 그의 커브는 그 기간동안 단 4개의 장타를 허용했으며 모두 2루타입니다. 그는 릴리버를 떠나 가장 좋고 효과적인 커브를 가진 투수입니다.
 {:.faded}   
 
-> 줍줍해서 고쳐쓰기를 템파시절부터 잘하는 프리드먼인데 Corey Kneel의 내년이 기대가 됩니다.
-
 ---
+
+> Brad Hand, Trevor May, Liam Hendriks 중에 누군가 영입할거라고 생각했는데 Pedro Baez 자리와 Blake Treinen 두자리 중에 한자리는 Corey Knebel으로 채우네요. 줍줍해서 고쳐쓰기를 템파시절부터 잘하는 프리드먼인데 Corey Knebel의 내년이 기대가 됩니다. 
