@@ -1,5 +1,5 @@
 ---
-title: "BAEKJOON 11054 dynamic programming"
+title: "BAEKJOON 11054 Dynamic Programming"
 date: 2013-03-01 08:26:28 -0400
 categories: baekjoon, dynamic programming
 ---
