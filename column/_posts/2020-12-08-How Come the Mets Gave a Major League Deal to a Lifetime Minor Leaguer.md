@@ -8,117 +8,84 @@ noindex: true
 [How Come the Mets Gave a Major League Deal to a Lifetime Minor Leaguer?](https://www.si.com/mlb/2020/12/08/new-york-mets-pitcher-sam-mcwilliams) &mdash; Tom Verducci(Tom Verducci is Sports Illustrated’s senior baseball writer and a three-time National Sportswriter of the Year (2014, 2015 and 2016))가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}   
 
-### The Mets won a bidding war for Sam McWilliams, who's never pitched in the bigs and posted an 8.18 ERA in Triple A last year.
+## The Mets won a bidding war for Sam McWilliams, who's never pitched in the bigs and posted an 8.18 ERA in Triple A last year.
+
+## 메츠가 빅리그 피칭이 아예 없고 AAA에서 8.18 ERA를 기록한 투수 Sam McWilliams 쟁탈전에서 승리했습니다.
+{:.faded}  
+
+![Sam McWilliams](https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTc3MzU0OTc5ODk4NTY2Mzkz/sam-mcwilliams-full-cover.webp){:data-width="1440" data-height="836"}
+*Mary DeCicco/MLB Photos/Getty Images*
+{:.figure}
 
 It may sound odd that McWilliams attracted so much interest and money without throwing a competitive pitch in 2020. Actually, the interest happened because he did not throw a competitive pitch this year. McWilliams spent the season at the Rays’ alternate camp in Port Charlotte, Fla. It was there that he changed his pitching style and collected pitch-tracking data on his phone that he could show to other teams.
 
-Tampa Bay is regarded as one of the most advanced pitching organizations in baseball. Among the undervalued pitchers they acquired and turned into successful big league pitchers are Tyler Glasnow, Pete Fairbanks, Ryan Yarbrough, Nick Anderson, Colin Poche and Ryan Thompson. What MIT is to engineering majors the Rays are to pitchers. There is a halo effect. McWilliams’s value was enhanced by his development in the Rays’ system.
-
-“Definitely,” he says. “The Rays in general were great for me, in the sense that getting traded over there after not being exposed to too much [information] before. Over the past two or three years there everything just kind of blossomed for me. I developed a much better understanding about pitching, especially what we can’t see with the naked eye.”
-
-One executive from a club not involved in the bidding admitted he was surprised that the Mets gave McWilliams $750,000 and a major league deal. As the executive clicked away at keys to summon reports on McWilliams from the team’s proprietary database, he said, “All the pitch characteristics and info under the hood are just okay. Fastball 94 [mph] … slider can be really good, but throws it only 38% of the time … has all his options left, which is good … decent results …
-
-“All the stuff grades out to around average to slightly below average. If the idea is to create depth, it’s a good move. These days you need 20-some odd pitchers on hand who you know are capable of competing in a major league game right now. I know Sandy is looking to improve their depth, so that fits. But he’d be about 20th on most teams from that depth standpoint.”
-
-The Mets are betting McWilliams is much more—and they beat out many other teams who were ready to make the same bet.
-
-McWilliams’s path to the Mets covers seven seasons, five organizations, two trades and one failed cameo. It began in 2014 with the second scrimmage of his senior year at Beech High School in Hendersonville, Tenn. The opposing pitcher was Justus Sheffield of Tullahoma High, a highly touted Vanderbilt recruit who would be drafted 31st overall that year by the Cleveland Indians. About two dozen scouts flocked to the scrimmage. They noticed the less heralded McWilliams, a 6-foot-7 right-hander who could throw in the low 90s and had committed to Tennessee Tech.
-
-The Philadelphia Phillies selected McWilliams in the eighth round of the draft–the only high school player they chose among their first 27 picks that year. McWilliams signed for $200,000 and headed for rookie ball in Clearwater, Fla. At 18 years old, he was the only player on the team signed out of high school. Alone and unsure, he cried when he first arrived.
-
-A starting pitcher, McWilliams spent two seasons at Clearwater without distinction, especially when measured by his ability to miss bats. He averaged 4.8 strikeouts per nine innings. In November of 2015, in his first move as Phillies general manager, Matt Klentak traded McWilliams to Arizona for veteran pitcher Jeremy Hellickson, who would make 32 starts for the 2016 Phillies and lead them in wins (12).
-
-Two and a half years later, in May 2018, Arizona traded McWilliams and Poche to Tampa Bay to complete a three-way deal that sent Steven Souza Jr. to the Diamondbacks. Seven months after that, Kansas City selected McWilliams in the Rule 5 draft. But the Royals returned McWilliams to Tampa Bay after watching him yield 10 runs in 4 2/3 spring training innings.
-
-That year, 2019, McWilliams pitched well at Double-A Montgomery (6–3, 2.05) to earn a promotion to Triple-A Durham. It did not go well. He gave up 72 hits in 44 innings, leading to that ugly ERA (8.18) and a 1–6 record.
-
-After five years, four teams and 535 pro innings with a 3.85 ERA, McWilliams was just another fringe starting pitcher in a game that increasingly values velocity and swing-and-miss stuff. He averaged seven strikeouts per nine innings.
+McWilliams가 2020년에 피칭도 하지 않았고 많은 관심과 돈을 끌어모았다는 것은 이상하게 들릴지도 모릅니다. 사실, 그가 올해 피칭을 하지 않았기 때문에 이런 관심이 발생했습니다. McWilliams는 시즌을 레이스의 대체 캠프인 Port Charlotte, Fla에서 보냈습니다. 그는 그곳에서 그의 피칭 스타일을 바꿨고 그가 피치 트레킹 데이터를 그가 다른 팀에게 보여줄 수 있게끔 그의 폰에 모았습니다.
+{:.faded}  
 
 After that 2019 season, McWilliams consulted with one of his Montgomery teammates, Tyler Zombro, an undrafted pitcher who had studied biomechanics and physical therapy at George Mason. Zombro is part of the next generation of tech-savvy pitchers: They speak analytics, biomechanics and pitch characteristics as a first language. Zombro also works a side gig at a Herndon, Va., training academy as a consultant to high school, college and professional pitchers.
 
+2019시즌 종료 후, 그의 Montgomery 팀동료이자 생체 역학과 물리 치료학을 전공한 Tyler Zombro와 상의를 했습니다. Zombro는 차세대 tech-savvy pithcer 중 한명입니다:  그들은 분석, 생체역학 그리고 피치 특성에 대해 말합니다. Zombro는 또한 Herndon의 트레이닝 아카데미에서 고등학교, 대학 그리고 프로 선수들의 계약직 컨설턴트로 일하고 있습니다.
+{:.faded}
+
 Teammates call him “Coach Z.” McWilliams visited Zombro at his Virginia facility after the season for a high-tech assessment and for training program recommendations, “which we had already been talking about for a while,” McWilliams says.
+
+팀 동료들은 그를 "Coach Z."라고 부릅니다. McWilliams는 시즌후에 Zombro의 Virginia 시설에서 high-tech 평가와 트레이닝 프로그램 추천을 받기 위해 방문했습니다, "우리가 이미 얘기 한바 있습니다" McWilliams가 말했습니다.
+{:.faded}
 
 “He had a good idea of what we wanted to address as far as anatomical deficiencies and movement patterns,” McWilliams says. “So we got to work from there on basically getting me into better [and] more efficient positions.”
 
+"그는 구조적 결함과 움직임 패턴까지 우리 다루고자 하는것에 대해 잘 알고 있었습니다." McWilliams가 말했습니다. "그래서 우리는 거기서부터 기본적으로 내가 더 좋게 더 효율적인 위치로 가게했습니다."
+{:.faded}
+
 Supported by data from the Rays and Zombro, McWilliams decided in 2020 to change how and what he threw.
 
-“I had thrown two- and four-seamers my whole career,” he says. “After last year I just felt both had become inconsistent. Throwing the two-seamer, it made the four-seamer inconsistent, causing me to get almost on the side of the ball.
+레이스와 Zombro로부터 지원받았고, McWilliams은 2020년 던지는 구종과 방법을 바꾸기로 결심했습니다.
+{:.faded}
 
 “So that winter going into 2020 I decided to scrap the two-seamer. I just worked on getting behind the four-seamer and commanding it. We had talked about it with the Rays before, as to what gets the best results. The data showed that the two-seamer was average to plus sometimes, but it wasn’t anything to generate whiffs.
 
+"2020년 겨울 나는 투심패스트볼을 던지지 않기로 했습니다. 나는 단지 포심패스트볼을 커맨드 하려고 했습니다. 우리는 좋은 결과를 얻으려고, 이전에 레이스와 이것에 대해 얘기를 했었습니다. 그 데이터는 투심은 가끔 평균 이상이지만 일반적으로 whiffs(헛스윙)을 만들어내지 않습니다."
+{:.faded}
+
 “My main goals going into camp were to make the slider as hard as possible while still getting that glove side cut, and with the fastball it was all about chasing that vertical movement while getting behind it as much as possible to get true backspin.”
+
+"나의 주요 목표는 가능한한 슬라이더가 옆으로 꺽이게 하고 동시에 좋은 백스핀을 갖고 있는 패스트볼을 진정한 수직무브먼트가 가능하도록 하는거 였습니다."
+{:.faded}
 
 Analytics have changed pitching. They have transformed pitching from a horizontal game (in and out) to a vertical game (up and down) to combat the Launch Angle generation of hitters who chase slug, not batting average, by getting the ball in the air with backspin. The Rays are the masters of modern pitching to defeat the Launch Angle game: high-spin fastballs up to get above swing planes, followed by premier breaking balls down to get under them.
 
+분석이 피칭을 바꿨습니다. 그들은 타율이 아닌 장타를 치려는 발사 각도에 맞서기 위해 수평에서 수직으로 피칭을 변경했고 백스핀을 이용한 공을 던지는 피칭으로 바꿨습니다. 레이스는 발사 각도와의 싸움에 대가입니다: 높은 회전수의 패스트볼을 스윙 궤적보다 높게 던져고 브레이킹볼을 그 스윙 궤적보다 아래로 던져라.
+{:.faded}
+
 Careers have been transformed. Justin Verlander and Gerrit Cole added a rocket stage to their careers when analysts in Houston showed them data and video detailing how they were doing a favor to hitters by throwing them two-seamers. (They junked the pitch, and their four-seamers improved.) Charlie Morton became better than ever once he stopped trying to be a sinker ball specialist.
+
+커리어가 바뀌었습니다. Justin Verlander와 Gerrit Cole은 타자들이 투심을 던지는 피처들에게 잘하는것에 대해 휴스턴이 그들의 데이터와 디테일한 비디오를 보여주고 그들의 커리어를 빛나게 만들어줬습니다. Charlie Morton은 싱커볼 스페셜리스트를 멈췄고 그는 보다 더 훌륭해졌습니다.
+{:.faded}
 
 From 2015 to 2019, the use of two-seamers and sinkers dropped from 21.2% to 16.0%. In raw numbers, that’s a drop of 31,958 pitches, a decline of 21% in the relative eyeblink of five seasons.
 
+2015년부터 2019년동안, 투심패스트볼과 싱커는 21.2%에서 16.0%로 떨어졌습니다. 상대적으로 잘 보이지않지만 다섯 시즌동안, 이 숫자는 31,958의 피치가 내려간겁니다.
+{:.faded}
+
 Why has the pitch fallen out of favor so fast? Follow the numbers. Last season batters hit .286 against two-seamers and sinkers and .236 against all other pitches. If you are going to throw a pitch that adds 50 points to hitters’ batting average, it had better be an exceptional one—or don’t throw it at all.
+
+왜 투심은 인기가 이렇게 빨리 떨어졌을까? 지난 시즌 타자들은 투심패스트볼 그리고 싱커에 .286을 쳤고 다른 모든 구종에 대해 .236을 쳤습니다. 만약 당신이 타자들의 타율의 50포인트를 추가하는 투심태스트볼을 던진다면, 특별한 누군가가 되거나 혹은 그것을 아예 던지지 않는 것이 좋습니다.
+{:.faded}
 
 McWilliams is one of the many pitchers who arrived at this epiphany.
 
+McWilliams는 이런 깨달음을 얻은 많은 투수들 중 한명입니다.
+{:.faded}
+
 “In games this year all I threw were four-seamers and sliders,” he says.
+
+"올해 내가 던졌던 모든 게임에서 포심패스트볼과 슬라이더만 던지려고했습니다." 그가 말했습니다.
+{:.faded}
 
 The pandemic meant those “games” were 10 a.m. scrimmages at the Rays’ alternate site in Port Charlotte, Fla. Every pitch was measured with Trackman, a laser tracking device that records the speed, spin and shape in military-grade precision. The information is sent to each pitcher’s Dropbox after every game. McWilliams tracked these reports on his phone to see he was gaining velocity and spin on both his fastball and slider. His four-seamer touched 98 mph. His command and confidence improved. The Rays began to use him as a reliever.
 
-“The alternate site was a lot of fun,” he says. “They made it really competitive, even though it wasn’t the best environment at 10 a.m. in an empty ballpark in Port Charlotte in the summer.
+The pandemic은 다른 장소인 Port Charlotte, Fla에서 레이스의 10 a.m.에 이러한 "games"들을 하는것을 의미합니다. 모든 피치는 구속, 회전수 그리고 궤적이 정확하게 기록되는 레이저 트래킹 기기인 트랙맨과 함께 측정됩니다. 그 정보들은 매 게임후에 각 투수들의 Dropbox로 보내집니다. McWilliams는 이 리포트들을 그의 폰으로 그의 패스트볼과 슬라이더의 구속과 회전수를 볼 수 있었습니다. 그의 포심패트스볼은 98 mph까지 올랐습니다. 그의 커맨드와 제구는 향상되었습니다. 레이스는 그를 릴리버로 사용하기 시작합니다.
+{:.faded}
 
-“I felt like I made real strides, especially my overall feel in terms of the awareness of my body throughout the delivery and of the strike zone. And how to approach hitters and understand tendencies. One of the benefits for me at the alternate site was I was facing my own teammates. So we’d have a scrimmage, and after it you could sit down next to a guy and talk about what they saw or how the ball was coming out of my hand from their perspective. It was really beneficial to get that instant feedback from hitters.”
-
-No longer going back and forth between two-seamers and four-seamers, he noticed the improvement on his four-seamer. It was becoming the swing-and-miss pitch he had lacked.
-
-“I feel like even just being behind the pitch with my hand more consistently, it was that much easier to command it,” he said. “I didn’t change much mechanically. All I did was get a little more upright with my posture, but that wasn’t necessarily anything that I wanted to strive for. It just happened naturally.”
-
-Injuries wracked the Tampa Bay pitching staff. In a 60-game season the Rays used 25 pitchers. McWilliams wasn’t one of them. He did briefly make it out of Port Charlotte, being placed on the taxi squad in August. But after joining the team in Buffalo, he never made the active roster.
-
-After the season, the Rays put 22 pitchers on their 40-man roster.
-
-They are so deep in pitching talent that McWilliams wasn’t one of them. He was free to find another team.
-
-***
-
-One important scouting question needed to be answered in this strange season: How would clubs value a free agent pitcher when they never saw him throw a pitch in 2020? Teams are permitted to share video and Trackman data from alternate site camps. McWilliams himself assisted if teams needed proof of how much he improved in 2020.
-
-“Thankfully I had a lot of my info saved from my 2020 file on my phone, and that was really good to have,” McWilliams says. “It was good to be able to show them my video and metrics.”
-
-The offers started pouring in. The Mets were not among them. It was only after Cohen closed on the purchase of the team Nov. 6 that Alderson and his staff reached out to the pitcher.
-
-“I really didn’t hear from the Mets until the last minute,” McWilliams says. “It was only after the change in ownership.”
-
-McWilliams had no direct ties to Mets decision makers. He did know Jarrett England, who has been a Mets area scout working Tennessee since 2011. The Mets did draft McWilliams’s younger brother, Ian, an infielder, in the 30th round in 2017. (Ian did not sign and attends Alabama Birmingham.)
-
-“But no crazy connection, no,” McWilliams says.
-
-One of Alderson’s early goals running the Mets’ baseball operations was to empower his pro scouts with greater latitude, rather than relying on a top-down hierarchy. Alderson was not familiar with McWilliams.
-
-“It was the pro scouting staff that identified him and thought he was a guy who could help us,” Alderson says.
-
- Alderson quickly learned that about half the teams in baseball had inquired about signing McWilliams. “Something like that,” McWilliams says when asked about the number of suitors. “I didn’t sit down and add them all up.”
-
-Alderson viewed the bidding war as a form of crowd-sourcing: If so many teams were on McWilliams, he figured, the Mets were fishing in the right waters. One of the strongest bidders was a data-smart team that stood to lose several free agent relievers—another signal to Alderson that the Mets were on to something.
-
-Says McWilliams, “I think once we started getting offers from a few different teams, we started out with one or two big league deals on the table. So those became the clear-cut choices.”
-
-The Mets were one of the teams to offer a major league deal. To separate his bid, Alderson boosted the guaranteed money to $750,000, an unheard-of amount for a minor league free agent with no major league experience. The Mets gave Alonso $652,521 for 2020, the most ever for a player after his rookie season, breaking the record set by the Cubs and Kris Bryant ($652,000). The Mets offered McWilliams more than that after he pitched all season at 10 a.m. in an empty ballpark in Port Charlotte. They went the extra mile to acquire their first player under Cohen’s ownership, a signal to the rest of baseball of their willingness to spend. On Nov. 20, McWilliams agreed to the deal.
-
-“They made a really good offer,” McWilliams says. “I really appreciate them reaching out and making me feel this was the right opportunity.”
-
-McWilliams has made 94 of his 109 pro appearances as a starting pitcher. With his improved four-seam fastball and slider combination, he profiles more as a relief pitcher.
-
-“We haven’t had that conversation yet,” he says of the Mets’ plans for him. “As far as I know it will be in the bullpen.”
-
-***
-
-In 2019, the Rays traded for a largely unknown 6-foot-6, 25-year-old right-handed pitcher with a 9.35 ERA in eight major league games for Texas. That was Fairbanks. This year Fairbanks struck out 13.2 batters per nine innings while throwing high-spin four-seam fastballs and sliders. He saved three of the Rays’ postseason wins, including the Game 7 pennant-clincher against Houston.
-
-Pitchers like Fairbanks are changing baseball. The outs of a major league game are divided among more pitchers than ever before: 4.4 per team per game. The later a game gets, the more managers want pitchers who keep the ball out of play. The average relief pitcher today strikes out batters at a greater rate (9.4 per nine innings) than Verlander (9.0) or Sandy Koufax (9.2).
-
-One out of every four plate appearances from the seventh through ninth innings is a strikeout. Almost 60% of those late-inning strikeouts result from four-seamers and sliders (59.1%)—up from about 50% in the first five innings (50.6%).
-
-Technology is helping create those power pitchers, from high schoolers at Zombro’s academy to the stable of arms in the Tampa Bay organization. The steady inventory feeds the modern strategy of using more pitchers each game to keep the ball out of play.
-
-The average four-seam fastball in the postseason this year was 95.0 mph, up from 94.0 in 2016. For the Rays this year, it was 96.7 mph.
-
-Who is Sam McWilliams? The Mets think he could be the next Fairbanks. They were not alone.
-The bidding war to sign him is proof that the race is on to find such pitchers, even sight unseen. He is the proxy, not the anomaly, of what is going on in baseball.
+> 사실 메츠와 이 선수랑 계약을 했을 때 처음보는 투수라 서번트 검색도 해보지 않았는데 si에서 재밌는 글이 있어서 간단하게 부분만 요약해봤습니다.    
+최근 발사각을 높이는 타자들에 맞춤 전략으로 하이패스트볼을 많이 던지는 투수들이 있었습니다. 게릿 콜, 벌렌더, 워커 뷸러, 찰리 모튼 등등.. 투수마다 갖고있는 공이 다른데 그 투수에게 가장 좋은 구종들을 잘 조합하여 피칭 디자인을 새로할 투수들을 값싸게 계약하여 쓸 수 있고 이런 투수를 여러 팀의 관찰 대상인것도 참 재밌네요. 이 친구가 내년에 어떤 모습을 보일지 궁급합니다. 또한 메츠가 오너가 바뀌고 다저스같은 구단처럼 되려고 하는 새로운 움직임들이 기대됩니다.
