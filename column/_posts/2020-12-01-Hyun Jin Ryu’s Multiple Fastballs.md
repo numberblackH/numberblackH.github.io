@@ -56,9 +56,10 @@ By creating this separation and commanding both pitches, Ryu found a way to get 
 *Ryu's Four-Seamer by Year*
 {:.figure}
 
-![Hyun Jin Ryu](/image/hyunjinryu11.png){: width="350" height="550"}   
+![Hyun Jin Ryu](/image/hyunjinryu11.png){: width="350" height="550"}   ![Hyun Jin Ryu](/image/hyunjinryu5.png){: width="350" height="550"}    
 *Ryu's Four-Seamer by Year*
 {:.figure}
+
 ![Hyun Jin Ryu](/image/hyunjinryu5.png){: width="350" height="550"}   
 *Ryu's Four-Seamer by Year*
 {:.figure}
