@@ -19,7 +19,6 @@ Anyway: Four-seamers work better when they’re thrown up in the zone. That’s 
 {:.faded}
 
 ![Hyun Jin Ryu](/image/hyunjinryu1.png){:data-width="1440" data-height="836"}   
-
 *Four-Seam Results by Location*
 {:.figure}
 
@@ -36,7 +35,6 @@ The bottom third isn’t clearly better or worse than the middle third in and of
 Sixth on the list is Hyun Jin Ryu. The Toronto ace has been aiming higher in the zone of late:
 
 ![Hyun Jin Ryu](/image/hyunjinryu2.png){:data-width="1440" data-height="836"}   
-
 *Ryu's Four-Seamer by Year*
 {:.figure}
 
@@ -50,15 +48,13 @@ By creating this separation and commanding both pitches, Ryu found a way to get 
 이런 분리를 만들고 두 구종을 커맨드함으로써, 류현진은 그의 패스트볼들을 사용하는 최적의 방법을 발견했습니다. 그의 싱커는 더욱 땅 많은 땅볼을, 그리고 그의 포심은 더 많은 헛스윙(whiffs)을 만들었고, 그래서 그는 그런식으로 구종들을 사용했습니다 :그가 대부분의 싱커들을 스윙할 확률이 낮은 타석의 1, 2구로 던졌습니다. 그는 또한 3-0 과 3-1 카운트를 극복하는 구종으로 던졌습니다. 그는 내년에도 비슷한 투구를 할거고 분명 훌륭한 계획이었습니다. — only five of the 11 he threw there actually hit the strike zone(3-0, 3-1에서 던진 싱커 11개중에 5개가 스트라이크) —
 {:.faded}
 
-![Hyun Jin Ryu](/image/hyunjinryu11.png){:data-width="300" data-height="200"}   
-
+![Hyun Jin Ryu](/image/hyunjinryu11.png){:data-width="1440" data-height="836"}   
 *Ryu's Four-Seamer by Year*
 {:.figure}
 
-![Hyun Jin Ryu](/image/hyunjinryu5.png){:data-width="1440" data-height="200"}   
+![Hyun Jin Ryu](/image/hyunjinryu5.png){:data-width="1440" data-height="836"}   
 *Ryu's Four-Seamer by Year*
 {:.figure}
-
 
 When whiffs were necessary, it was four-seamer time. Given that he frequently turned to the pitch when he had a ball to spare and was looking for a whiff, the top of the zone seems like the best place to throw it, and as I mentioned above, that’s exactly what he did. In two-strike counts, he threw 92 four-seamers and eight sinkers, and as we already know, he threw that four-seamer higher on average than he ever had before.
 
