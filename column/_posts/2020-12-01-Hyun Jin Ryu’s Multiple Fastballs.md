@@ -52,11 +52,16 @@ By creating this separation and commanding both pitches, Ryu found a way to get 
 *Ryu's Four-Seamer by Year*
 {:.figure}
 
-![Hyun Jin Ryu](/image/hyunjinryu5.png){: width="700" height="836"}   
+![Hyun Jin Ryu](/image/hyunjinryu5.png){: data-width="700" data-height="836"}   
 *Ryu's Four-Seamer by Year*
 {:.figure}
 
-![title](/image/hyunjinryu5.png){: width="100" height="100"}
+![Hyun Jin Ryu](/image/hyunjinryu11.png){: width="350" height="550"}   
+*Ryu's Four-Seamer by Year*
+{:.figure}
+![Hyun Jin Ryu](/image/hyunjinryu5.png){: width="350" height="550"}   
+*Ryu's Four-Seamer by Year*
+{:.figure}
 
 When whiffs were necessary, it was four-seamer time. Given that he frequently turned to the pitch when he had a ball to spare and was looking for a whiff, the top of the zone seems like the best place to throw it, and as I mentioned above, that’s exactly what he did. In two-strike counts, he threw 92 four-seamers and eight sinkers, and as we already know, he threw that four-seamer higher on average than he ever had before.
 
