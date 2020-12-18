@@ -25,7 +25,7 @@ his curveball featured even more vertical movement in 2018 — 7.5 inches, which
 {:.faded}
 
 
-![Knebel](/image/coreyknebelcurve.png){:data-width="1440" data-height="836"}   
+![Corey Knebel](/image/coreyknebelcurve.png){:data-width="1440" data-height="836"}   
 *Knebel is on the left, Kelly is on the right*
 {:.figure}
 
@@ -41,4 +41,4 @@ Knebel의 커브는 2016년이후로 가장 효과적인 투수 중 한명입니
 
 ---
 
-> Brad Hand, Trevor May, Liam Hendriks 중에 누군가 영입할거라고 생각했는데 Pedro Baez 자리와 Blake Treinen 두자리 중에 한자리는 Corey Knebel으로 채우네요. 줍줍해서 고쳐쓰기를 템파시절부터 잘하는 프리드먼인데 Corey Knebel의 내년이 기대가 됩니다. 
+> Brad Hand, Trevor May, Liam Hendriks 중에 누군가 영입할거라고 생각했는데 Pedro Baez 자리와 Blake Treinen 두자리 중에 한자리는 Corey Knebel으로 채우네요. 줍줍해서 고쳐쓰기를 템파시절부터 잘하는 프리드먼인데 Corey Knebel의 내년이 기대가 됩니다.
