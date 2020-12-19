@@ -49,20 +49,15 @@ By creating this separation and commanding both pitches, Ryu found a way to get 
 {:.faded}
 
 
-![Hyun Jin Ryu](/image/hyunjinryu3.png){: width="350" height="550"}
+![Hyun Jin Ryu](/image/hyunjinryu3.png){:data-width="1440" data-height="836"}   
 *Ryu 3-0 and 3-1 counts sinker; ball + strke*
 {:.figure}
 
-![Hyun Jin Ryu](/image/hyunjinryu5.png){: width="350" height="550"}    
+![Hyun Jin Ryu](/image/hyunjinryu5.png){:data-width="1440" data-height="836"}   
 *Ryu 3-0 and 3-1 counts sinker; strike*
 {:.figure}
 
-
-
 When whiffs were necessary, it was four-seamer time. Given that he frequently turned to the pitch when he had a ball to spare and was looking for a whiff, the top of the zone seems like the best place to throw it, and as I mentioned above, that’s exactly what he did. In two-strike counts, he threw 92 four-seamers and eight sinkers, and as we already know, he threw that four-seamer higher on average than he ever had before.
-
-<iframe src="https://baseballsavant.mlb.com/illustrator/static?guid=e425bab7-9d2d-444d-bb56-cc255235ba51&scale=true"></iframe>
-<iframe src="https://baseballsavant.mlb.com/illustrator/static?guid=e425bab7-9d2d-444d-bb56-cc255235ba51&scale=true"></iframe>
 
 헛스윙이 필요할때, 포심 패스트볼 던졌습니다. 그가 그가 볼이 여유있고(유리한 카운트) 헛스윙을 원할때, 존의 상단은 그것을 던지기에 최적의 장소로 보이고 내가 위에서 언급했듯이 이것은 그가 실제로 한일입니다. 2 스트라이크 카운트, 그는 92개의 포심 패스트볼과 8개의 싱커를 던졌고 우리가 알고 있듯이 그는 다른 상황에서 보다 포심 패스트볼을 더 많이 던졌습니다.
 {:.faded}
