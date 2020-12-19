@@ -53,7 +53,7 @@ By creating this separation and commanding both pitches, Ryu found a way to get 
 *Ryu 3-0 and 3-1 counts sinker; ball + strke*
 {:.figure}
 
-![Hyun Jin Ryu](/image/hyunjinryu5.png){:data-width="1440" data-height="836"}   
+![Hyun Jin Ryu](/image/hyunjinryu4.png){:data-width="1440" data-height="836"}   
 *Ryu 3-0 and 3-1 counts sinker; strike*
 {:.figure}
 
@@ -88,3 +88,13 @@ That junk statistic, by the way? It ended up not mattering at all. Ryu’s geniu
 {:.faded}
 
 ---
+
+![Hyun Jin Ryu](/image/hyunjinryu5.png){:data-width="1440" data-height="836"}   
+*Ryu pitch heatmap; sinker*
+{:.figure}
+
+![Hyun Jin Ryu](/image/hyunjinryu6.png){:data-width="1440" data-height="836"}   
+*Ryu pitch heatmap; 4-seam fastball*
+{:.figure}
+
+> 칼럼 중간에 스트존 하단에 포심 패스트볼을 많이 던지는 투수와 적게 터지는 투수들의 예가 있습니다. 류현진이 평균 구속의 패스트볼로 어떻게 피칭 디자인을 하여 효과적으로 던지는지 간단히 설명해주고 있습니다.
