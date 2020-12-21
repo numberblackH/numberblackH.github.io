@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Uncommonly perceptive': New Padres hitting coach Johnny Washington was made for the job
+title: 'Uncommonly perceptive' New Padres hitting coach Johnny Washington was made for the job
 date: 2020-12-20 08:26:28 -0400
 noindex: true
 ---
