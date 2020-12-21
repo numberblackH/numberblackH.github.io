@@ -56,8 +56,8 @@ menu:
     url:               /column/
 #  - title:             Prospect
 #    url:               /prospect/
-#  - title:             Stat & PITCHf/x Tool
-#    url:               /stat/
+  - title:             Story
+    url:               /story/
 #  - title:             Data & R
 #    url:               /data/
   - title:             MLB WEEK

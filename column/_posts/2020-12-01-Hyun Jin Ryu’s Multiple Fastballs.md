@@ -5,7 +5,7 @@ date: 2020-12-01 08:26:28 -0400
 noindex: true
 ---
 
-[Hyun Jin Ryu’s Multiple Fastballs](https://blogs.fangraphs.com/hyun-jin-ryus-multiple-fastballs/) &mdash; Ben Clemens(Ben Clemens is Ben Clemens is Fangraphs's Author)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Hyun Jin Ryu’s Multiple Fastballs](https://blogs.fangraphs.com/hyun-jin-ryus-multiple-fastballs/) &mdash; Ben Clemens(Ben Clemens is Fangraphs's Author)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}   
 
 Watch any amount of baseball these days, and you’ll see a familiar pattern: a catcher giving a pitcher a high target for his fastball. This is hardly a secret; it’s so obvious, in fact, that I don’t really know how to make a good introduction out of it. Did you know that pitchers throw four-seam fastballs high in the zone? You did! I don’t need to tell you that. But this article is about four-seam fastballs, so the paragraph feels necessary.
@@ -97,4 +97,4 @@ That junk statistic, by the way? It ended up not mattering at all. Ryu’s geniu
 *Ryu pitch heatmap; 4-seam fastball*
 {:.figure}
 
-> 칼럼 중간에 스트존 하단에 포심 패스트볼을 많이 던지는 투수와 적게 터지는 투수들의 예가 있습니다. 류현진이 평균 구속의 패스트볼로 어떻게 피칭 디자인을 하여 효과적으로 던지는지 간단히 설명해주고 있습니다.
+> 칼럼 중간에 스트존 하단에 포심 패스트볼을 많이 던지는 투수와 적게 터지는 투수들의 예가 있습니다. 류현진이 평균 정도의 구속이 나오는 패스트볼들(포심과 싱커)을 어떻게 피칭 디자인을 하여 효과적으로 던지는지 간단히 설명해주고 있습니다.
