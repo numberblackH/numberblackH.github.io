@@ -5,7 +5,7 @@ date: 2020-11-01 08:26:28 -0400
 noindex: true
 ---
 
-[Why you can't shift on LeMahieu](https://www.mlb.com/news/why-you-cant-shift-on-dj-lemahieu/) &mdash;Mike Petriello(Mike Petriello is an analyst for MLB.com)분석가가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Why you can't shift on LeMahieu](https://www.mlb.com/news/why-you-cant-shift-on-dj-lemahieu/) &mdash; Mike Petriello(Mike Petriello is an analyst for MLB.com)분석가가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}
 
 ![DJ LeMahieu](https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/svrodm7byuzrffckqlvk){:data-width="1440" data-height="836"}
