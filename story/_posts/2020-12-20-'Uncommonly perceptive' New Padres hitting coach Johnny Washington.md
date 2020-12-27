@@ -6,6 +6,7 @@ noindex: true
 ---
 
 ['Uncommonly perceptive': New Padres hitting coach Johnny Washington was made for the job](https://theathletic.com/848209/2019/03/04/uncommonly-perceptive-new-padres-hitting-coach-johnny-washington-was-made-for-the-job/) &mdash; Dennis Lin(Dennis Lin is a staff writer for The Athletic covering the San Diego Padres)가 2019년 3월 4일에 쓴 칼럼의 부분입니다.
+{:.faded}
 
 Washington’s first full-time coaching job saw him instructing hitters at the Dodgers’ rookie-level affiliate in Ogden, Utah. In 2011, he was entrusted with a cocksure, scuffling prospect named Joc Pederson.
 
