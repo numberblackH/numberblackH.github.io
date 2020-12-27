@@ -8,7 +8,10 @@ noindex: true
 [Dodgers have interest in Ryne Stanek, who could thrive with a couple changes](http://dodgersdigest.com/2020/12/21/dodgers-have-interest-in-ryne-stanek-who-could-thrive-with-a-couple-changes/) &mdash; Dustin Nosler(Dustin Nosler is Writer/editor DodgersDigest)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}
 
-![Ryne Stanek](/image/rynestanek.png){:data-width="1440" data-height="836"}
+![Ryne Stanek](/image/rynestanek.png){:data-width="1440" data-height="836"}   
+*Ryne Stanek*
+{:.figure}
+
 
 So, what exactly could the Dodgers see in Stanek? Well, he is a former draft pick of Friedman’s — his penultimate 1st-rounder selection while with Tampa (29th overall in 2013) and he has shown some potential. He has a live arm, but the results have been a mixed bag so far. However, there is some hope that Stanek’s best may still be on the way.
 
