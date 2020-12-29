@@ -5,7 +5,7 @@ date: 2020-12-16 08:26:28 -0400
 noindex: true
 ---
 
-[Ex-minor leaguer Eric Sim is serious — ‘95 mph or die’ — about throwing for fun](https://theathletic.com/2259610/2020/12/16/eric-sim-pitching-program/) &mdash; Meghan Montemurro(Meghan Montemurro is a staff writer for The Athletic covering the Philadelphia Phillies)가 2019년 3월 4일에 쓴 칼럼의 부분입니다.
+[Ex-minor leaguer Eric Sim is serious — ‘95 mph or die’ — about throwing for fun](https://theathletic.com/2259610/2020/12/16/eric-sim-pitching-program/) &mdash; Meghan Montemurro(Meghan Montemurro is a staff writer for The Athletic covering the Philadelphia Phillies)가 2020년 12월 16일에 쓴 칼럼의 부분입니다.
 {:.faded}
 
 ### foundation of Sim’s ambitious quest: 95 mph or die
@@ -15,11 +15,11 @@ Sim, 31, committed to the challenge in June, attracting attention as he shared h
 31세의 Eric Sim은 6월에 이 챌린지에 전념했고, 매일 소셜 미디어에서 자신의 챌린지 과정과 진행 에 대해 공유해 관심을 끌었습니다. "JUCO bandit"과 전 마이너 리그 포수에서 구원투수로 전향했던 이 선수는 독립 리그에서 7경기에 출전했던 2016년 이후 프로로 플레이한 적이 없습니다. 그는 스스로를 몰아붙이고 싶었다. 그는 소수만이 도달할 수 있는 이정표를 세우려는 그의 도전을 기록하는것을 원했습니다. Sim은 마운드에서 공을 던지지 않은 이후 6월에 있었던 그의 첫 불펜 피칭에서 87mph에서 88mph의 공을 기록했습니다. 11월 26일 – 훈련 151일 – Sim은 자신의 목표를 달성하고 95 mph을 던졌습니다.
 {:.faded}
 
-[그의 여정을 확인할 수 있습니다. 유튜브 링크 >>](https://www.youtube.com/channel/UCHz1mj7RcZu7Wlj0iHeG19w)
+[그의 여정을 유튜브에서 영상으로 확인할 수 있습니다. 유튜브 링크 ->](https://www.youtube.com/channel/UCHz1mj7RcZu7Wlj0iHeG19w)
 
 In June, Sim finally went all-in on his attempt to throw 95 mph. He started working with Driveline Baseball, whose CEO, Mike Rathwell, heard about his mission to seriously ramp up with a throwing program. Sim was familiar with the Seattle-area based facility from working out there as a minor leaguer. He teamed up with Driveline trainer Dean Jackson, who helped him build a strategy to get to his 95-mph goal. Jackson and Sim initially met in 2015; Jackson was in college at Arizona Christian University at the time. They trained together the next year while Sim and Jackson were in the Giants and Diamondbacks organizations, respectively.
 
-6월, Sim은 마침내 95마일을 던지려는 도전에 올인했습니다. 그는 Driveline Baseball과 함께 일하기 시작했는데, DR의 CEO인 Mike Rathwell은 던지기 프로그램을 진지하게 시작하는 그의 미션에 대해 들었습니다. Sim 마이너리그에서 뛰면서부터 시애틀 지역에 기반을 둔 시설에 익숙합니다. 그는 Driveline Baseball 트레이너인 Dean Jackson과 팀을 이뤄 95mph의 목표를 달성하기 위한 전략을 세우는 것에 도움을 받았습니다. Jackson과 Sim은 2015년에 처음 만났습니다; Jackson은 당시 Arizona Christian University에서 대학을 다녔습니다. 그들은 다음 해에 함께 훈련을 했고, Sim은 자이언츠, Jackson은 다이아몬드백스 소속이었습니다.
+6월, Sim은 마침내 95마일을 던지려는 도전에 올인했습니다. 그는 Driveline Baseball과 함께 일하기 시작했는데, Driveline의 CEO인 Mike Rathwell은 던지기 프로그램을 진지하게 시작하는 그의 미션에 대해 들었습니다. Sim이 마이너리그에서 뛸 때부터 시애틀 지역에 기반을 둔 시설에 익숙합니다. 그는 Driveline Baseball 트레이너인 Dean Jackson과 팀을 이뤄 95mph의 목표를 달성하기 위한 전략을 세우는 것에 도움을 받았습니다. Jackson과 Sim은 2015년에 처음 만났습니다; Jackson은 당시 Arizona Christian University에서 대학을 다녔습니다. 그들은 다음 해에 함께 훈련을 했고, Sim은 자이언츠, Jackson은 다이아몬드백스 소속이었습니다.
 {:.faded}
 
 When they reconnected in June to discuss a game plan for Sim’s “95 or die,” Jackson identified the main problem with Sim’s approach. He thought Sim’s lifting and throwing schedules weren’t properly synced. One of the first adjustments was fixing Sim’s timing for different exercises. He wasn’t giving himself enough recovery time in between similar high-intensity exercises. Sim was training at maximum intensity seven days a week, “which, if you’ve ever meet him in person, that makes total sense,” Jackson said.
@@ -50,7 +50,7 @@ Finding the right mix of exercises and recovery time for different areas of the 
 
 Although some things are better than when he played in the minors, Sim wants to continue to advocate for players. His work has gone beyond speaking out publicly. Since 2018, Sim has raised approximately $8,700 during three different campaigns, ultimately donating the funds to 10 different minor leaguers. He did one during the COVID-19 shutdown this summer, and currently has another through a GoFundMe that runs until Dec. 25 called “Help a Minor Leaguer 2020.” The money will be given to a few minor leaguers in financial need on Christmas; so far he has raised nearly $5,500.
 
-어떤 것들은 그가 마이너리그에서 뛸 때보다 더 나을지라도, Sim은 계속해서 선수들을 옹호하기를 원합니다. 그의 일은 공공연히 말할 수 있는 수준을 넘어섰습니다. 2018년 이후, Sim은 세 번의 다른 캠페인 동안 약 8,700 달러를 모금했고, 결국 10명의 다른 마이너 리거들에게 기부했습니다. 그는 올 여름 COVID-19 셧다운 기간 동안 캠페인 하나를 했으며, 현재 12월 25일까지 열리는 "Help a Minor Leager 2020"로 불리는 GoFund Me를 통해 또 다른 캠페인 하나를 하고 있습니다. 그 돈은 크리스마스에 재정적으로 도움이 필요한 일부 마이너 리그 선수들에게 기부될 겁니다; 지금까지 그는 5,500 달러에 가까운 성금을 모금했습니다.
+어떤 것들은 그가 마이너리그에서 뛸 때보다 더 나을지라도, Sim은 계속해서 선수들을 지지하기를 원합니다. 그의 일은 공공연히 말할 수 있는 수준을 넘어섰습니다. 2018년 이후, Sim은 세 번의 다른 캠페인 동안 약 8,700 달러를 모금했고, 결국 10명의 다른 마이너리거들에게 기부했습니다. 그는 올 여름 COVID-19 셧다운 기간 동안 캠페인 하나를 했으며, 현재 12월 25일까지 열리는 "Help a Minor Leager 2020"로 불리는 GoFund Me를 통해 또 다른 캠페인 하나를 하고 있습니다. 그 돈은 크리스마스에 재정적으로 도움이 필요한 일부 마이너 리그 선수들에게 기부될 겁니다; 지금까지 그는 5,500 달러에 가까운 성금을 모금했습니다.
 {:.faded}
 
 ...
@@ -75,6 +75,12 @@ Sim ultimately has his sights set on throwing 100 mph. It’s a long shot. He’
 마침내 Sim은 그의 목표를 시속 100mph로 잡았습니다. 가능성이 희박합니다. 하지만 그는 분명히 노력할겁니다. 그의 이전 이정표를 세우는데 151일이 걸린 것과 다르게, Sim은 다음 목표가 1년에서 3년짜리 프로젝트가 될거라고 예상하고 있습니다. 현재, Sim은 더 탄력적인 것에 초점을 맞추고 있습니다. 그는 필요한 힘을 가지고 있지만 투구할 때 좀 더 운동을 하고 싶어합니다. 그는 자신의 몸을 다르게 움직이려고 노력하고 있습니다. Sim과 Jackson은 아직 어떤 훈련 전략도 시도하지 않았습니다; Jackson은 Sim이 95mph로 던질 수 있도록 모든 옵션을 다 소모하기 보다는 몇 가지 아이디어를 뒷 주머니에 넣고 싶어합니다.
 {:.faded}
 
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  &mdash; KingofJUCO (@KingofJUCO)
+  <a href="https://twitter.com/KingofJUCO/status/1332120146614255616">Nov 27, 2020</a>
+</blockquote>
+
 ---
 
-> 한국에서 태어났고 13세까지 살았으며 2010 MLB 드래프트에서 자이언츠의 27라운드 드래프트된 전 선수 Eric Sim이 스토리입니다. 그가 포수와 투수로 마이너리거 선수 생활을 하였고 그가 은퇴 후 다른 삶을 살면서 '95 mph or die' 프로젝트를 하게된 계기 그리고 그가 그 과정들을 전부 공개하는 이유 그리고 메이저리그에 도달하지 못한 마이너 선수들의 힘든 고충들에 대해 얘기해주고 있습니다. 그들에게 기부하기 위한 캠페인 그가 또 100mph을 던지는 도전을 할거라는 재밌는 스토리가 있어서 소개합니다.
+> 한국에서 태어났고 13세까지 살았으며 그 이후 미국으로 가서 2010 MLB 드래프트에서 자이언츠의 27라운드 드래프트된 전 선수 Eric Sim이 스토리입니다. 그가 포수와 투수로 마이너리거 선수 생활을 하였고 그가 은퇴 후 다른 삶을 살면서 '95 mph or die' 프로젝트를 하게된 계기 그리고 그가 그 과정들을 전부 공개하는 이유 그리고 메이저리그에 도달하지 못한 마이너 선수들의 힘든 고충들에 대해 얘기해주고 있습니다. 그들에게 기부하기 위한 캠페인 그가 또 100mph을 던지는 도전을 할거라는 재밌는 스토리가 있어서 소개합니다.
