@@ -15,7 +15,7 @@ Once upon a time, Padres general manager A.J. Preller -- in an aggressive bid to
 
 That's what happened in the winter of 2014-15, when the Padres made an ill-advised push to win right away, coming away with big names (Matt Kemp, Justin Upton, Craig Kimbrel, and James Shields among them) at a very high cost (including Trea Turner, Max Fried, Yasmani Grandal, Zach Eflin, and the No. 13 pick in 2015 Draft). It was loud and impressive and risky, but it resulted in an ill-fitting roster that wasn't likely to win, and it didn't. They fired their manager in June and finished in fourth place. The franchise was sent into a hole it only just recently was able to dig out of.
 
-2014-15년 겨울, 파드레스가 큰 대가(including Trea Turner, Max Fried, Yasmani Grandal, Zach Eflin, and the No. 13 pick in 2015 Draft)를 내놓으면서 당장 승리를 위해 빅 네임(Matt Kemp, Justin Upton, Craig Kimbrel, and James Shields among them)들을 데려오면서 잘못된 윈나우를 했습니다. 그것은 거대하고 인상적이고 위험했지만, 이기지 못할것 같은 부적절한 명단을 만들어냈습니다. 그들은 6월에 감독을 경질하고 4위로 시즌을 마쳤습니다. 이 프랜차이즈는 바닥으로 내려갔으며 최근에 구멍을 나올 수 있게 되었습니다.
+2014-15년 겨울, 파드레스가 큰 대가(including Trea Turner, Max Fried, Yasmani Grandal, Zach Eflin, and the No. 13 pick in 2015 Draft)를 내놓으면서 당장 승리를 위해 빅 네임(Matt Kemp, Justin Upton, Craig Kimbrel, and James Shields among them)들을 데려오면서 잘못된 윈나우를 했습니다. 그것은 거대하고 인상적이고 위험했지만, 이길것 같지 않은 부적절한 명단을 만들어냈습니다. 그들은 6월에 감독을 경질하고 4위로 시즌을 마쳤습니다. 이 프랜차이즈는 바닥으로 내려갔으며 최근에 구멍을 나올 수 있게 되었습니다.
 {:.faded}
 
 This time, Preller's done it again, reportedly trading for Blake Snell from the Rays and Yu Darvish and Victor Caratini from the Cubs as well as reportedly signing well-regarded Korean infielder Ha-seong Kim. It's got a lot of echoes of 2015, because it's still Preller, it's still loud and impressive and risky, and all these years later, the Dodgers are still atop the division.
@@ -45,7 +45,7 @@ It's an especially large claim considering that their division just so happens t
 
 And yet: The Padres were, by almost any measure, the second- or third-best team of the shortened 2020 season. They had the third most wins, behind only the two pennant winners; they were essentially tied with the Dodgers for fifth in pitching WAR; they were second only to the White Sox in position player WAR. They had the third-best slugging percentage, scored the third-most runs, and stole the most bases. Only one team -- the Dodgers -- converted more swings into hard-hit balls, and no team cut its chase rate by as much from 2019.
 
-그럼에도 불구하고: 파드레스는 거의 모든 면에서 2020년 시즌 단축에서 2, 3번째로 좋은 팀이었습니다. 그들은 단 두명의 페넌트 우승자들에 이어 세 번째로 가장 많은 승리를 거두었습니다; 그들은 기본적으로 다저스와 투수 WAR에서 동률이었습니다; 그들은 야수 WAR에서 화이트삭스에 이어 두 번째였습니다. 그들은 세번째로 높은 장타율을 기록했고, 세번째로 많은 득점을 했으며, 가장 많은 도루를 했습니다. 오직 한 팀 -- 다저스 -- 만이 스윙을 더 많은 강한 타구로 전환시켰고, 2019년부터 chase%를 이렇게 줄인 팀은 없습니다.
+그럼에도 불구하고: 파드레스는 거의 모든 면에서 2020년 시즌 단축에서 2, 3번째로 좋은 팀이었습니다. 그들은 단 두명의 페넌트 레이스 우승자들에 이어 세 번째로 가장 많은 승리를 거두었습니다; 그들은 기본적으로 다저스와 투수 WAR에서 동률이었습니다; 그들은 야수 WAR에서 화이트삭스에 이어 두 번째였습니다. 그들은 세번째로 높은 장타율을 기록했고, 세번째로 많은 득점을 했으며, 가장 많은 도루를 했습니다. 오직 한 팀 -- 다저스 -- 만이 스윙을 더 많은 강한 타구로 전환시켰고, 2019년부터 chase%를 이렇게 줄인 팀은 없습니다.
 {:.faded}
 
 Now, look ahead to 2021, and let's use the FanGraphs projected WAR leaderboards to do so. At the moment we're looking at this, late on Monday evening in the East, FanGraphs has included Snell in the Padres rotation, but has not yet added Darvish, so let's do it for them. We'll take out the 1.2 WAR projected for Zach Davies, who is off to Chicago as part of the Cubs' return, and we'll replace it with the 4.2 projected for Darvish, in roughly similar innings. Take that +3.0 WAR upgrade -- we won't do the same for Caratini, since backup catchers don't move the needle much and he's not projected that differently from San Diego's incumbents -- and you get ... this.
@@ -103,4 +103,4 @@ WAR 예상이 반지를 얻는 것은 아닙니다. 파드레스가 다저스보
 
 ---
 
-> 파드레스가 2명의 에이스 투수를 추가했고 본격적으로 윈나우 행보를 보여주었습니다. 아직 다저스는 큰 움직임이 없고 파드레스도 추가 움직임이 있을겁니다. 파드레스가 훌륭하게 팀을 만들어왔고 윈나우를 하며 팜도 동시에 훌륭하게 가꾼 이 팀의 행보가 기대되고 무섭습니다. 과연 파드레스는 컵스의 길을 갈지 아니면 다저스의 길을 갈지 궁금하네요.
+> 파드레스가 2명의 에이스 투수를 추가했고 본격적으로 윈나우 행보를 보여주었습니다. 아직 다저스는 큰 움직임이 없고 파드레스도 추가 움직임이 있을겁니다. 파드레스가 훌륭하게 팀을 만들어왔고 윈나우를 하며 팜도 동시에 훌륭하게 만든 이 팀의 행보가 기대되고 무섭습니다. 과연 파드레스는 컵스의 길을 갈지 아니면 다저스의 길을 갈지 궁금하네요.
