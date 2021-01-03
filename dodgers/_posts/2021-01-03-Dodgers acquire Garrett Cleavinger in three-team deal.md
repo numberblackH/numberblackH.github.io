@@ -8,7 +8,7 @@ noindex: true
 [Dodgers acquire Garrett Cleavinger in three-team deal](http://dodgersdigest.com/2020/12/21/dodgers-have-interest-in-ryne-stanek-who-could-thrive-with-a-couple-changes/) &mdash; Cody Bashore(Cody Bashore is Writer/editor DodgersDigest)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}
 
-![Garrett Cleavinger](http://dodgersdigest.com/wp-content/uploads/2020/12/Cleavinger.jpg){:data-width="1440" data-height="836"}   
+![Garrett Cleavinger](https://cdn.theathletic.com/app/uploads/2020/12/29160016/USATSI_14101176-2048x1365.jpg){:data-width="1440" data-height="836"}   
 *Garrett Cleavinger*
 {:.figure}
 
@@ -23,13 +23,13 @@ noindex: true
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
   &mdash; Future Dodgers (@FutureDodgers)
-  <a href="https://twitter.com/FutureDodgers/status/1343995412202438657">DEC 30, 2020</a>
+  <a href="https://twitter.com/FutureDodgers/status/1343997251673149440">DEC 30, 2020</a>
 </blockquote>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
   &mdash; Future Dodgers (@FutureDodgers)
-  <a href="https://twitter.com/FutureDodgers/status/1343997251673149440">DEC 30, 2020</a>
+  <a href="https://twitter.com/FutureDodgers/status/1343998027657138176">DEC 30, 2020</a>
 </blockquote>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -38,13 +38,11 @@ noindex: true
   <a href="https://twitter.com/DustinNosler/status/1343991480793219072">DEC 30, 2020</a>
 </blockquote>
 
-![Garrett Cleavinger](http://dodgersdigest.com/wp-content/uploads/2020/12/GArrettMovement.jpg){:data-width="1440" data-height="836"}   
-*슬라이더, 커브, 포심패스트볼의 Pitch Movement*
+![Garrett Cleavinger](/image/garrettcleavinger.png){:data-width="1440" data-height="836"}   
+*Garrett Cleavinger's Pitch Movement*
 {:.figure}
 
-![Garrett Cleavinger](https://cdn.theathletic.com/app/uploads/2020/12/29160016/USATSI_14101176-2048x1365.jpg){:data-width="1440" data-height="836"}   
-*Garrett Cleavinger*
-{:.figure}
+
 
 ---
 
@@ -53,7 +51,7 @@ noindex: true
 
 I thought they needed to add at least one this offseason to backfill behind Caleb Ferguson, who got hurt late in the year and will probably miss all of ’21, but I’m not sure why the Dodgers preferred Cleavinger to taking Alvarado themselves. Perhaps it’s his arb number (the Dodgers have had staff cuts, too), or perhaps they see Alvarado’s and Cleavinger’s velocities trending in different directions. While the former has lost some juice, the latter threw as hard as he ever has last season: He had been 90–94 and touching 95 or 96 in the past, but he was parked at 95 from Spring Training on through the summer.
 
-나는 시즌 후반에 다쳤고 21 시즌을 모두 결정할 Caleb Ferguson을 뒤이을 누군가를 이번 오프시즌에 적어도 한명을 추가해야된다고 생각했지만 나는 그들이 Alvarado가 아닌  Cleavinger를 더 선호했는지 모르겠습니다. 아마 그의 arb 또는 Alvarado와 Cleavinger의 구속이 반대 방향으로 가는 트렌딩 일겁니다. 전자가 구속을 잃는 동안 후자는 지난 시즌만큼 강력한 구속이 나왔습니다:Cleavinger는 과거에는 90-94 mph을 던졌고 95 or 96 mph가 최고 구속이었지만, 그는 여름 스프링 캠프를 통해 95 mph에 도달했습니다.
+나는 시즌 후반에 다쳤고 21 시즌을 모두 결정할 Caleb Ferguson을 뒤이을 누군가를 이번 오프시즌에 적어도 한명을 추가해야된다고 생각했지만 나는 그들이 왜 Alvarado가 아닌  Cleavinger를 더 선호하는지 모르겠습니다. 아마 그의 arb 또는 Alvarado와 Cleavinger의 구속이 반대 방향으로 가는 트렌딩 일겁니다. 전자가 구속을 잃는 동안 후자는 지난 시즌만큼 강력한 구속이 나왔습니다:Cleavinger는 과거에는 90-94 mph을 던졌고 95 or 96 mph가 최고 구속이었지만, 그는 여름 스프링 캠프를 통해 95 mph에 도달했습니다.
 {:.faded}
 
 ---
