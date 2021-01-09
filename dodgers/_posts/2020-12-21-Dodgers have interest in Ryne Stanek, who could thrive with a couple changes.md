@@ -69,3 +69,17 @@ Stanek은 다저스가 갈망하는 전형적인 불펜은 아니지만, 당신�
 ---
 
 > 오프너로 유명했던 선수이지만 사실 말린스로 가고는 볼 기회가 없는 선수죠. 다저스가 영입을 한것도 아니고 그냥 관심이 있다는 소스가 몇 개 있길래 찾아보다가 다이제스트에 간단한 칼럼이 있길래 요약했습니다.
+
+---
+
+++
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  &mdash; Mark Feinsand (@Feinsand)
+  <a href="https://twitter.com/Feinsand/status/1347317002201948161">JAN 8, 2021</a>
+</blockquote>
+
+> 다저스가 다른 릴리버들과 계약하는 동안 Ryne Stanek이 애스트로와 1년 1.1M의 계약을 했습니다.
+
+ -- JAN 8, 2021
