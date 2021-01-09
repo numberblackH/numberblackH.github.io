@@ -1,9 +1,11 @@
 ---
 layout: post
-title: MLB to launch league for Draft prospects
+title: What is league for Draft prospects
 date: 2020-12-01 08:26:28 -0400
 noindex: true
 ---
+
+> MLB to launch league for Draft prospects
 
 [MLB to launch league for Draft prospects](https://www.mlb.com/news/mlb-draft-league-to-begin-in-2021) --- MLB.com에 올라온 기사의 부분입니다.   
 {:.faded}

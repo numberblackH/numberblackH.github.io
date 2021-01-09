@@ -5,7 +5,8 @@ date: 2020-12-08 08:26:28 -0400
 noindex: true
 ---
 
-> Orioles Trade Jose Iglesias To Angles In Three Player Deal
+> Orioles Trade Jose Iglesias To Angles In Three Player Deal   
+ Reds Trade Raisel Iglesias To Angels In Two Player Deal
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
@@ -13,9 +14,16 @@ noindex: true
   <a href="https://twitter.com/Ken_Rosenthal/status/1334289375031681026">DEC 3, 2020</a>
 </blockquote>
 
-Angels get: SS José Iglesias    
-Orioles get: RHP Garrett Stallings, RHP Jean Pinto
+Angels get
+: SS José Iglesias    
 
+Orioles get
+: RHP Garrett Stallings
+: RHP Jean Pinto
+
+---
+
+## Orioles Trade Jose Iglesias To Angles In Three Player Deal   
 [Halos trade for veteran shortstop Iglesias](https://www.mlb.com/angels/news/orioles-trade-jose-iglesias-to-angels) &mdash; T.R. Sullivan(T.R. Sullivan has covered the Rangers since 1989, and for MLB.com since 2006)가 쓴 칼럼의 부분입니다.       
 [O's add to prospect depth with Iglesias trade](https://www.mlb.com/orioles/news/orioles-angels-jose-iglesias-trade) &mdash; Joe Trezza(Joe Trezza covers the Orioles for MLB.com)가 쓴 칼럼의 부분입니다. 두 팀의 입장을 간단히 요약만 하겠습니다.
 {:.faded}      
@@ -32,31 +40,7 @@ The Angels addressed a huge need at shortstop by acquiring José Iglesias from t
 
 ---
 
-## Orioles move is rebuilding
-
-[Connolly: Trade and a non-tender again show Orioles that rebuilding’s not pretty](https://theathletic.com/2236143/2020/12/03/trade-non-tender-orioles-rebuilding/) &mdash; Dan Connolly(Dan Connolly is a senior writer covering the Baltimore Orioles for The Athletic)가 쓴 칼럼의 부분입니다.     
-{:.faded}   
-
-Elias said he scouted Stallings, the Angels’ 21st-ranked prospect by MLB.com, in 2019 when he was one of the best pitchers in the incomparable SEC. Orioles scouts added more looks at Stallings during the Angels’ instructional league this fall and saw additional improvement, making him a guy they coveted.
-
-Elias는 2019년 SEC리그에서 최고의 투수 중 한명인 에인절스 mlb.com의 21번째 유망주 Stallings을 스카웃 했다고 말했습니다. 오리올스 스카우트는 Stallings을 이번 가을 에인절스의 교육리그에서 추가로 관찰했고 추가적인 발전을 보았기에, 그는 그들이 탐나는 선수가 되었습니다.
-{:.faded}
-
-Pinto is an absolute wild card, but given the organization’s lack of international talent, he’s the type of prospect Elias wants to keep collecting.
-
-Pinto는 Elias가 모으기를 원하는 유형이고 조직에 부족한 국제 유망주입니다.
-{:.faded}
-
-“When we do trades like this, we kind of try to get a young international player tossed in every time we can because we know we’re in arrears of it with that age group and getting those guys that all these other teams have been signing for the last three or four years,” Elias said. “We haven’t been at that level, and that’s going to continue to sting here for a few years. So, we’re doing all that to catch up to lay this foundation down.”
-
-"우리가 이런 트레이드를 할때, 우리는 어린 국제 선수들을 포함시키려고 합니다. 왜냐하면 우리는 지난 3, 4년동안 다른 팀들과 사인했던 유망주들 그룹에서 밀리고 있다는것을 알고 있습니다." Elias가 말했습니다. 우리는 그런 수준에 이르지 못했고, 그것은 우리를 찌를겁니다. 그래서 우리는 이 기반을 다기지 위해서 모든 것을 따라 잡으려고 하고있습니다.
-{:.faded}
-
-> 오리올스는 지금 국제 유망주 기반을 다지는데 아직 시간이 필요하고 그 시간동안 트레이드로 국제 유망주 수집을 하려고 노력하고 있습니다. 리빌딩을 하면서 팜 시스템을 정비하는 과정은 많은 리빌딩 팀들이 요즘 하는 모습입니다.
-
----
-
-## Iglesias solidifies and stabilizes the Angels’ infield defense
+### Iglesias solidifies and stabilizes the Angels’ infield defense
 
 [Angels add an ‘impact defender’ with trade for shortstop José Iglesias](https://theathletic.com/2236031/2020/12/02/angels-jose-iglesias-trade/) &mdash; Fabian Ardaya(Fabian Ardaya is a staff writer for The Athletic covering the Los Angeles Angels)가 쓴 칼럼의 부분입니다.     
 {:.faded}   
@@ -82,14 +66,45 @@ The Angels also will be free to add to the position from outside the organizatio
 
 ---
 
-> Reds Trade Raisel Iglesias To Angels In Two Player Deal
+### Orioles move is rebuilding
 
-Angels get: RHP Raisel Iglesias   
-Reds get: RHP Noé Ramirez, player to be named(IF Leonardo Rivas)
+[Connolly: Trade and a non-tender again show Orioles that rebuilding’s not pretty](https://theathletic.com/2236143/2020/12/03/trade-non-tender-orioles-rebuilding/) &mdash; Dan Connolly(Dan Connolly is a senior writer covering the Baltimore Orioles for The Athletic)가 쓴 칼럼의 부분입니다.     
+{:.faded}   
+
+Elias said he scouted Stallings, the Angels’ 21st-ranked prospect by MLB.com, in 2019 when he was one of the best pitchers in the incomparable SEC. Orioles scouts added more looks at Stallings during the Angels’ instructional league this fall and saw additional improvement, making him a guy they coveted.
+
+Elias는 2019년 SEC리그에서 최고의 투수 중 한명인 에인절스 mlb.com의 21번째 유망주 Stallings을 스카웃 했다고 말했습니다. 오리올스 스카우트는 Stallings을 이번 가을 에인절스의 교육리그에서 추가로 관찰했고 추가적인 발전을 보았기에, 그는 그들이 탐나는 선수가 되었습니다.
+{:.faded}
+
+Pinto is an absolute wild card, but given the organization’s lack of international talent, he’s the type of prospect Elias wants to keep collecting.
+
+Pinto는 Elias가 모으기를 원하는 유형이고 조직에 부족한 국제 유망주입니다.
+{:.faded}
+
+“When we do trades like this, we kind of try to get a young international player tossed in every time we can because we know we’re in arrears of it with that age group and getting those guys that all these other teams have been signing for the last three or four years,” Elias said. “We haven’t been at that level, and that’s going to continue to sting here for a few years. So, we’re doing all that to catch up to lay this foundation down.”
+
+"우리가 이런 트레이드를 할때, 우리는 어린 국제 선수들을 포함시키려고 합니다. 왜냐하면 우리는 지난 3, 4년동안 다른 팀들과 사인했던 유망주들 그룹에서 밀리고 있다는것을 알고 있습니다." Elias가 말했습니다. 우리는 그런 수준에 이르지 못했고, 그것은 우리를 찌를겁니다. 그래서 우리는 이 기반을 다기지 위해서 모든 것을 따라 잡으려고 하고있습니다.
+{:.faded}
+
+> 오리올스는 지금 국제 유망주 기반을 다지는데 아직 시간이 필요하고 그 시간동안 트레이드로 국제 유망주 수집을 하려고 노력하고 있습니다. 리빌딩을 하면서 팜 시스템을 정비하는 과정은 많은 리빌딩 팀들이 요즘 하는 모습입니다.
+
+---
+
+## Reds Trade Raisel Iglesias To Angels In Two Player Deal
+
+Angels get
+: RHP Raisel Iglesias   
+
+Reds get
+: RHP Noé Ramirez
+: player to be named(IF Leonardo Rivas)
 
 [Angels nab closer Raisel Iglesias from Reds](https://www.mlb.com/angels/news/raisel-iglesias-traded-to-angels) &mdash; Rhett Bollinger(Rhett Bollinger covers the Angels for MLB.com)가 쓴 칼럼의 부분입니다.     
+
 [Reds trade Iglesias to Halos, acquire Ramirez](https://www.mlb.com/reds/news/reds-acquire-noe-ramirez-for-raisel-iglesias) &mdash; Mark Sheldon(Mark Sheldon has covered the Reds for MLB.com since 2006)가 쓴 칼럼의 부분입니다.   
+
 [Angels continue revamping their bullpen with trade for closer Raisel Iglesias](https://theathletic.com/2245171/2020/12/07/angels-trade-raisel-iglesias-reds/) &mdash; Fabian Ardaya(Fabian Ardaya is a staff writer for The Athletic covering the Los Angeles Angels)가 쓴 칼럼의 부분입니다.   
+
 [Reds continue ‘reallocating resources’ with Raisel Iglesias trade](https://theathletic.com/2244995/2020/12/07/reds-continue-reallocating-resources-with-raisel-iglesias-trade/) &mdash; C. Trent Rosecrans(C. Trent Rosecrans is a senior writer for The Athletic covering the Cincinnati Reds)가 쓴 칼럼의 부분입니다. 두 팀의 입장을 간단히 요약만 하겠습니다.
 {:.faded}  
 
@@ -127,6 +142,8 @@ As he said after the non-tender deadline, Krall said the move was about “reall
 
 추가로 넘어가는 선수가 공개되었습니다. IF Leonardo Rivas
 {:.faded}
+
+ -- DEC 9, 2020
 
 ---
 
