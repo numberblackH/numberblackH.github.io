@@ -5,6 +5,29 @@ date: 2020-12-30 08:26:28 -0400
 noindex: true
 ---
 
+> Garrett Cleavinger's trade story
+
+Dodgers get
+: LHP Garrett Cleavinger
+
+Phillies get
+: LHP Jose Alvarado
+
+Rays get
+: INF Dillon Paulson
+: PTBNL
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  &mdash; Jeff Passan (@JeffPassan)
+  <a href="https://twitter.com/JeffPassan/status/1343988680785059843">DEC 30, 2020</a>
+</blockquote>
+
+파드레스가 대형 트레이드를 2개 진행한 후, 다저스는 삼각트레이드를 진행했는데 다저스가 Jose Alvardo가 아닌 Garrett Cleavinger를 데려왔습니다.
+{:.faded}
+
+---
+
 [Dodgers acquire Garrett Cleavinger in three-team deal](http://dodgersdigest.com/2020/12/21/dodgers-have-interest-in-ryne-stanek-who-could-thrive-with-a-couple-changes/) &mdash; Cody Bashore(Cody Bashore is Writer/editor DodgersDigest)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}
 

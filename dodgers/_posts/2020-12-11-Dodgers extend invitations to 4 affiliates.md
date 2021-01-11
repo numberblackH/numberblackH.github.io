@@ -5,10 +5,6 @@ date: 2020-12-11 08:26:28 -0400
 noindex: true
 ---
 
-[Tracking new Minor League affiliates for '21](https://www.mlb.com/news/new-minor-league-affiliates-for-2021) &mdash; William Boor(William Boor is a reporter for MLB Pipeline)가 쓴 칼럼의 부분입니다.
-30개팀 마이너리그 정보를 확인할 수 있습니다.
-{:.faded}   
-
 [Dodgers extend invitations to 4 affiliates](https://www.mlb.com/dodgers/news/dodgers-extend-minor-league-invites) &mdash; Ken Gurnick(Ken Gurnick has covered the Dodgers for MLB.com since 2001)가 쓴 칼럼의 부분입니다.        
 {:.faded}   
 
@@ -41,7 +37,13 @@ Ogden(R+)와 계약을 연장하지 않았습니다.
 
 ---
 
-> Dodgers Close to Signing Free Agent Utility Player Carlos Asuaje
+[Tracking new Minor League affiliates for '21](https://www.mlb.com/news/new-minor-league-affiliates-for-2021) &mdash; William Boor(William Boor is a reporter for MLB Pipeline)가 쓴 칼럼의 부분입니다.
+30개팀 마이너리그 정보를 확인할 수 있습니다.
+{:.faded}   
+
+---
+
+### Dodgers Close to Signing Free Agent Utility Player Carlos Asuaje
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">

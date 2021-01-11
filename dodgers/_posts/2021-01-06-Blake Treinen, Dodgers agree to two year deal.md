@@ -5,13 +5,13 @@ date: 2021-01-06 08:26:28 -0400
 noindex: true
 ---
 
-> Re-signing Blake Treinen gives the Dodgers what they love
+> Blake Treinen's contract story
 
 Blake Treinen's contract   
-signing bonus - 4M   
-2021 - 6M      
-2022 - 6M      
-2023 - 8M(club option) or 1.5M(buyout)   
+: signing bonus - 4M    
+: 2021 - 6M      
+: 2022 - 6M      
+: 2023 - 8M(club option) or 1.5M(buyout)   
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
@@ -30,6 +30,8 @@ signing bonus - 4M
   &mdash; Mark Feinsand (@Feinsand)
   <a href="https://twitter.com/Feinsand/status/1346649543589453825">JAN 6, 2020</a>
 </blockquote>
+
+---
 
 [Re-signing Blake Treinen gives the Dodgers what they love — options](https://theathletic.com/2305117/2021/01/05/dodgers-blake-treinen-resign/) &mdash; Pedro Moura(Pedro Moura is a senior writer for The Athletic covering the Los Angeles Dodgers)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}
@@ -52,6 +54,8 @@ In fact, indications are that the Dodgers were Treinen’s first choice. Multipl
 
 사실, 다저스가 트레이넨의 첫 번째 선택이었다는 것을 암시합니다. 여러 팀이 비슷한 계약을 제안했고, 그는 다저스에 — a top contender — 합류하기로 결정했지만, 또한 기존의 late-inning 경쟁 선수 중 한명으로 인정받았습니다.
 {:.faded}
+
+> 페드로 모우라가 작년에 트레이넨이 다저스와 계약했을때도 트레이넨이 다저스를 선호한다는것을 기사로 썼었습니다.
 
 ---
 

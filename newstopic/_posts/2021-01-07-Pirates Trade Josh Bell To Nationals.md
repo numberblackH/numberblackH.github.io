@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pirates Trade Josh Bell To Nationals
+title: Pirates trade Josh Bell to Nationals
 date: 2020-12-27 08:26:28 -0400
 noindex: true
 ---
@@ -20,10 +20,12 @@ Nationals get
   <a href="https://twitter.com/mike_petriello/status/1342926835374546944">DEC 27, 2020</a>
 </blockquote>
 
-> 파이리츠의 조시 벨이 내셔널스로 트레이드 되었습니다. 수비가 매우 떨어지는 1루수가 아메리칸 리그가 아닌 내셔널 리그로 트레이드된게 조금은 놀랐습니다. 잔인할지 모르지만 파이리츠는 벨을 언젠가는 팔아야했고 내셔널스는 마침 리그 최악의 1루수를 가진 팀인데 타석에서 생산을 기대할 수 있는 빅뱃을 큰 출혈없이 얻었습니다. 서로의 니즈가 맞아 서로에게 필요한 적당한 딜이 이루어진것 겉습니다.
+파이리츠의 조시 벨이 내셔널스로 트레이드 되었습니다. 수비가 매우 떨어지는 1루수가 아메리칸 리그가 아닌 내셔널 리그로 트레이드된게 조금은 놀랐습니다. 잔인할지 모르지만 파이리츠는 벨을 언젠가는 팔아야했고 내셔널스는 마침 리그 최악의 1루수를 가진 팀인데 타석에서 생산을 기대할 수 있는 빅뱃을 큰 출혈없이 얻었습니다. 서로의 니즈가 맞아 서로에게 필요한 적당한 딜이 이루어진것 겉습니다.
+{:.faded}
 
 ---
 
+## Pittsburgh Pirates
 [Pirates' Josh Bell traded to Nationals: Who won the deal?](https://theathletic.com/2284107/2020/12/24/josh-bell-trade-washington-nationals-pittsburgh-pirates/) &mdash; The Athletic Pittsburgh Staff(Jonathan MayoRob, Biertempfel, Stephen J. Nesbitt and Sean Gentille are Senior Writer for The Athletic, covering Pittsburgh sports)가 쓴 칼럼의 부분입니다. 이 글은 Pittsburgh Staff들의 생각만 쓰인 칼럼입니다.  
 {:.faded}
 

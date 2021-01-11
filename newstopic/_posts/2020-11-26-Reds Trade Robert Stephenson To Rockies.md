@@ -1,11 +1,19 @@
 ---
 layout: post
-title: Cincinnati Reds, Colorado Rockies involved in four-player trade
+title: Reds Trade Robert Stephenson To Rockies
 date: 2020-11-26 08:26:28 -0400
 noindex: true
 ---
 
-## Reds Trade Robert Stephenson To Rockies In Four Player Deal
+> Cincinnati Reds, Colorado Rockies involved in four-player trade
+
+Rockies get
+: RHP Robert Stephenson
+: OF Jameson Hannah(Rockies No. 14 prospect)   
+
+Reds get
+: RHP Jeff Hoffman
+: RHP Case Williams(Reds No. 29 prospect)
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
@@ -19,8 +27,10 @@ noindex: true
   <a href="https://twitter.com/JonHeyman/status/1331666579927560193">Nov 26, 2020</a>
 </blockquote>
 
-Rockies get: Robert Stephenson, Jameson Hannah   
-Reds get: Jeff Hoffman, Case Williams
+두 구단이 서로 한계를 느낀 투수들을 메인칩으로 2:2 트레이드가 있었습니다.
+{:.faded}
+
+---
 
 [Reds get Hoffman, top 30 prospect in trade](https://www.mlb.com/reds/news/reds-rockies-robert-stephenson-jeff-hoffman-trade) &mdash; Mark Sheldon(Mark Sheldon has covered the Reds for MLB.com since 2006)가 쓴 칼럼의 부분입니다.    
 [Rox net RHP, top 30 prospect for Hoffman](https://www.mlb.com/rockies/news/robert-stephenson-jameson-hannah-traded-to-rockies) &mdash; Thomas Harding(Thomas Harding has covered the Rockies since 2000, and for MLB.com since 2002)가 쓴 칼럼의 부분입니다. 두 팀의 입장을 간단히 요약만 하겠습니다.
@@ -67,7 +77,7 @@ Hoffman, 27, was originally the ninth overall pick of the Blue Jays in the 2014 
 
 ---
 
-## Break out 2019 'Robert Stephenson'
+### Break out 2019 'Robert Stephenson'
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
@@ -83,7 +93,7 @@ K% 30.9 -> 30.2
 
 ---
 
-## Driveline 'Jeff Hoffman'
+### Driveline 'Jeff Hoffman'
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
@@ -102,7 +112,7 @@ K% 30.9 -> 30.2
 
 ---
 
-## Trade Story 'Case Williams'
+### Who is 'Case Williams'
 
 [What Rockies, Reds net in four-player trade headlined by Jeff Hoffman](https://theathletic.com/2222136/2020/11/25/jeff-hoffman-rockies-reds-trade-robert-stephenson/) &mdash; By Nick Groke and C. Trent Rosecrans
 이 함께 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
@@ -110,7 +120,7 @@ K% 30.9 -> 30.2
 
 The Reds were set to draft him with the 113th pick, but the Rockies sneaked in front to draft him three picks earlier.
 
-레즈는 그를 113픽으로 드래프트하려고 했으나, 로키스가 3픽 앞서서 드래프트했다고합니다. -- Case Williams
+레즈는 그를 113픽으로 드래프트하려고 했으나, 로키스가 3픽 앞서서 드래프트했다고 합니다. -- Case Williams
 {:.faded}
 
 ---

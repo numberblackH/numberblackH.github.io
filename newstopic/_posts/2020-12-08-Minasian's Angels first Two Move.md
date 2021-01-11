@@ -8,12 +8,12 @@ noindex: true
 > Orioles Trade Jose Iglesias To Angles In Three Player Deal   
  Reds Trade Raisel Iglesias To Angels In Two Player Deal
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-lang="en">
-  &mdash; Ken Rosenthal (@Ken_Rosenthal)
-  <a href="https://twitter.com/Ken_Rosenthal/status/1334289375031681026">DEC 3, 2020</a>
-</blockquote>
+에인절스의 새 GM이 2건의 트레이드를 통해 팀의 부족한 부분을 보강했습니다.
+{:.faded}  
 
+---
+
+## Orioles Trade Jose Iglesias To Angles In Three Player Deal   
 Angels get
 : SS José Iglesias    
 
@@ -21,9 +21,14 @@ Orioles get
 : RHP Garrett Stallings
 : RHP Jean Pinto
 
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  &mdash; Ken Rosenthal (@Ken_Rosenthal)
+  <a href="https://twitter.com/Ken_Rosenthal/status/1334289375031681026">DEC 3, 2020</a>
+</blockquote>
+
 ---
 
-## Orioles Trade Jose Iglesias To Angles In Three Player Deal   
 [Halos trade for veteran shortstop Iglesias](https://www.mlb.com/angels/news/orioles-trade-jose-iglesias-to-angels) &mdash; T.R. Sullivan(T.R. Sullivan has covered the Rangers since 1989, and for MLB.com since 2006)가 쓴 칼럼의 부분입니다.       
 [O's add to prospect depth with Iglesias trade](https://www.mlb.com/orioles/news/orioles-angels-jose-iglesias-trade) &mdash; Joe Trezza(Joe Trezza covers the Orioles for MLB.com)가 쓴 칼럼의 부분입니다. 두 팀의 입장을 간단히 요약만 하겠습니다.
 {:.faded}      
@@ -98,6 +103,8 @@ Angels get
 Reds get
 : RHP Noé Ramirez
 : player to be named(IF Leonardo Rivas)
+
+---
 
 [Angels nab closer Raisel Iglesias from Reds](https://www.mlb.com/angels/news/raisel-iglesias-traded-to-angels) &mdash; Rhett Bollinger(Rhett Bollinger covers the Angels for MLB.com)가 쓴 칼럼의 부분입니다.     
 

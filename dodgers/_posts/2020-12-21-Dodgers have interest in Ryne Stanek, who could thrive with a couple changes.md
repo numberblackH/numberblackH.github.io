@@ -12,7 +12,6 @@ noindex: true
 *Ryne Stanek*
 {:.figure}
 
-
 So, what exactly could the Dodgers see in Stanek? Well, he is a former draft pick of Friedman’s — his penultimate 1st-rounder selection while with Tampa (29th overall in 2013) and he has shown some potential. He has a live arm, but the results have been a mixed bag so far. However, there is some hope that Stanek’s best may still be on the way.
 
 다저스는 Stanek에게 정확히 무엇을 보았을까? 그는 프리드먼의 드래프트에서 뽑혔던 선수입니다 — 그의 끝에서(14년 겨울 프리드먼은 다저스로 이적) 2번째 1라운더 템파베이(2013년 전체 29번) 그는 가능성을 보여주었습니다.

@@ -5,10 +5,10 @@ date: 2020-12-02 08:26:28 -0400
 noindex: true
 ---
 
-[Sarris: A look at some potential major-league pitching coaches on the rise](https://theathletic.com/1343712/2019/11/06/sarris-a-look-at-some-potential-major-league-pitching-coaches-on-the-rise/?article_source=search&search_query=Caleb%20Cotham) &mdash; Eno Sarris(Eno Sarris is a baseball analytics writer at The Athletic. Eno has written for FanGraphs, ESPN, Fox, MLB.com, SB Nation and others)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Sarris: A look at some potential major-league pitching coaches on the rise](https://theathletic.com/1343712/2019/11/06/sarris-a-look-at-some-potential-major-league-pitching-coaches-on-the-rise/?article_source=search&search_query=Caleb%20Cotham) &mdash; Eno Sarris(Eno Sarris is a baseball analytics writer at The Athletic)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
 {:.faded}
 
-## Caleb Cotham, Cincinnati Reds Assistant Pitching Coach (& Director of Pitching)
+### Caleb Cotham, Cincinnati Reds Assistant Pitching Coach (& Director of Pitching)
 
 It’s already been an interesting career for Cotham. The former Vanderbilt pitcher spent six years in the Yankees organization before being traded in the package that landed Aroldis Chapman, bouncing around for a couple of years and spending most of that time training and learning at Driveline Baseball before retiring as a player in 2017. Now he’s back coaching with his college coach Derek Johnson in Cincinnati, and it sounds like the players he works with think his unique experience has made him a huge resource for the Reds.
 

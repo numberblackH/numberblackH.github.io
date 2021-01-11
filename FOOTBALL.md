@@ -1,7 +1,7 @@
 ---
 ---
 
-# Link
+# FOOTBALL
 
 ## UK News
 * [Sky Sports]{:.heading.flip-title} --- Football Results, Scores, Transfers, News
@@ -141,6 +141,7 @@
 * [맹피셜]{:.heading.flip-title} --- 맹훈이의 뇌피셜 풋볼
 * [새벽의축구전문가]{:.heading.flip-title} --- 새벽의 축구 전문가
 * [한준TV Footics]{:.heading.flip-title} --- 한준의 Football tactics
+* [축구보는 기자]{:.heading.flip-title} --- 축구보는 기자
 * [김진짜 Real KIM]{:.heading.flip-title} --- 김진짜 Real KIM
 {:.related-posts.faded}
 
@@ -152,4 +153,5 @@
 [맹피셜]: https://www.youtube.com/channel/UCRaEQm6yar7P7FeVpkL8xYg/videos
 [새벽의축구전문가]: https://www.youtube.com/c/%EC%83%88%EB%B2%BD%EC%9D%98%EC%B6%95%EA%B5%AC%EC%A0%84%EB%AC%B8%EA%B0%80/videos
 [한준TV Footics]: https://www.youtube.com/c/HANJUNETVFootics/videos
+[축구보는 기자]:https://www.youtube.com/channel/UCSTx384G-NyizsdkDCP74VA/videos
 [김진짜 Real KIM]: https://www.youtube.com/channel/UChb4gtsgSdwMDktdLukfrfw/videos
