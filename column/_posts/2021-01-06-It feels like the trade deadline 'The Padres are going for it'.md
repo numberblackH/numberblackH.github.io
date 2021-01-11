@@ -28,5 +28,8 @@ At another time, perhaps such a dramatic build-up would not have been possible. 
 
 파드레스의 무브 목록
 : [Padres just might be baseball's best team](https://numberblackh.github.io/column/2020-12-29-Padres-just-might-be-baseball's-best-team/)
+: [San Diego Padres acquire ace Blake Snell from Tampa Bay Rays](https://numberblackh.github.io/newstopic/2020-12-29-San-Diego-Padres-acquire-ace-Blake-Snell-from-Tampa-Bay-Rays/)
+: [Yu Darvish trade log](https://numberblackh.github.io/newstopic/2020-12-29-Yu-Darvish-trade-log/)
+: [San Diego Padres acquire ace Yu Darvish from Chicago Cubs](https://numberblackh.github.io/newstopic/2020-12-29-San-Diego-Padres-acquire-ace-Yu-Darvish-from-Chicago-Cubs/)
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yu Darvish trade log
-date: 2020-12-29 07:26:28 -0400
+date: 2020-12-30 07:26:28 -0400
 noindex: true
 ---
 

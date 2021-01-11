@@ -65,7 +65,7 @@ The Indians end up saving approximately $47 million, though they inherit Rosario
 
 ---
 
-[The state of Cleveland baseball without Francisco Lindor and Carlos Carrasco](https://theathletic.com/2308649/2021/01/07/indians-trade-francisco-lindor-carlos-carrasco/)  &mdash; Zack Meisel(Zack Meisel is a writer for The Athletic covering the Cleveland Indians)가 쓴 칼럼의 부분입니다.
+[The state of Cleveland baseball without Francisco Lindor and Carlos Carrasco](https://theathletic.com/2308649/2021/01/07/indians-trade-francisco-lindor-carlos-carrasco/) &mdash; Zack Meisel(Zack Meisel is a writer for The Athletic covering the Cleveland Indians)가 쓴 칼럼의 부분입니다.
 
 CLEVELAND — For nearly a year, Chris Antonetti and Francisco Lindor have discussed the possibility that the shortstop’s tenure in Cleveland might end with a trade.
 
@@ -84,7 +84,9 @@ The possibility of a Lindor trade has been the sport’s worst-kept secret. The 
 
 ---
 
-[Scouting reports on Cleveland's trade haul](https://www.mlb.com/indians/news/francisco-lindor-trade-breakdown) 인디언스로 넘어간 4명의 선수에 대한 리프토입니다.
+인디언스로 넘어간 4명의 선수에 대한 리포트입니다. 링크 걸어놓겠습니다.
+
+[Scouting reports on Cleveland's trade haul](https://www.mlb.com/indians/news/francisco-lindor-trade-breakdown) &mdash; Mike Rosenbaum(Mike Rosenbaum is a reporter for MLB.com)가 쓴 칼럼의 부분입니다.
 {:.faded}
 
 ---

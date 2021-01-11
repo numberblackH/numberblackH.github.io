@@ -1,7 +1,7 @@
 ---
 layout: post
 title: San Diego Padres acquire ace Yu Darvish from Chicago Cubs
-date: 2020-12-29 08:26:28 -0400
+date: 2020-12-30 08:26:28 -0400
 noindex: true
 ---
 
