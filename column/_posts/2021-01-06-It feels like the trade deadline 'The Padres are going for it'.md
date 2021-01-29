@@ -5,7 +5,7 @@ date: 2020-12-27 08:26:28 -0400
 noindex: true
 ---
 
-['It feels like the trade deadline': The Padres are going for it — again](https://theathletic.com/2284107/2020/12/24/josh-bell-trade-washington-nationals-pittsburgh-pirates/) &mdash; Dennis Lin(Dennis Lin is a staff writer for The Athletic covering the San Diego Padres)가 쓴 칼럼의 부분입니다.
+['It feels like the trade deadline': The Padres are going for it — again](https://theathletic.com/2284107/2020/12/24/josh-bell-trade-washington-nationals-pittsburgh-pirates/) &mdash; <The Athletic, Dennis Lin>
 {:.faded}
 
 Not yet four months have passed since the Padres made a move, then another, then another and another and another. Over the course of three days in late August, they appeared to swim upstream while making significant headway. Much of the rest of baseball remained dormant, dissuaded by financial concerns and an oddball season. The Padres, meanwhile, saw a unique opportunity.

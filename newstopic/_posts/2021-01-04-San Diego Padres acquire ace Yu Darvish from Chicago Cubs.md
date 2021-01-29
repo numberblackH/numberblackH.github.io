@@ -42,7 +42,7 @@ Cubs get
 
 ---
 
-[The Padres are deep in trade talks to acquire Yu Darvish from Cubs](https://theathletic.com/2289017/2020/12/28/the-padres-are-deep-in-trade-talks-to-acquire-yu-darvish-from-cubs/) &mdash; Dennis Lin, Sahadev Sharma and P. Mooney(Dennis Lin, Sahadev Sharma and P. Mooney are Senior Writer for The Athletic)가 쓴 칼럼의 부분입니다.   
+[The Padres are deep in trade talks to acquire Yu Darvish from Cubs](https://theathletic.com/2289017/2020/12/28/the-padres-are-deep-in-trade-talks-to-acquire-yu-darvish-from-cubs/) &mdash; <The Athletic, Dennis Lin and Sahadev Sharma and P. Mooney>
 {:.faded}
 
 Darvish has been a target for the Padres since early in the offseason, and San Diego officials have a significant history with the pitcher. While with the Rangers, A.J. Preller was key in scouting, recruiting and signing Darvish out of Japan. As Padres general manager, Preller formerly employed Seiichiro Nakagaki, Darvish’s old personal trainer, as director of applied sports science. Additionally, Padres manager Jayce Tingler worked for the Rangers during Darvish’s stint with Texas.
@@ -57,7 +57,7 @@ Though the Cubs have avoided the term “rebuild,” their movements have raised
 
 ---
 
-[The Cubs rebuild is here: Why stop now after trading Yu Darvish?  ](https://theathletic.com/2290325/2020/12/29/chicago-cubs-yu-darvish-rebuild-mlb/) &mdash; Patrick Mooney(Patrick Mooney is a senior writer for The Athletic covering the Chicago Cubs)가 쓴 칼럼의 부분입니다.   
+[The Cubs rebuild is here: Why stop now after trading Yu Darvish?  ](https://theathletic.com/2290325/2020/12/29/chicago-cubs-yu-darvish-rebuild-mlb/) &mdash; <The Athletic, Patrick Mooney>
 {:.faded}
 
 The Cubs are clearly prioritizing payroll flexibility and long-term sustainability over winning big in 2021. As the Padres GM who once demanded that the Red Sox include Rizzo in the Adrián González trade — and Theo Epstein’s longtime No. 2 executive in Chicago — Hoyer knows the opportunities for a seller and the costs that come with win-now deals. After mortgaging their farm system to make the playoffs five times in the last six years, the Cubs are focusing on the future.
@@ -72,7 +72,7 @@ Maybe all the changes in scouting and player development will pay big dividends,
 
 ---
 
-[Sharma: Examining Jed Hoyer’s explanation of his unpopular Yu Darvish trade](https://theathletic.com/2294056/2020/12/31/jed-hoyers-yu-darvish-trade-cubs-mlb/) &mdash; Sahadev Sharma(Sahadev Sharma is the a staff writer for The Athletic covering the Chicago Cubs)가 쓴 칼럼의 부분입니다.   
+[Sharma: Examining Jed Hoyer’s explanation of his unpopular Yu Darvish trade](https://theathletic.com/2294056/2020/12/31/jed-hoyers-yu-darvish-trade-cubs-mlb/) &mdash; <The Athletic, Sahadev Sharma>
 {:.faded}
 
 Rather than continue to push toward a goal that Hoyer felt wasn’t realistic for 2021, he chose a reset. Hoyer has decided a step back now would be best for the long-term health of the organization.
@@ -96,8 +96,8 @@ The second part of Hoyer’s statement is admitting the Cubs’ present reality.
 
 컵스가 빅마켓 인기팀이다보니 글들이 많습니다. 링크 걸어놓겠습니다.
 
-[What did the Cubs get for Yu Darvish? A stopgap starter and a lot of risk](https://theathletic.com/2290282/2020/12/29/what-did-the-cubs-get-for-yu-darvish-a-stopgap-starter-and-a-lot-of-risk/) &mdash; Sahadev Sharma(Sahadev Sharma is the a staff writer for The Athletic covering the Chicago Cubs)가 쓴 칼럼의 부분입니다.   
+[What did the Cubs get for Yu Darvish? A stopgap starter and a lot of risk](https://theathletic.com/2290282/2020/12/29/what-did-the-cubs-get-for-yu-darvish-a-stopgap-starter-and-a-lot-of-risk/) &mdash; <The Athletic, Sahadev Sharma>
 {:.faded}
 
-[https://www.espn.com/mlb/story/_/id/30615373/sources-san-diego-padres-set-acquire-yu-darvish-chicago-cubs](https://www.espn.com/mlb/story/_/id/30615373/sources-san-diego-padres-set-acquire-yu-darvish-chicago-cubs) &mdash; Jesse Rogers and Jeff Passan(Jesse Rogers and Jeff Passan are Senior Writer for ESPN)가 쓴 칼럼의 부분입니다.   
+[https://www.espn.com/mlb/story/_/id/30615373/sources-san-diego-padres-set-acquire-yu-darvish-chicago-cubs](https://www.espn.com/mlb/story/_/id/30615373/sources-san-diego-padres-set-acquire-yu-darvish-chicago-cubs) &mdash; <ESPN, Jesse Rogers and Jeff Passan>
 {:.faded}

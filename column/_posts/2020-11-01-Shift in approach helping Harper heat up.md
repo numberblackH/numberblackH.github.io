@@ -5,7 +5,7 @@ date: 2020-11-01 08:26:29 -0400
 noindex: true
 ---
 
-[Shift in approach helping Harper heat up](https://www.mlb.com/phillies/news/bryce-harper-having-success-against-shift) &mdash; Mike Petriello(Mike Petriello is an analyst for MLB.com)분석가가 2019년 8월 17일에 썼던 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Shift in approach helping Harper heat up](https://www.mlb.com/phillies/news/bryce-harper-having-success-against-shift) &mdash; <MLB, ike Petriello>
 {:.faded}
 
 ![Bryce Harper](https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/ier1kjeuo3bxuhealntb){:data-width="1440" data-height="836"}

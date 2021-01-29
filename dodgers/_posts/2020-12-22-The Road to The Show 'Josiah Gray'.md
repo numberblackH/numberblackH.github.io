@@ -5,7 +5,7 @@ date: 2020-12-22 08:26:28 -0400
 noindex: true
 ---
 
-[The Road to The Show 'Josiah Gray'](https://www.milb.com/news/the-road-to-the-show-josiah-gray/) &mdash; John Parker(John Parker is an editor for MiLB.com)가 쓴 칼럼의 부분입니다.        
+[The Road to The Show 'Josiah Gray'](https://www.milb.com/news/the-road-to-the-show-josiah-gray/) &mdash; <MiLB, John Parker>
 {:.faded}
 
 ### Former infielder has made stunning rise to top of Dodgers system

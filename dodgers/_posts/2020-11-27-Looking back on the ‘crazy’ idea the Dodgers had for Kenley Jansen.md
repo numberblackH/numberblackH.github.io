@@ -5,7 +5,7 @@ date: 2020-11-27 08:26:28 -0400
 noindex: true
 ---
 
-[Looking back on the ‘crazy’ idea the Dodgers had for Kenley Jansen](https://theathletic.com/579021/2018/10/09/looking-back-on-the-crazy-idea-the-dodgers-had-for-kenley-jansen/) &mdash; Pedro Moura(Pedro Moura is a senior writer for The Athletic covering the Los Angeles Dodgers)가 2018년 10월 9일에 쓴 칼럼의 부분입니다.
+[Looking back on the ‘crazy’ idea the Dodgers had for Kenley Jansen](https://theathletic.com/579021/2018/10/09/looking-back-on-the-crazy-idea-the-dodgers-had-for-kenley-jansen/) &mdash; <The Athletic, Pedro Moura>
 {:.faded}   
 
 On the Fourth of July in 2009, Carlos Subero called Kenley Jansen into his office inside San Bernardino’s San Manuel Stadium.

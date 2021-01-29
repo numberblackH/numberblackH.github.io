@@ -5,7 +5,7 @@ date: 2020-12-11 08:26:28 -0400
 noindex: true
 ---
 
-[Dodgers extend invitations to 4 affiliates](https://www.mlb.com/dodgers/news/dodgers-extend-minor-league-invites) &mdash; Ken Gurnick(Ken Gurnick has covered the Dodgers for MLB.com since 2001)가 쓴 칼럼의 부분입니다.        
+[Dodgers extend invitations to 4 affiliates](https://www.mlb.com/dodgers/news/dodgers-extend-minor-league-invites) &mdash; <MLB, Ken Gurnick> 
 {:.faded}   
 
 The Dodgers on Wednesday extended invitations to keep their Minor League affiliates in Oklahoma City, Tulsa, Great Lakes and Rancho Cucamonga as part of MLB’s new player development structure.

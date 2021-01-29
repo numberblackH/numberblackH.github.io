@@ -5,7 +5,7 @@ date: 2020-12-21 08:26:28 -0400
 noindex: true
 ---
 
-[This young 2B hits like a throwback player](https://www.mlb.com/news/nick-madrigal-contact-few-strikeouts) &mdash; Sarah Langs(Sarah Langs is a reporter/editor for MLB.com based in New York)분석가가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[This young 2B hits like a throwback player](https://www.mlb.com/news/nick-madrigal-contact-few-strikeouts) &mdash; <MLB, Sarah Langs>
 {:.faded}
 
 In an era when strikeouts continue to increase and some fans long for the contact hitters of yore, a White Sox prospect is poised to add to the small core of high-average hitters in the game right now. This unconventional young second baseman could be making a run at a batting title soon.

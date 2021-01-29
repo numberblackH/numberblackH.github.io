@@ -15,7 +15,7 @@ noindex: true
   <a href="https://twitter.com/Cubs/status/1330934362649587716">Nov 24, 2020</a>
 </blockquote>
 
-[Hoyer, Cubs agree to new 5-year contract](https://www.mlb.com/cubs/news/jed-hoyer-cubs-new-contract) &mdash; Jordan Bastian(Jordan Bastian covers the Cubs for MLB.com)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Hoyer, Cubs agree to new 5-year contract](https://www.mlb.com/cubs/news/jed-hoyer-cubs-new-contract) &mdash; <MLB, Jordan Bastian>
 {:.faded}
 
 It signaled the end of one of the great eras in Cubs history, but also the beginning of a new phase for the franchise. Jed Hoyer, Epstein's long-time general manager, was officially promoted to his former boss' role and finalized a five-year extension (through 2025) with the club on Monday.
@@ -27,7 +27,7 @@ It signaled the end of one of the great eras in Cubs history, but also the begin
 
 ## Who is GM?
 
-[Cubs searching for GM from outside the club](https://www.mlb.com/cubs/news/jed-hoyer-on-general-manager-search) &mdash; Jordan Bastian(Jordan Bastian covers the Cubs for MLB.com)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Cubs searching for GM from outside the club](https://www.mlb.com/cubs/news/jed-hoyer-on-general-manager-search) &mdash; <MLB, Jordan Bastian>
 {:.faded}
 
 On Monday, when Hoyer finalized a five-year extension as the Cubs' new president of baseball operations, he made it known that he will be searching for a new general manager from outside the organization. There will be internal promotions as part of the front-office restructuring, but Hoyer wants a GM with some fresh eyes and thoughts.
@@ -50,7 +50,7 @@ Chris Valaika가 David Ross의 스태프로 새로운 보조 타격코치로 합
 
 ## What is biggest question?
 
-[Cubs' biggest questions as Hoyer takes over](https://www.mlb.com/cubs/news/jed-hoyer-cubs-face-offseason-questions) &mdash; Jordan Bastian(Jordan Bastian covers the Cubs for MLB.com)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Cubs' biggest questions as Hoyer takes over](https://www.mlb.com/cubs/news/jed-hoyer-cubs-face-offseason-questions) &mdash; <MLB, Jordan Bastian>
 {:.faded}
 
 Now, the team has reached a critical point in its timeline.
@@ -87,7 +87,7 @@ The frustrations with the Cubs' lineup are heightened by the fact that there hav
 
 ## What the Cubs and Hoyer have to do in the off-season
 
-[Offseason checklist: Cubs' needs and moves](https://www.mlb.com/cubs/news/cubs-offseason-needs-and-moves) &mdash; Jordan Bastian(Jordan Bastian covers the Cubs for MLB.com)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Offseason checklist: Cubs' needs and moves](https://www.mlb.com/cubs/news/cubs-offseason-needs-and-moves) &mdash; <MLB, Jordan Bastian>
 {:.faded}
 
 Starting pitching   
@@ -145,7 +145,7 @@ Andrew Chafin, Tyler Chatwood, Billy Hamilton, Jeremy Jeffress, Jason Kipnis, Ca
 ---
 
 엡스타인에 대한 많은 글들이 있습니다. 그 중에 몇 개 링크해놓겠습니다.   
-[As Theo Epstein Departs, What Will Become of the Cubs?](https://blogs.fangraphs.com/as-theo-epstein-departs-what-will-become-of-the-cubs/) &mdash; Jon Tayler   
-[Drafting Kris Bryant, passing on Justin Verlander: Theo Epstein’s best, worst moves](https://theathletic.com/2210222/2020/11/20/theo-epstein-cubs-trades/) &mdash; Sahadev Sharma and Patrick Mooney   
+[As Theo Epstein Departs, What Will Become of the Cubs?](https://blogs.fangraphs.com/as-theo-epstein-departs-what-will-become-of-the-cubs/) &mdash; <Frangraphs, Jon Tayler>
+[Drafting Kris Bryant, passing on Justin Verlander: Theo Epstein’s best, worst moves](https://theathletic.com/2210222/2020/11/20/theo-epstein-cubs-trades/) &mdash; <The Athletic, Sahadev Sharma and Patrick Mooney>
 
 ---

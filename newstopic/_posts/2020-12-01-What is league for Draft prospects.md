@@ -5,7 +5,7 @@ date: 2020-12-01 08:26:28 -0400
 noindex: true
 ---
 
-[MLB to launch league for Draft prospects](https://www.mlb.com/news/mlb-draft-league-to-begin-in-2021) --- MLB.com에 올라온 기사의 부분입니다.   
+[MLB to launch league for Draft prospects](https://www.mlb.com/news/mlb-draft-league-to-begin-in-2021) --- <MLB, MLB STAFF>
 {:.faded}
 
 Major League Baseball, Prep Baseball Report (PBR), and five founding members today announced the formation of the MLB Draft League, which will become the first league in the country focused on top prospects who are eligible to be drafted by MLB Clubs that summer.

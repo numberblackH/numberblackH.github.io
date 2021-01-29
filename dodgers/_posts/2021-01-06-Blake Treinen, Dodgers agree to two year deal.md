@@ -33,7 +33,7 @@ Blake Treinen's contract
 
 ---
 
-[Re-signing Blake Treinen gives the Dodgers what they love — options](https://theathletic.com/2305117/2021/01/05/dodgers-blake-treinen-resign/) &mdash; Pedro Moura(Pedro Moura is a senior writer for The Athletic covering the Los Angeles Dodgers)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Re-signing Blake Treinen gives the Dodgers what they love — options](https://theathletic.com/2305117/2021/01/05/dodgers-blake-treinen-resign/) &mdash; <The Athletic, Pedro Moura>
 {:.faded}
 
 ![Blake Treinen](https://cdn.theathletic.com/app/uploads/2021/01/05224347/DDE909B5-3578-4454-AE13-644BC539B1C7-1024x683.jpeg){:data-width="1440" data-height="836"}   
@@ -47,7 +47,7 @@ Treinen knows he is returning to a team that offered a bevy of ways he could imp
 
 ---
 
-[Dodgers buy sensible lottery ticket in free-agent reliever Blake Treinen](https://theathletic.com/1453820/2019/12/11/dodgers-buy-sensible-lottery-ticket-in-free-agent-reliever-blake-treinen/) &mdash; Pedro Moura(Pedro Moura is a senior writer for The Athletic covering the Los Angeles Dodgers)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Dodgers buy sensible lottery ticket in free-agent reliever Blake Treinen](https://theathletic.com/1453820/2019/12/11/dodgers-buy-sensible-lottery-ticket-in-free-agent-reliever-blake-treinen/) &mdash; <The Athletic, Pedro Moura>
 {:.faded}
 
 In fact, indications are that the Dodgers were Treinen’s first choice. Multiple teams offered similar deals, and he chose to join them — a top contender, to be sure, but also one with established late-inning competition.
@@ -61,7 +61,7 @@ In fact, indications are that the Dodgers were Treinen’s first choice. Multipl
 
 ++   
 
-[Rosenthal: Lindor trade market; digging into the Darvish, Snell deals; more notes](https://theathletic.com/2305777/2021/01/06/rosenthal-francisco-lindor-yu-darvish-blake-snell/) &mdash; Ken Rosenthal(Ken Rosenthal is the senior baseball writer for The Athletic)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Rosenthal: Lindor trade market; digging into the Darvish, Snell deals; more notes](https://theathletic.com/2305777/2021/01/06/rosenthal-francisco-lindor-yu-darvish-blake-snell/) &mdash; <The Athletic, Ken Rosenthal>
 {:.faded}
 
 ### Ken Giles

@@ -5,7 +5,7 @@ date: 2020-12-02 08:26:28 -0400
 noindex: true
 ---
 
-[Sarris: A look at some potential major-league pitching coaches on the rise](https://theathletic.com/1343712/2019/11/06/sarris-a-look-at-some-potential-major-league-pitching-coaches-on-the-rise/?article_source=search&search_query=Caleb%20Cotham) &mdash; Eno Sarris(Eno Sarris is a baseball analytics writer at The Athletic)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Sarris: A look at some potential major-league pitching coaches on the rise](https://theathletic.com/1343712/2019/11/06/sarris-a-look-at-some-potential-major-league-pitching-coaches-on-the-rise/?article_source=search&search_query=Caleb%20Cotham) &mdash; <The Athletic, Eno Sarris>
 {:.faded}
 
 ### Caleb Cotham, Cincinnati Reds Assistant Pitching Coach (& Director of Pitching)

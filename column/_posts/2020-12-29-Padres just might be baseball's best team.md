@@ -5,7 +5,7 @@ date: 2020-12-29 08:26:28 -0400
 noindex: true
 ---
 
-[Padres just might be baseball's best team](https://www.mlb.com/news/padres-might-be-best-baseball-team-2021) &mdash; Mike Petriello(Mike Petriello is an analyst for MLB.com and the host of the Ballpark Dimensions podcast)분석가가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Padres just might be baseball's best team](https://www.mlb.com/news/padres-might-be-best-baseball-team-2021) &mdash; <MLB, Mike Petriello>
 {:.faded}
 
 Once upon a time, Padres general manager A.J. Preller -- in an aggressive bid to unseat the reigning NL West champion Dodgers -- made a series of big moves to go all-in, including acquiring a starter who had been once been one of Tampa Bay's postseason pitching heroes. Does that sound familiar?

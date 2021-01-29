@@ -5,7 +5,7 @@ date: 2020-12-08 08:26:28 -0400
 noindex: true
 ---
 
-[How Come the Mets Gave a Major League Deal to a Lifetime Minor Leaguer?](https://www.si.com/mlb/2020/12/08/new-york-mets-pitcher-sam-mcwilliams) &mdash; Tom Verducci(Tom Verducci is Sports Illustrated’s senior baseball writer and a three-time National Sportswriter of the Year (2014, 2015 and 2016))가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[How Come the Mets Gave a Major League Deal to a Lifetime Minor Leaguer?](https://www.si.com/mlb/2020/12/08/new-york-mets-pitcher-sam-mcwilliams) &mdash; <SI, Tom Verducci>
 {:.faded}   
 
 ![Sam McWilliams](https://www.si.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_700/MTc3MzU0OTc5ODk4NTY2Mzkz/sam-mcwilliams-full-cover.webp){:data-width="1440" data-height="836"}

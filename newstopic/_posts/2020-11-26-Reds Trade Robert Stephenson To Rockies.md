@@ -32,8 +32,8 @@ Reds get
 
 ---
 
-[Reds get Hoffman, top 30 prospect in trade](https://www.mlb.com/reds/news/reds-rockies-robert-stephenson-jeff-hoffman-trade) &mdash; Mark Sheldon(Mark Sheldon has covered the Reds for MLB.com since 2006)가 쓴 칼럼의 부분입니다.    
-[Rox net RHP, top 30 prospect for Hoffman](https://www.mlb.com/rockies/news/robert-stephenson-jameson-hannah-traded-to-rockies) &mdash; Thomas Harding(Thomas Harding has covered the Rockies since 2000, and for MLB.com since 2002)가 쓴 칼럼의 부분입니다. 두 팀의 입장을 간단히 요약만 하겠습니다.
+[Reds get Hoffman, top 30 prospect in trade](https://www.mlb.com/reds/news/reds-rockies-robert-stephenson-jeff-hoffman-trade) &mdash; <MLB, Mark Sheldon>  
+[Rox net RHP, top 30 prospect for Hoffman](https://www.mlb.com/rockies/news/robert-stephenson-jameson-hannah-traded-to-rockies) &mdash; <MLB, Thomas Harding>
 {:.faded}
 
 DENVER -- In a classic change-of-scenery trade for once highly regarded pitching prospects who became right-handed relievers, the Rockies received Robert Stephenson from the Reds in exchange for Jeff Hoffman.
@@ -114,8 +114,7 @@ K% 30.9 -> 30.2
 
 ### Who is 'Case Williams'
 
-[What Rockies, Reds net in four-player trade headlined by Jeff Hoffman](https://theathletic.com/2222136/2020/11/25/jeff-hoffman-rockies-reds-trade-robert-stephenson/) &mdash; By Nick Groke and C. Trent Rosecrans
-이 함께 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[What Rockies, Reds net in four-player trade headlined by Jeff Hoffman](https://theathletic.com/2222136/2020/11/25/jeff-hoffman-rockies-reds-trade-robert-stephenson/) &mdash; <The Athletic, Nick Groke and C. Trent Rosecrans>
 {:.faded}   
 
 The Reds were set to draft him with the 113th pick, but the Rockies sneaked in front to draft him three picks earlier.

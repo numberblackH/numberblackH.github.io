@@ -5,7 +5,7 @@ date: 2021-01-08 08:26:28 -0400
 noindex: true
 ---
 
-[Here's what Lindor brings to the Mets](https://www.mlb.com/news/how-francisco-lindor-makes-mets-better-in-2021) &mdash; Matt Kelly(Matt Kelly is a reporter for MLB.com based in New York)가 쓴 칼럼의 부분입니다.   
+[Here's what Lindor brings to the Mets](https://www.mlb.com/news/how-francisco-lindor-makes-mets-better-in-2021) &mdash; <MLB, Matt Kelly>
 {:.faded}
 
 What are the Mets getting in Francisco Lindor the player, and how does he help them win? Let’s dig into a few numbers that could shed light on what we’ll see from Lindor in Queens.

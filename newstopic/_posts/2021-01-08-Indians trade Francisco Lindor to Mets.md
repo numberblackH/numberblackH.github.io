@@ -28,7 +28,8 @@ Indians get
 
 ---
 
-[Law: Mets trade for Francisco Lindor a huge win, but Cleveland didn’t fail](https://theathletic.com/2308606/2021/01/07/keith-law-mets-francisco-lindor/) &mdash; Keith Law(Keith Law is a Senior Baseball Writer for The Athletic)가 쓴 칼럼의 부분입니다.
+[Law: Mets trade for Francisco Lindor a huge win, but Cleveland didn’t fail](https://theathletic.com/2308606/2021/01/07/keith-law-mets-francisco-lindor/) &mdash; <The Athletic, Keith Law>
+{:.faded}
 
 ![Francisco Lindor](https://cdn.theathletic.com/app/uploads/2021/01/07143925/AP19244715234042-1024x701.jpg){:data-width="1440" data-height="836"}   
 
@@ -39,7 +40,8 @@ Cleveland gets a return that will likely be pilloried by fans, but the truth is 
 
 ---
 
-[Rosenthal: Francisco Lindor trade shows the new Mets can be a big-market bully](https://theathletic.com/2308705/2021/01/07/rosenthal-francisco-lindor-carlos-carrasco-trade/) &mdash; Ken Rosenthal(Ken Rosenthal is the senior baseball writer for The Athletic)가 쓴 칼럼의 부분입니다.
+[Rosenthal: Francisco Lindor trade shows the new Mets can be a big-market bully](https://theathletic.com/2308705/2021/01/07/rosenthal-francisco-lindor-carlos-carrasco-trade/) &mdash; <The Athletic, Ken Rosenthal>
+{:.faded}
 
 ![Francisco Lindor](https://cdn.theathletic.com/app/uploads/2020/11/08230705/GettyImages-1272621526-1024x684.jpg){:data-width="1440" data-height="836"}   
 
@@ -65,7 +67,8 @@ The Indians end up saving approximately $47 million, though they inherit Rosario
 
 ---
 
-[The state of Cleveland baseball without Francisco Lindor and Carlos Carrasco](https://theathletic.com/2308649/2021/01/07/indians-trade-francisco-lindor-carlos-carrasco/) &mdash; Zack Meisel(Zack Meisel is a writer for The Athletic covering the Cleveland Indians)가 쓴 칼럼의 부분입니다.
+[The state of Cleveland baseball without Francisco Lindor and Carlos Carrasco](https://theathletic.com/2308649/2021/01/07/indians-trade-francisco-lindor-carlos-carrasco/) &mdash; <The Athletic, Zack Meisel>
+{:.faded}
 
 CLEVELAND — For nearly a year, Chris Antonetti and Francisco Lindor have discussed the possibility that the shortstop’s tenure in Cleveland might end with a trade.
 
@@ -86,7 +89,7 @@ The possibility of a Lindor trade has been the sport’s worst-kept secret. The 
 
 인디언스로 넘어간 4명의 선수에 대한 리포트입니다. 링크 걸어놓겠습니다.
 
-[Scouting reports on Cleveland's trade haul](https://www.mlb.com/indians/news/francisco-lindor-trade-breakdown) &mdash; Mike Rosenbaum(Mike Rosenbaum is a reporter for MLB.com)가 쓴 칼럼의 부분입니다.
+[Scouting reports on Cleveland's trade haul](https://www.mlb.com/indians/news/francisco-lindor-trade-breakdown) &mdash; <The Athletic, Mike Rosenbaum>
 {:.faded}
 
 ---

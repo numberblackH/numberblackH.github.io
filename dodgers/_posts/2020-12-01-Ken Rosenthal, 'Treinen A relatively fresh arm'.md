@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Treinen 'A relatively fresh arm'
+title: Ken Rosenthal, 'Treinen: A relatively fresh arm'
 date: 2020-12-01 08:26:28 -0400
 noindex: true
 ---
 
-[Treinen: A relatively fresh arm](https://theathletic.com/2231780/2020/12/01/rosenthal-red-sox-in-position-to-get-creative-decision-on-pham-nats-future/) &mdash; Ken Rosenthal(Ken Rosenthal is the senior baseball writer for The Athletic who has spent more than 25 years covering the major leagues)가 쓴 칼럼의 부분입니다.        
+[Treinen: A relatively fresh arm](https://theathletic.com/2231780/2020/12/01/rosenthal-red-sox-in-position-to-get-creative-decision-on-pham-nats-future/) &mdash; <The Athletic, Ken Rosenthal>
 {:.faded}
 
 Free-agent right-hander Blake Treinen will pitch at 33 next season, but his arm is relatively fresh compared to most relievers on the open market. Liam Hendriks has thrown 1,330 2/3 career innings between the majors and minors, Brad Hand 1,316 1/3. Treinen is at 777, and his only career trip to the injured list was a 10-day stint for a strained right shoulder from June 23 to July 3, 2019.

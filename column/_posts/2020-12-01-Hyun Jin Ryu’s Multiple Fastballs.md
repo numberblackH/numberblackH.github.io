@@ -5,7 +5,7 @@ date: 2020-12-01 08:26:28 -0400
 noindex: true
 ---
 
-[Hyun Jin Ryu’s Multiple Fastballs](https://blogs.fangraphs.com/hyun-jin-ryus-multiple-fastballs/) &mdash; Ben Clemens(Ben Clemens is Fangraphs's Author)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Hyun Jin Ryu’s Multiple Fastballs](https://blogs.fangraphs.com/hyun-jin-ryus-multiple-fastballs/) &mdash; <Fangraphs, Ben Clemens>
 {:.faded}   
 
 Watch any amount of baseball these days, and you’ll see a familiar pattern: a catcher giving a pitcher a high target for his fastball. This is hardly a secret; it’s so obvious, in fact, that I don’t really know how to make a good introduction out of it. Did you know that pitchers throw four-seam fastballs high in the zone? You did! I don’t need to tell you that. But this article is about four-seam fastballs, so the paragraph feels necessary.

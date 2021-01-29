@@ -5,7 +5,7 @@ date: 2020-12-21 08:26:28 -0400
 noindex: true
 ---
 
-[Dodgers have interest in Ryne Stanek, who could thrive with a couple changes](http://dodgersdigest.com/2020/12/21/dodgers-have-interest-in-ryne-stanek-who-could-thrive-with-a-couple-changes/) &mdash; Dustin Nosler(Dustin Nosler is Writer/editor DodgersDigest)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Dodgers have interest in Ryne Stanek, who could thrive with a couple changes](http://dodgersdigest.com/2020/12/21/dodgers-have-interest-in-ryne-stanek-who-could-thrive-with-a-couple-changes/) &mdash; <Dodgers Digest, Dustin Nosler>
 {:.faded}
 
 ![Ryne Stanek](/image/rynestanek.png){:data-width="1440" data-height="836"}   

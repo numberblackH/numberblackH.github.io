@@ -5,7 +5,7 @@ date: 2020-11-25 08:26:28 -0400
 noindex: true
 ---
 
-[Christian Yelich Turned Into Joey Gallo for a Year](https://blogs.fangraphs.com/christian-yelich-turned-into-joey-gallo-for-a-year/) &mdash; Tony Wolfe(Tony Wolfe is Fangraphs's Author)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Christian Yelich Turned Into Joey Gallo for a Year](https://blogs.fangraphs.com/christian-yelich-turned-into-joey-gallo-for-a-year/) &mdash; <Fangraphs, Tony Wolfe>
 {:.faded}   
 
 There were some positive aspects of his 2020: He walked more than 18% of the time, and while his .225 ISO was below the standard he’d set in his previous two seasons, it still leads all of his Marlins seasons by a substantial margin. But while that helped him maintain an above-average wOBA, they obfuscate a season full of bizarre and unexpected developments for the 28-year-old outfielder.

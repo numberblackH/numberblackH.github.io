@@ -27,7 +27,8 @@ Rays get
 
 ---
 
-[Blake Snell stunned but excited by move to San Diego Padres as trade finalized](https://www.espn.com/mlb/story/_/id/30620943/blake-snell-stunned-excited-move-san-diego-padres-trade-finalized) &mdash; Dennis Lin and Josh Tolentino(Dennis Lin and Josh Tolentino are Senior Writer for The Athletic)가 쓴 칼럼의 부분입니다.
+[Blake Snell stunned but excited by move to San Diego Padres as trade finalized](https://www.espn.com/mlb/story/_/id/30620943/blake-snell-stunned-excited-move-san-diego-padres-trade-finalized) &mdash; <The Athletic, Dennis Lin and Josh Tolentino>
+{:.faded}
 
 Blake Snell gave up the ball in Game 6 of the World Series, shaking his head after manager Kevin Cash's curious pitching change.
 
@@ -55,7 +56,8 @@ Snell said he was stunned and saddened to leave Tampa Bay. He anticipated the Ra
 
 ---
 
-[Padres to acquire Blake Snell from Rays to fill frontline starter need: Sources](https://theathletic.com/2287797/2020/12/28/padres-blake-snell-trade-rays/) &mdash; Dennis Lin and Josh Tolentino(Dennis Lin and Josh Tolentino are Senior Writer for The Athletic)가 쓴 칼럼의 부분입니다.
+[Padres to acquire Blake Snell from Rays to fill frontline starter need: Sources](https://theathletic.com/2287797/2020/12/28/padres-blake-snell-trade-rays/) &mdash; <The Athletic, Dennis Lin and Josh Tolentino>
+{:.faded}
 
 The trade boosts the Padres’ chances of contention not only in 2021 — when Mike Clevinger will be sidelined after undergoing Tommy John surgery — but also in the two seasons beyond that. Snell, who is under team control through that span, fills the void left by Clevinger while providing insurance alongside another top starter, Dinelson Lamet, who will enter the new year trailed by health questions of his own.
 
@@ -83,7 +85,8 @@ Patiño, considered one of baseball’s best pitching prospects, was thought to 
 
 ---
 
-[Blake Snell to the Padres: Keith Law and Eno Sarris weigh in on the trade](https://theathletic.com/2288432/2020/12/28/blake-snell-trade-padres/) &mdash; Keith Law and Eno Sarris(Keith Law and Eno Sarris are Senior Writer for The Athletic)가 쓴 칼럼의 부분입니다.
+[Blake Snell to the Padres: Keith Law and Eno Sarris weigh in on the trade](https://theathletic.com/2288432/2020/12/28/blake-snell-trade-padres/) &mdash; <The Athletic, Keith Law and Eno Sarris>
+{:.faded}
 
 ### Eno Sarris
 Even if command has some relationship with a pitcher’s ability to pitch deeper into games, and their viability as a starter, you can see that Tyler Glasnow is also on that list. The Rays had some success tightening up his attack regions and making the most of his stuff with a simple plan. Maybe they can do the same with Patiño with the right mix and approach.   

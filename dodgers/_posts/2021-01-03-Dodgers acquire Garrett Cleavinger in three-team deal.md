@@ -28,7 +28,7 @@ Rays get
 
 ---
 
-[Dodgers acquire Garrett Cleavinger in three-team deal](http://dodgersdigest.com/2020/12/21/dodgers-have-interest-in-ryne-stanek-who-could-thrive-with-a-couple-changes/) &mdash; Cody Bashore(Cody Bashore is Writer/editor DodgersDigest)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Dodgers acquire Garrett Cleavinger in three-team deal](http://dodgersdigest.com/2020/12/21/dodgers-have-interest-in-ryne-stanek-who-could-thrive-with-a-couple-changes/) &mdash; <Dodgers Digest, Cody Bashore>
 {:.faded}
 
 ![Garrett Cleavinger](https://cdn.theathletic.com/app/uploads/2020/12/29160016/USATSI_14101176-2048x1365.jpg){:data-width="1440" data-height="836"}   
@@ -69,7 +69,7 @@ Rays get
 
 ---
 
-[Phillies Add Bullpen Upside via Three-Way Deal With Rays, Dodgers](https://blogs.fangraphs.com/phillies-add-bullpen-upside-via-three-way-deal-with-rays-dodgers/) &mdash; Eric Longenhagen(Eric Longenhagen is Fangraphs's Author)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Phillies Add Bullpen Upside via Three-Way Deal With Rays, Dodgers](https://blogs.fangraphs.com/phillies-add-bullpen-upside-via-three-way-deal-with-rays-dodgers/) &mdash; <Fangraphs, Eric Longenhagen>
 {:.faded}
 
 I thought they needed to add at least one this offseason to backfill behind Caleb Ferguson, who got hurt late in the year and will probably miss all of ’21, but I’m not sure why the Dodgers preferred Cleavinger to taking Alvarado themselves. Perhaps it’s his arb number (the Dodgers have had staff cuts, too), or perhaps they see Alvarado’s and Cleavinger’s velocities trending in different directions. While the former has lost some juice, the latter threw as hard as he ever has last season: He had been 90–94 and touching 95 or 96 in the past, but he was parked at 95 from Spring Training on through the summer.
@@ -79,7 +79,7 @@ I thought they needed to add at least one this offseason to backfill behind Cale
 
 ---
 
-[Phillies add José Alvarado in buy-low bet: Can they finally win on the fringes?](https://theathletic.com/2291392/2020/12/29/phillies-trade-jose-alvarado-garrett-cleavinger/) &mdash; Matt Gelb(Matt Gelb is a senior writer for The Athletic covering the Philadelphia Phillies)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Phillies add José Alvarado in buy-low bet: Can they finally win on the fringes?](https://theathletic.com/2291392/2020/12/29/phillies-trade-jose-alvarado-garrett-cleavinger/) &mdash; <The Athletic, Matt Gelb>
 {:.faded}
 
 ![Jose Alvarado](https://cdn.theathletic.com/app/uploads/2020/12/29155836/GettyImages-1227833473-1024x683.jpg){:data-width="1440" data-height="836"}   

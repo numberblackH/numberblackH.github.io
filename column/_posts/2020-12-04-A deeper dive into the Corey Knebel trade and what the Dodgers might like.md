@@ -5,7 +5,7 @@ date: 2020-12-11 08:26:28 -0400
 noindex: true
 ---
 
-[A deeper dive into the Corey Knebel trade and what the Dodgers might like](http://dodgersdigest.com/2020/12/04/a-deeper-dive-into-the-corey-knebel-trade-and-what-the-dodgers-might-like/) &mdash; Dustin Nosler(Dustin Nosler is Writer/editor DodgersDigest)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[A deeper dive into the Corey Knebel trade and what the Dodgers might like](http://dodgersdigest.com/2020/12/04/a-deeper-dive-into-the-corey-knebel-trade-and-what-the-dodgers-might-like/) &mdash; <Dodgers Digest, Dustin Nosler>
 {:.faded}   
 
 n 2017, when Knebel was lights out, his curveball averaged 6.8 inches of vertical movement — 9th-best in baseball, just behind Joakim Soria and just ahead of Yu Darvish. His percentage of drop versus the average was 13% — 6th-best in the game.

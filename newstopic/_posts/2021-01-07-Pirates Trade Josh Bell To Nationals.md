@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pirates trade Josh Bell to Nationals
-date: 2020-12-27 08:26:28 -0400
+date: 2020-12-27 08:26:17 -0400
 noindex: true
 ---
 
@@ -26,7 +26,7 @@ Nationals get
 ---
 
 ## Pittsburgh Pirates
-[Pirates' Josh Bell traded to Nationals: Who won the deal?](https://theathletic.com/2284107/2020/12/24/josh-bell-trade-washington-nationals-pittsburgh-pirates/) &mdash; The Athletic Pittsburgh Staff(Jonathan MayoRob, Biertempfel, Stephen J. Nesbitt and Sean Gentille are Senior Writer for The Athletic, covering Pittsburgh sports)가 쓴 칼럼의 부분입니다. 이 글은 Pittsburgh Staff들의 생각만 쓰인 칼럼입니다.  
+[Pirates' Josh Bell traded to Nationals: Who won the deal?](https://theathletic.com/2284107/2020/12/24/josh-bell-trade-washington-nationals-pittsburgh-pirates/) &mdash; <The Athletic, Pittsburgh Staff>
 {:.faded}
 
 Not that I expect him to be as brutal moving forward as he was in 2020 (.669 OPS, -0.4 WAR), but it’s fair to wonder how good he actually is. Watching him in the first half of 2019 was special. Everything before and since? Not so much, and it’s not so difficult to imaging his value continuing to drop.

@@ -5,7 +5,7 @@ date: 2020-12-16 08:26:28 -0400
 noindex: true
 ---
 
-[Ex-minor leaguer Eric Sim is serious — ‘95 mph or die’ — about throwing for fun](https://theathletic.com/2259610/2020/12/16/eric-sim-pitching-program/) &mdash; Meghan Montemurro(Meghan Montemurro is a staff writer for The Athletic covering the Philadelphia Phillies)가 2020년 12월 16일에 쓴 칼럼의 부분입니다.
+[Ex-minor leaguer Eric Sim is serious — ‘95 mph or die’ — about throwing for fun](https://theathletic.com/2259610/2020/12/16/eric-sim-pitching-program/) &mdash; <The Athletic, Meghan Montemurro>
 {:.faded}
 
 ### foundation of Sim’s ambitious quest: 95 mph or die

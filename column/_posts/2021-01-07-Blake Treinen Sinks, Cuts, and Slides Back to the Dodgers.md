@@ -5,7 +5,7 @@ date: 2021-01-07 08:26:28 -0400
 noindex: true
 ---
 
-[Blake Treinen Sinks, Cuts, and Slides Back to the Dodgers](https://blogs.fangraphs.com/blake-treinen-sinks-cuts-and-slides-back-to-the-dodgers/) &mdash; Craig Edwards(Craig Edwards is Fangraphs's Author)가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Blake Treinen Sinks, Cuts, and Slides Back to the Dodgers](https://blogs.fangraphs.com/blake-treinen-sinks-cuts-and-slides-back-to-the-dodgers/) &mdash; <Fangraphs, Craig Edwards>
 {:.faded}   
 
 Even though his strikeout numbers fell again, everything else looked good: Only 17 relievers allowed a lower average exit velocity last year and just two managed a higher groundball rate. That last point is particularly compelling in a time when the average fly carries to the warning track and one of Max Muncy’s dingers dented the space station. Treinen may never recapture the immortal form he wowed us with in 2018, but he doesn’t need to; the world needs set-up men, too.

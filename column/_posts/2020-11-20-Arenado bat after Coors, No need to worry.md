@@ -5,7 +5,7 @@ date: 2020-11-20 08:27:28 -0400
 noindex: true
 ---
 
-[Arenado's bat after Coors? No need to worry](https://www.mlb.com/news/nolan-arenado-coors-field-effect-analysis) &mdash; Mike Petriello(Mike Petriello is an analyst for MLB.com)분석가가 쓴 칼럼의 부분입니다. 간단히 요약만 하겠습니다.
+[Arenado's bat after Coors? No need to worry](https://www.mlb.com/news/nolan-arenado-coors-field-effect-analysis) &mdash; <MLB, Mike Petriello>
 {:.faded}
 
 we talk about the possible departure of a Rockies hitting star: No, he's not good simply because he plays in Coors Field.

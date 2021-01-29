@@ -61,7 +61,7 @@ Kim Ng Career Notes
 
 > Women have been doing amazing things to break barriers in baseball throughout the history of the sport. Here are just some of the women who broke barriers in baseball.
 
-[These women broke barriers in baseball](https://www.mlb.com/news/women-break-barriers-in-baseball-history)
+[These women broke barriers in baseball](https://www.mlb.com/news/women-break-barriers-in-baseball-history) &mdash; <MLB, David Adler and Andrew Simon>
 
 Kim Ng -- MLB's first woman GM   
 Alyssa Nakken -- MLB’s first woman Major League coach   
