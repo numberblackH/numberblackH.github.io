@@ -39,3 +39,7 @@ Similar to pitchers’ sticky concoctions, what hitters spray on their bats is r
 
 투수들의 끈적끈적한 이물질과 마찬가지로 타자들이 방망이에 묻히는 것은 명백해지지 않는 한 거의 발견되지 않습니다.(그럼에도 상대에게 말하려 하면 자신의 규정을 위해 클럽이 노출되는 불문율도 존재합니다).
 {:.faded}
+
+---
+
+[Solving MLB’s pine tar problem isn’t as easy as it looks. Here’s why](https://numberblackh.github.io/story/2021-01-13-Solving-MLB-s-pine-tar-problem-isn-t-as-easy-as-it-looks.-Here-s-why/)
