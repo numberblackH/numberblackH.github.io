@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ken Rosenthal, 'Treinen: A relatively fresh arm'
+title: Ken Rosenthal, 'Treinen, A relatively fresh arm'
 date: 2020-12-01 08:26:28 -0400
 noindex: true
 ---

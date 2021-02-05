@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bring in the funk: Giants embrace a less-quantifiable trend, sign LHP Alex Wood
+title: Bring in the funk, Giants embrace a less-quantifiable trend, sign LHP Alex Wood
 date: 2021-01-15 09:26:28 -0400
 noindex: true
 ---

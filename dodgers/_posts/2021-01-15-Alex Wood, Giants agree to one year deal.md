@@ -7,7 +7,7 @@ noindex: true
 
 > Alex Wood's contract story
 
-Alex Wood's contract   x1
+Alex Wood's contract
 : 2021 - 3M + 1M(incentives)
 : ten outs or greater incentives(12,14 - 125K, 16,18,20,22,24 - 250K, 26,28,30 - 500K)
 

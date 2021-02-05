@@ -33,6 +33,8 @@ Yet his gift for keeping everyone guessing is precisely why the Padres targeted 
   <a href="https://twitter.com/faridyu/status/1274156980802740225">JUN 20, 2020</a>
 </blockquote>
 
+...
+
 Rothschild, meanwhile, oversaw the early adoption of a trend that has overtaken modern pitching. According to FanGraphs, the Yankees went from throwing 58.2 percent fastballs in 2011 to 49.9 percent in 2014. Three years later, with New York throwing the fewest fastballs in the majors, Rothschild explained an ongoing evolution to Sports Illustrated’s Tom Verducci.
 
 한편, Rothschild는 현대 피칭을 능가하는 트렌드를 일찍 채택하여 감독했습니다. 팬그래프에 따르면, 양키스는 2011년 58.2%의 패스트볼을 던졌고 2014년 49.9%로 감소했습니다. 3년 후, 뉴욕이 메이저 리그에서 가장 적은 패스트볼을 던지면서, Rothschild는 SI의 Tom Verducci에게 진행중인 진화를 설명했습니다.
@@ -56,7 +58,7 @@ Speaking by phone this week, Rothschild was prompted to reflect on an early crit
 ---
 
 ![Yu Darvish](/image/yudarvish.png){:data-width="1440" data-height="836"}   
-*Darvish Pitch % in 2020*
+*Yu Darvish Pitch% in 2020*
 {:.figure}
 
 > 다르빗슈는 효율적인 움직임을 갖는 구종만으로 피칭을 하는 최근 트렌드와 다르게 정말 많은 구종을 던집니다. 그의 포심패스트볼과 커브 슬라이더는 평균이상의 움직임을 갖지만 그는 커터를 가장 많이 던지며 스플리터와 싱커도 던집니다.
