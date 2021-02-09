@@ -37,4 +37,8 @@ That year, 2005, was the first year pitching in the majors for Verlander, who ha
 
 ---
 
-More Story about pine tar
+### More Story about pine tar
+
+[Fired Los Angeles Angels clubhouse attendant names pitchers in ball-doctoring case](https://numberblackh.github.io/story/2021-01-09-Fired-Los-Angeles-Angels-clubhouse-attendant-names-pitchers-in-ball-doctoring-case/)
+
+[Solving MLB’s pine tar problem isn’t as easy as it looks. Here’s why](https://numberblackh.github.io/story/2021-01-13-Solving-MLB-s-pine-tar-problem-isn-t-as-easy-as-it-looks.-Here-s-why/)

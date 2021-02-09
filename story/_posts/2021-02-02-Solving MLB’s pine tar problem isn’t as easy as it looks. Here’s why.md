@@ -42,4 +42,8 @@ Similar to pitchers’ sticky concoctions, what hitters spray on their bats is r
 
 ---
 
-[Solving MLB’s pine tar problem isn’t as easy as it looks. Here’s why](https://numberblackh.github.io/story/2021-01-13-Solving-MLB-s-pine-tar-problem-isn-t-as-easy-as-it-looks.-Here-s-why/)
+### More Story about pine tar
+
+[Fired Los Angeles Angels clubhouse attendant names pitchers in ball-doctoring case](https://numberblackh.github.io/story/2021-01-09-Fired-Los-Angeles-Angels-clubhouse-attendant-names-pitchers-in-ball-doctoring-case/)
+
+[Tigers pitchers, including Justin Verlander, accused of doctoring baseballs 'for years'](https://numberblackh.github.io/story/2021-01-13-Tigers-pitchers,-including-Justin-Verlander,-accused-of-doctoring-baseballs-'for-years'/)

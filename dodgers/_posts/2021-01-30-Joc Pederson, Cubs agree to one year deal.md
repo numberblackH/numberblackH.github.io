@@ -8,7 +8,8 @@ noindex: true
 > Joc Pederson's contract story
 
 Joc Pederson's contract
-: 2021 - 7M
+: 2021 - 4.5M
+: 2022 - 10M(mutual option) + 2.5M(buyout)
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">

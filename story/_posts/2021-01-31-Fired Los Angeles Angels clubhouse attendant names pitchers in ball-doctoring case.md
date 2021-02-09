@@ -42,8 +42,12 @@ Harkins also named several current and former Angels -- Percival, Brendan Donnel
 
 ---
 
+### More Story about pine tar
+
+[Solving MLB’s pine tar problem isn’t as easy as it looks. Here’s why](https://numberblackh.github.io/story/2021-01-13-Solving-MLB-s-pine-tar-problem-isn-t-as-easy-as-it-looks.-Here-s-why/)
+
+[Tigers pitchers, including Justin Verlander, accused of doctoring baseballs 'for years'](https://numberblackh.github.io/story/2021-01-13-Tigers-pitchers,-including-Justin-Verlander,-accused-of-doctoring-baseballs-'for-years'/)
+
+> 과거에 그냥 이런일이 있었구나 하고 기억은 납니다만 시간이 지나고 진실이 조금씩 밝혀지고 있네요. 위 2개의 링크로 당시 사건에 대해 간단하게 확인해 보실 수 있습니다. 아래 링크는 해고 당시 기사입니다.
+
 [Angels fire employee for allegedly furnishing illegal substances to put on baseballs](https://www.latimes.com/sports/angels/story/2020-03-05/angels-fire-clubhouse-attendant-brian-harkin-furnishing-illegal-substances-baseballs)
-
-[https://www.espn.com/mlb/story/_/id/28847166/angels-fire-visiting-clubhouse-manager-aiding-opposing-pitchers](https://www.espn.com/mlb/story/_/id/28847166/angels-fire-visiting-clubhouse-manager-aiding-opposing-pitchers)
-
-> 과거에 그냥 이런일이 있었구나 하고 기억은 납니다만 시간이 지나고 진실이 조금씩 밝혀지고 있네요. 위 2개의 링크로 당시 사건에 대해 간단하게 확인해 보실 수 있습니다.

@@ -5,7 +5,7 @@ date: 2021-01-23 08:26:27 -0400
 noindex: true
 ---
 
-> BlueJays Big Move Closer and CF
+> BlueJays Big Move Closer and CF and Michael Brantley
 
 ### Kirby Yates's contract story
 
