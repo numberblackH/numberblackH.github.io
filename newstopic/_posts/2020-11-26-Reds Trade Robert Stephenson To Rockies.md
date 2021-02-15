@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reds Trade Robert Stephenson To Rockies
+title: Reds trade Robert Stephenson To Rockies
 date: 2020-11-26 08:26:28 -0400
 noindex: true
 ---

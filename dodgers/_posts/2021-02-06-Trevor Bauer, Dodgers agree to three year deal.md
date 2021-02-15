@@ -108,3 +108,28 @@ MLB 평균 연봉 최다 금액입니다. 34M의 사치세가 적용된다고 �
 {:.faded}
 
 ---
+
+++
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  &mdash; Spotrac (@spotrac)
+  <a href="https://twitter.com/spotrac/status/1360406472195203076">FEB 13, 2021</a>
+</blockquote>
+
+Trevor Bauer's contract
+: 2021 - 28M + 10M(signing bonus)
+: 2022 - 32M(player option) + 2M(buyout)
+: 2023 - 32M(player option) + 15M(buyout)
+
+If Bauer opts out after 2021, 40M; 28M + 10M(signing bonus) + 2M(buyout)
+If Bauer opts out after 2022, 85M; 38M(2021) + 32M(2022) + 15M(buyout)
+
+계약 상세 내용이 나왔으며 바우어는 102M을 보장받았으며 다저스는 매년 34M의 사치세가 적용됩니다.
+{:.faded}
+
+ -- FEB 13, 2021
+
+---
+
+> 처음 생각했던 것과 다르게 바우어에게 102M이 보장된 계약이네요. 커쇼가 마지막에 획득한 연장계약과 비슷한 계약의 규모를 했다고 보면 될 것 같습니다.
