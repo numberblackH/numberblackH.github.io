@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cardinals first Move
+title: Cardinals acquire Nolan Arenado from Colorado Rockies
 date: 2020-12-30 08:26:28 -0400
 noindex: true
 ---

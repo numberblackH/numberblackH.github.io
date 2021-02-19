@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Phillies upgrade Batter
+title: JT Realmuto, Didi Gregorius re-signs with the Phillies
 date: 2021-01-30 12:36:28 -0400
 noindex: true
 ---
 
-> JT Realmuto, Twins agree to one year deal
+> Phillies upgrade Batter
 
 ### JT Realmuto's contract story
 

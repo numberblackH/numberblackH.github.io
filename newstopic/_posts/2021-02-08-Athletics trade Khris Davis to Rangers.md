@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Athletics first Move
+title: Athletics trade Khris Davis to Rangers
 date: 2021-01-27 08:26:29 -0400
 noindex: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlueJays good Move
+title: BlueJays upgrade Infielder Option
 date: 2021-01-29 08:36:29 -0400
 noindex: true
 ---

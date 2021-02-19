@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yankees trade Move
+title: Yankees acquire Jameson Taillon from Pirates
 date: 2021-01-27 08:27:29 -0400
 noindex: true
 ---
@@ -35,7 +35,7 @@ Pirates get
 
 ---
 
-### RedSox aquire Adam Ottavino from Yankees
+### Yankees trade Adam Ottavino to RedSox
 
 RedSox get
 : RHP Adam Ottavino

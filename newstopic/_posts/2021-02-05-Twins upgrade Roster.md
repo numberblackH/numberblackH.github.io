@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twins upgrade Batter
+title: Twins upgrade Roster
 date: 2021-02-04 10:36:28 -0400
 noindex: true
 ---
