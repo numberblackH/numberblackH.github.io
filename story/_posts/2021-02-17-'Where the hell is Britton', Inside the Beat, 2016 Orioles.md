@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Where the hell is Britton?', Inside the Beat, 2016 Orioles
+title: 'Where the hell is Britton', Inside the Beat, 2016 Orioles
 date: 2021-02-17 04:28:28 -0400
 noindex: true
 ---
