@@ -50,7 +50,7 @@ author:
 menu:
   - title:             Dodgers
     url:               /dodgers/
-  - title:             News Topic
+  - title:             News
     url:               /newstopic/
   - title:             Column
     url:               /column/
@@ -58,6 +58,8 @@ menu:
 #    url:               /prospect/
   - title:             Story
     url:               /story/
+  - title:             Old Story
+    url:               /oldstory/
 #  - title:             Data & R
 #    url:               /data/
   - title:             MLB WEEK

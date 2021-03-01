@@ -21,6 +21,10 @@ tags: [algo, data structure, graph]
 *This is what it looks like!*
 {:.figure}
 
+![Eric Sim](https://cdn.theathletic.com/app/uploads/2020/12/15131016/Image-from-iOS-31.jpg){:data-width="1440" data-height="836"}   
+*Eric Sim changed his diet and started eating five to six meals a day as part of his routine. (Eric Sim)*
+{:.figure}
+
 ## gif
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
