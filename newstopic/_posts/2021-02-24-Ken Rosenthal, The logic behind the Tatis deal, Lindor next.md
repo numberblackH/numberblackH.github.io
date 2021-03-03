@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ken Rosenthal, The logic behind the Tatis deal, Lindor next?
+title: Ken Rosenthal, The logic behind the Tatis deal; Lindor next?
 date: 2021-02-22 12:26:28 -0400
 noindex: true
 ---

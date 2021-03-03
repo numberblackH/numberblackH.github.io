@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It feels like the trade deadline 'The Padres are going for it'
+title: It feels like the trade deadline; The Padres are going for it
 date: 2020-12-27 08:26:28 -0400
 noindex: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Around The Web 'Trevor Bauer to the Dodgers results in predictably wide spread of takes'
+title: Around The Web; Trevor Bauer to the Dodgers results in predictably wide spread of takes
 date: 2021-02-07 04:28:28 -0400
 noindex: true
 ---

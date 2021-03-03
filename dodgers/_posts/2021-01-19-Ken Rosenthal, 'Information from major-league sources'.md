@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ken Rosenthal, 'Information from major-league sources'
+title: Ken Rosenthal, Information from major-league sources
 date: 2021-01-19 08:26:28 -0400
 noindex: true
 ---

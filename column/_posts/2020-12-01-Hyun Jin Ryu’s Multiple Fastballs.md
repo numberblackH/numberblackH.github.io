@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hyun Jin Ryu’s Multiple Fastballs
+title: Hyun Jin Ryu's Multiple Fastballs
 date: 2020-12-01 08:26:28 -0400
 noindex: true
 ---
