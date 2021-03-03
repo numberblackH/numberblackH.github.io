@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solving MLB’s pine tar problem isn’t as easy as it looks. Here’s why
+title: Solving MLB's pine tar problem isn't as easy as it looks. Here's why
 date: 2021-01-13 07:28:28 -0400
 noindex: true
 ---

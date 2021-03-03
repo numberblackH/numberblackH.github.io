@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ken Rosenthal, Rockies' perplexing decision on Nolan Arenado, trade fallout
+title: Ken Rosenthal, Rockies' perplexing decision on Nolan Arenado; trade fallout
 date: 2021-02-07 08:26:28 -0400
 noindex: true
 ---

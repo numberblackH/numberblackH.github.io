@@ -8,6 +8,8 @@ noindex: true
 [Triple-A start delayed; alternate sites to return](https://www.mlb.com/news/start-of-2021-triple-a-season-delayed) &mdash; <MLB, Thomas Harrigan>
 {:.faded}
 
+---
+
 Major League Baseball informed teams on Tuesday that the start of the 2021 Triple-A season will be delayed by a month. As a result, MLB clubs will operate alternate training sites similar to those used during the pandemic-shortened 2020 season.
 
 메이저리그는 2021년 AAA 시즌 개막을 한 달 뒤로 연기할거라고 화요일에 팀들에게 알렸습니다. 결과적으로, MLB 구단들은 펜데믹 2020 단축 시즌 동안 운영했던 비슷한 대체 트레이닝 장소가 운영될 겁니다.
