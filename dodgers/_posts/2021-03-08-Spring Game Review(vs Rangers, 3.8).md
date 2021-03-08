@@ -77,3 +77,32 @@ Bellinger는 타석에 들어가지 않고 수비만 소화했습니다. Belling
 {:.faded}
 
 ---
+
+![Hyeon Jong Yang](https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1536/mlb/uiwyymsgnvjgtpxp9efa.jpg){:data-width="1440" data-height="836"}   
+*hyeon jong yang*
+{:.figure}
+
+---
+
+[Notes: Yang debuts; Rangers make first cuts](https://www.mlb.com/rangers/news/hyeon-jong-yang-rangers-spring-training-debut) &mdash; <MLB, Kennedi Landry>
+{:.faded}
+
+---
+
+### Yang debuts
+In his first Spring Training outing, he pitched one inning, giving up two hits including a home run in the Rangers' 4-3 win over the Dodgers and recording the save. Through an interpreter, Yang said that he’s remaining positive, despite a lackluster day on the mound, as he gets used to the grip on the MLB ball.
+
+그의 스프링 캠프 첫 등판, 그는 1이닝을 던졌으며, 홈런 포함 2안타를 허용하며 다저스를 상대로 4-3으로 레인저스가 이기며 세이브를 기록했습니다. "그는 MLB 공인구의 그립에 적응하면서, 마운드에서 부족했음에도 불구하고 긍정적으로 유지하려고 합니다." 양현종의 통역이 말했습니다.
+{:.faded}
+
+Yang(S, 1) : 1IP, 1R, 1ER, 1HR(DJ Peters), 2H, 1K
+
+---
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  &mdash; SportsNet LA (@SportsNetLA)
+  <a href="https://twitter.com/SportsNetLA/status/1368691805114359808">MAR 8, 2021</a>
+</blockquote>
+
+---
