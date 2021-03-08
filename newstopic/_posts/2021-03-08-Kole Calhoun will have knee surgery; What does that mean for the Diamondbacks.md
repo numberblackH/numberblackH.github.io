@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Kole Calhoun will have knee surgery; What does that mean for the Diamondbacks?
-date: 2021-03-02 05:49:38 -0400
+date: 2021-03-02 05:49:34 -0400
 noindex: true
 ---
 
-[Kole Calhoun will have knee surgery; What does that mean for the Diamondbacks?](https://www.mlb.com/news/ichiro-suzuki-mike-cameron-play-in-sim-game) &mdash; <The Athletic, Zach Buchanan>
+[Kole Calhoun will have knee surgery; What does that mean for the Diamondbacks?](https://theathletic.com/2423272/2021/03/02/kole-calhoun-will-have-knee-surgery-what-does-that-mean-for-the-diamondbacks/) &mdash; <The Athletic, Zach Buchanan>
 {:.faded}
 
 ---
