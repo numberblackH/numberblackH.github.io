@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Just get ready in a better way'; Walker Buehler enjoys new spring approach
+title: Just get ready in a better way; Walker Buehler enjoys new spring approach
 date: 2021-03-04 05:35:39 -0400
 noindex: true
 ---
