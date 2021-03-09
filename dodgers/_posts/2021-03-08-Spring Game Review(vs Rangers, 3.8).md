@@ -10,6 +10,16 @@ noindex: true
 
 ---
 
+### Today's Dodgers lineup at Rangers:
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  &mdash; Los Angeles Dodgers (@Dodgers)
+  <a href="https://twitter.com/Dodgers/status/1368599824707227650">MAR 8, 2021</a>
+</blockquote>
+
+---
+
 ### Jansen's velo 'not really' a concern
 
 Dodgers manager Dave Roberts has already said that Kenley Jansen will be the team’s closer on Opening Day. But with the way last season ended, all eyes have been on the right-hander this spring.

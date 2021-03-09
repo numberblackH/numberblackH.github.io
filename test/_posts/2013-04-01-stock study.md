@@ -146,7 +146,7 @@ ex) 칼 아이칸
 ---
 
 ## DEFM 14A (Merger Proxy)
-인수합병하는/당하는 모든 정보
+인수 합병하는/당하는 모든 정보
 ex) CZR
 https://www.sec.gov/Archives/edgar/data/858339/000119312519266855/d789744ddefm14a.htm
 
