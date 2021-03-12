@@ -43,6 +43,7 @@ Chapman은 나이가 들면서 그의 구속을 잃고 있습니다. 그는 2월
 During spring training in 2020 — before the coronavirus pandemic sent the MLB season into a months-long hiatus — Chapman was tinkering with his changeup again and transitioned into focusing on reviving his splitter instead.
 
 2020년 스프링캠프 동안 Chapman은 다시 체인지업을 손보고 그의 스플리터 부활에 초점을 맞추고 있었습니다.
+{:.faded}
 
 ---
 
