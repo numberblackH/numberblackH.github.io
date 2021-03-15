@@ -15,8 +15,8 @@ MLB를 좋아하고 주식 시장에 관심이 많은 개발자로 다저스의 
 ---
 
 ## Earnings; 실적 발표
-[Earnings Whisper](www.earningswhispers.com){:.heading.flip-title} --- Earnings Whisper(실적)
-[TipRanks](www.tipranks.com){:.heading.flip-title} --- TipRanks
+* [Earnings Whisper](www.earningswhispers.com){:.heading.flip-title} --- Earnings Whisper(실적)
+* [TipRanks](www.tipranks.com){:.heading.flip-title} --- TipRanks
 {:.related-posts.faded}
 
 ---
@@ -74,16 +74,16 @@ MLB를 좋아하고 주식 시장에 관심이 많은 개발자로 다저스의 
 ---
 
 ## Trading; 트레이딩
-[Seeking Alpha](www.seekingalpha.com){:.heading.flip-title} --- Seeking Alpha
-[The Motley Fool](www.fool.com){:.heading.flip-title} --- The Motley Fool
-[VIC](www.valueinvestorsclub.com){:.heading.flip-title} --- VIC(가입 좆같음)
+* [Seeking Alpha](www.seekingalpha.com){:.heading.flip-title} --- Seeking Alpha
+* [The Motley Fool](www.fool.com){:.heading.flip-title} --- The Motley Fool
+* [VIC](www.valueinvestorsclub.com){:.heading.flip-title} --- VIC(가입 좆같음)
 {:.related-posts.faded}
 
 ---
 
 ## Chart; 기술적 분석
-[Barchart](www.barchart.com){:.heading.flip-title} --- Barchart
-[Stockchart](www.stockcharts.com){:.heading.flip-title} --- Stockchart
+* [Barchart](www.barchart.com){:.heading.flip-title} --- Barchart
+* [Stockchart](www.stockcharts.com){:.heading.flip-title} --- Stockchart
 {:.related-posts.faded}
 
 ---
