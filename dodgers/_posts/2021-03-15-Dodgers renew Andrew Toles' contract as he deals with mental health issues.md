@@ -57,5 +57,6 @@ Toles, who has struggled with mental illness, was charged in Key West, Florida, 
 "When the news came out, the response from the public was very different from the response from my family,'' Morgan Toles, Andrew's sister, told USA Today. "When people saw my brother's mugshot, it was like, 'Oh, my god! He's been arrested.'
 
 "뉴스가 나왔을 때, 대중들의 반응과 우리의 반응은 달랐어요, 사람들이 내 오빠의 머그샷을 보았을 때, 좋았어요, '오 마이 갓! 그가 채포되었어.'" Andrew의 여동생인 Morgan Toles가 USA Today에 말했습니다.
+{:.faded}
 
 ---
