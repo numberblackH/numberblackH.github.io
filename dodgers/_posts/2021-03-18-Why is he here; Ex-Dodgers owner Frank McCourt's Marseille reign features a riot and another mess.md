@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Why is he here'; Ex-Dodgers owner Frank McCourt's Marseille reign features a riot and another mess
+title: Why is he here; Ex-Dodgers owner Frank McCourt's Marseille reign features a riot and another mess
 date: 2021-03-11 05:39:39 -0400
 noindex: true
 ---
@@ -52,6 +52,7 @@ Frank McCourt의 Marseille에서의 오너십은 달랐어야 합니다. 그는 
 “So it begs the question: Do you want someone like McCourt to own a part of your soul?”
 
 "의문이 드는군요: 당신은 McCourt 같은 사람이 당신의 영혼을 소유하기를 바라나요?"
+{:.faded}
 
 ---
 
