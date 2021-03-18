@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Why is he here?'; Ex-Dodgers owner Frank McCourt's Marseille reign features a riot and another mess
+title: 'Why is he here'; Ex-Dodgers owner Frank McCourt's Marseille reign features a riot and another mess
 date: 2021-03-11 05:39:39 -0400
 noindex: true
 ---
@@ -55,4 +55,4 @@ Frank McCourt의 Marseille에서의 오너십은 달랐어야 합니다. 그는 
 
 ---
 
-> McCourt 잊고 있었는데 정말 오랜만에 듣습니다. 다저스가 매각되지 않았다면 다저스가 지금 어떤 모습일지 상상이 가지않네요. 끔찍했던 시간들이 지나고 새 오너 아래에서 다저스는 많은 돈을 투자하고 작년에 결국 월드시리즈 타이틀을 따낼 수 있었습니다. 운이 좋게도 제 20대 동안 다저스는 8년 연속 NL 서부지구 타이틀을 따고 매년 월드시리즈 타이틀에 도전할 수 있었습니다. 
+> McCourt 잊고 있었는데 정말 오랜만에 듣습니다. 다저스가 매각되지 않았다면 다저스가 지금 어떤 모습일지 상상이 가지않네요. 끔찍했던 시간들이 지나고 새 오너 아래에서 다저스는 많은 돈을 투자하고 작년에 결국 월드시리즈 타이틀을 따낼 수 있었습니다. 운이 좋게도 제 20대 동안 다저스는 8년 연속 NL 서부지구 타이틀을 따고 매년 월드시리즈 타이틀에 도전할 수 있었습니다.
