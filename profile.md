@@ -36,6 +36,7 @@ MLB를 좋아하고 주식 시장에 관심이 많은 개발자로 다저스의 
 ---
 
 ## News; 뉴스
+* [WSJ](https://www.wsj.com/){:.heading.flip-title} --- THE WALL STREET JOURNAL
 * [CNBC](https://www.cnbc.com){:.heading.flip-title} --- CNBC
 * [yahoo finance](https://finance.yahoo.com/){:.heading.flip-title} --- yahoo! finance
 * [CNN BUSINESS](https://edition.cnn.com/business){:.heading.flip-title} --- CNN BUSINESS
@@ -46,8 +47,8 @@ MLB를 좋아하고 주식 시장에 관심이 많은 개발자로 다저스의 
 ---
 
 ## ETF
-[ETF DB](https://www.etfdb.com){:.heading.flip-title} --- ETF DB 개발자
-[ETF Trends](https://www.etftrends.com){:.heading.flip-title} --- ETF 트렌드
+* [ETF DB](https://www.etfdb.com){:.heading.flip-title} --- ETF DB 개발자
+* [ETF Trends](https://www.etftrends.com){:.heading.flip-title} --- ETF 트렌드
 {:.related-posts.faded}
 
 ---
@@ -58,13 +59,6 @@ MLB를 좋아하고 주식 시장에 관심이 많은 개발자로 다저스의 
 * [SPAC Research](https://www.spacresearch.com/){:.heading.flip-title} --- SPAC Research  
 * [SPAC Insider](https://www.spacinsider.com/){:.heading.flip-title} --- SPAC Insider
 * [SPAC Analytics](https://www.spacanalytics.com/){:.heading.flip-title} --- SPAC Analytics
-{:.related-posts.faded}
-
----
-
-## ETF
-[ETF DB](https://www.etfdb.com){:.heading.flip-title} --- ETF DB 개발자
-[ETF Trends](https://www.etftrends.com){:.heading.flip-title} --- ETF 트렌드
 {:.related-posts.faded}
 
 ---
