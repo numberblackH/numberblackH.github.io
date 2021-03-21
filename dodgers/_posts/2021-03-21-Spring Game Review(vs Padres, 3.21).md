@@ -15,7 +15,7 @@ noindex: true
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
   &mdash; Los Angeles Dodgers (@Dodgers)
-  <a href="https://twitter.com/Dodgers/status/1373326626050609154">MAR 20, 2021</a>
+  <a href="https://twitter.com/Dodgers/status/1373326626050609154">MAR 21, 2021</a>
 </blockquote>
 
 ---
@@ -37,6 +37,14 @@ May는 그의 스프링 2번째 선발 등판(3번째 등판)에서, 통계적�
 <blockquote class="twitter-tweet" data-lang="en">
   &mdash; Juan Toribio (@juanctoribio)
   <a href="https://twitter.com/juanctoribio/status/1373379743391752192">MAR 21, 2021</a>
+</blockquote>
+
+---
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  &mdash; Los Angeles Dodgers (@Dodgers)
+  <a href="https://twitter.com/Dodgers/status/1373383481544175616">MAR 21, 2021</a>
 </blockquote>
 
 ---
