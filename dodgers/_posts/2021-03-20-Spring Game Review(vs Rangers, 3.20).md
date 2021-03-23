@@ -43,8 +43,7 @@ That one superstar catcher from the alternate universe isn’t walking through t
 
 ---
 
-### Yang
-양현종이 4번째 투수로 5회에 나와서 3IP 3H 1ER 1K 1BB를 기록했습니다.
+양현종은 4번째 투수로 5회에 나와서 3IP 3H 1ER 1K 1BB를 기록했습니다.
 {:.faded}
 
 ---
