@@ -1,10 +1,14 @@
 ---
-title: "2021-03-20-LINE string manipulation No1"
+layout: post
+title: "LINE string manipulation 1"
 date: 2021-03-20 08:26:28 -0400
-categories: programmers, string manipulation
+noindex: true
 ---
 
-> 1번 문제 : [GO 1844](https://programmers.co.kr/learn/courses/30/lessons/1844)
+LINE 1 &mdash; <2021 상반기 주니어, LINE>
+{:.faded}
+
+---
 
 `PROBLEM`
 ```
