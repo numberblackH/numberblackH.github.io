@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Game Review(vs D-backs, 3.11)
+title: Spring Game Review(vs D-backs, 2021.3.11)
 date: 2021-03-11 05:50:38 -0400
 noindex: true
 ---

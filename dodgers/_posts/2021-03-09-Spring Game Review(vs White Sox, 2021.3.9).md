@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Game Review(vs White Sox, 3.9)
+title: Spring Game Review(vs White Sox, 2021.3.9)
 date: 2021-03-09 05:50:38 -0400
 noindex: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Game Review(vs Giants, 3.22)
+title: Spring Game Review(vs Giants, 2021.3.22)
 date: 2021-03-22 05:50:38 -0400
 noindex: true
 ---

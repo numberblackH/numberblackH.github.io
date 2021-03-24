@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Game Review(vs Rangers, 3.8)
+title: Spring Game Review(vs Rangers, 2021.3.8)
 date: 2021-03-08 05:50:38 -0400
 noindex: true
 ---

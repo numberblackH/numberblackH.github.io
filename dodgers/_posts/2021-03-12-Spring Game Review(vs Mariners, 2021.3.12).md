@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Game Review(vs Mariners, 3.12)
+title: Spring Game Review(vs Mariners, 2021.3.12)
 date: 2021-03-12 05:50:38 -0400
 noindex: true
 ---

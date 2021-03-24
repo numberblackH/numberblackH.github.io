@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Game Review(vs Padres, 3.21)
+title: Spring Game Review(vs Padres, 2021.3.21)
 date: 2021-03-21 05:50:38 -0400
 noindex: true
 ---

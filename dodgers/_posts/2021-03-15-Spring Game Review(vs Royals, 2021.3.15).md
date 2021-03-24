@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Game Review(vs Royals, 3.15)
+title: Spring Game Review(vs Royals, 2021.3.15)
 date: 2021-03-15 05:50:38 -0400
 noindex: true
 ---

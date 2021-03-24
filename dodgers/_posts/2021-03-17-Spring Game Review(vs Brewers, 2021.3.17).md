@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Game Review(vs Brewers, 3.17)
+title: Spring Game Review(vs Brewers, 2021.3.17)
 date: 2021-03-17 05:50:38 -0400
 noindex: true
 ---
