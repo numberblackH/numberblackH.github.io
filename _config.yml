@@ -51,7 +51,7 @@ menu:
   - title:             Dodgers
     url:               /dodgers/
   - title:             MLB News
-    url:               /newstopic/
+    url:               /news/
   - title:             Column
     url:               /column/
 #  - title:             Prospect
@@ -62,8 +62,8 @@ menu:
     url:               /oldstory/
 #  - title:             Data & R
 #    url:               /data/
-  - title:             MLB WEEK
-    url:               /mlbweek/
+  - title:             News Briefing
+    url:               /briefing/
 #  - title:             Other
 #    url:               /other/
   - title:             Reference
