@@ -50,6 +50,8 @@ author:
 menu:
   - title:             Dodgers
     url:               /dodgers/
+  - title:             News Briefing
+    url:               /briefing/
   - title:             MLB News
     url:               /news/
   - title:             Column
@@ -62,8 +64,6 @@ menu:
     url:               /oldstory/
 #  - title:             Data & R
 #    url:               /data/
-  - title:             News Briefing
-    url:               /briefing/
 #  - title:             Other
 #    url:               /other/
   - title:             Reference
@@ -90,7 +90,7 @@ copyright:             © 2021. All rights reserved.
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              5
+paginate:              10
 paginate_path:         /page-:num/
 
 
