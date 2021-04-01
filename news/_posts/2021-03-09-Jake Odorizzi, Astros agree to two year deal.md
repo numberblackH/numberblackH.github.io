@@ -68,4 +68,6 @@ Jake Odorizzi's contract
 AAV 7.83M로 사치세가 적용될 것 같은 어찌되나요
 {:.faded}
 
+ -- MAR 9, 2021
+
 ---

@@ -5,7 +5,7 @@ date: 2021-03-12 07:50:38 -0400
 noindex: true
 ---
 
-[Dodgers renew Andrew Toles’ contract as he deals with mental health issues](https://www.ocregister.com/2021/03/12/dodgers-renew-andrew-toles-contract-as-he-deals-with-mental-health-issues/) &mdash; <Ocregister, BILL PLUNKETT>
+[Dodgers renew Andrew Toles’ contract as he deals with mental health issues](https://www.ocregister.com/2021/03/12/dodgers-renew-andrew-toles-contract-as-he-deals-with-mental-health-issues/) &mdash; <Ocregister, Bill Plunkett>
 {:.faded}
 
 ---

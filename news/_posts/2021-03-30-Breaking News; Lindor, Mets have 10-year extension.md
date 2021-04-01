@@ -66,6 +66,8 @@ noindex: true
 
 ---
 
+++
+
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
   &mdash; Jon Heyman (@JonHeyman)
@@ -131,4 +133,6 @@ Francisco Linor's contract
 : No trade clause to 15 teams until full no-trade rights in 2026
 : No opt-outs
 
+ -- APR 1, 2021
+ 
 ---
