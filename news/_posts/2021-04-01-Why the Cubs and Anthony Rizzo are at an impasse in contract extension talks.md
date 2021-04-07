@@ -5,11 +5,13 @@ date: 2021-03-30 02:49:34 -0400
 noindex: true
 ---
 
-[Why the Cubs and Anthony Rizzo are at an impasse in contract extension talks](https://theathletic.com/2485422/2021/03/29/why-the-cubs-and-anthony-rizzo-are-at-an-impasse-in-contract-extension-talks/) &mdash; <The Athletic, Ken Rosenthal and Patrick Mooney >
-{:.faded}
-
 **NOTE**: Hedge Funds are still Hedge Funds; Goldman is still Goldman
 {:.message}
+
+---
+
+[Why the Cubs and Anthony Rizzo are at an impasse in contract extension talks](https://theathletic.com/2485422/2021/03/29/why-the-cubs-and-anthony-rizzo-are-at-an-impasse-in-contract-extension-talks/) &mdash; <The Athletic, Ken Rosenthal and Patrick Mooney >
+{:.faded}
 
 ---
 
