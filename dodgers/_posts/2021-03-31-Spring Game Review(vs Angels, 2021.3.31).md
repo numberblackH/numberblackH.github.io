@@ -5,6 +5,11 @@ date: 2021-03-31 05:50:38 -0400
 noindex: true
 ---
 
+**NOTE**: [Dodgers hit four homers, beat Angels in Freeway Series finale](https://www.latimes.com/sports/dodgers/story/2021-03-30/dodgers-spring-training-win-over-angels-freeway-series) &mdash; <LA Times, Mike Digiovanna>
+{:.message}
+
+---
+
 [Dodgers hit four homers, beat Angels in Freeway Series finale](https://www.latimes.com/sports/dodgers/story/2021-03-30/dodgers-spring-training-win-over-angels-freeway-series) &mdash; <LA Times, Mike Digiovanna>
 {:.faded}
 
