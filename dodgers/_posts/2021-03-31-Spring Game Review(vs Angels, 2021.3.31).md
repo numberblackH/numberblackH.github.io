@@ -10,11 +10,6 @@ noindex: true
 
 ---
 
-[Dodgers hit four homers, beat Angels in Freeway Series finale](https://www.latimes.com/sports/dodgers/story/2021-03-30/dodgers-spring-training-win-over-angels-freeway-series) &mdash; <LA Times, Mike Digiovanna>
-{:.faded}
-
----
-
 ### The final bullpen spot goes to Scott Alexander
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
