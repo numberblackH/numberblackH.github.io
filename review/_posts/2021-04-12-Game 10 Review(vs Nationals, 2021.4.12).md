@@ -31,6 +31,8 @@ noindex: true
   <a href="https://twitter.com/BR_MLB/status/1381330461646065674">APR 12, 2021</a>
 </blockquote>
 
+---
+
 명예의 전당에 들어갈 두 선수의 기록이 엄청납니다. 5329 K, 351 승, 6 사이영상, 2 월드시리즈 타이틀을 가진 Kershaw와 Scherzer는 일요일 경기에서 선발 대결을 하였습니다.
 {:.faded}
 
