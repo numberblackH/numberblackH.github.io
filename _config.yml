@@ -50,6 +50,8 @@ author:
 menu:
   - title:             Dodgers
     url:               /dodgers/
+  - title:             Game Review
+    url:               /review/
   - title:             News Briefing
     url:               /briefing/
   - title:             MLB News
