@@ -12,7 +12,7 @@ categories: spring
 AL EAST
 - Blue Jays : GM Mark Shapiro; Manager Charlie Montoyo
 - Orioles : GM Mike Elias; Manager Brandon Hyde
-- Rays : GM Erik Neander; Manager Kevin cash
+- Rays : GM Erik Neander; Manager Kevin cash; [Rays](https://bleacherreport.com/tampa-bay-rays)
 - Red Sox : GM Chaim Bloom; Manager Ron Roenicke
 - Yankees : GM Brian Cashman; Manager Aaron Boone
 
