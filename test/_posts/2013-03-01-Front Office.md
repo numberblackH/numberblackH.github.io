@@ -7,50 +7,48 @@ categories: spring
 
 > Front Office
 
-###
-```
-AL EAST
+### AL EAST
 - Blue Jays : GM Mark Shapiro; Manager Charlie Montoyo
 - Orioles : GM Mike Elias; Manager Brandon Hyde
-- Rays : GM Erik Neander; Manager Kevin cash; [Rays](https://bleacherreport.com/tampa-bay-rays)
+- Rays : GM Erik Neander; Manager Kevin cash [Rays](https://bleacherreport.com/tampa-bay-rays)
 - Red Sox : GM Chaim Bloom; Manager Ron Roenicke
 - Yankees : GM Brian Cashman; Manager Aaron Boone
 
-AL CENTRAL
+### AL CENTRAL
 - Indians : GM Chris Antonetti; Manager Terry Francona
 - Royals : GM Dayton Moore; Manager Mike Matheny
 - Tigers : GM Al Avila; Manager Ron Gardenhire
 - Twins : GM Derek Falvey; Manager Rocco Baldelli
 - White Sox : GM Rick Hahn; Manager Rick Renteria
 
-AL WEST
+### AL WEST
 - Angels : GM Billy Eppler; Mananger Joe Maddon
 - Astros : GM James Click; Manager Dusty Baker
 - Athletics : GM David Forst; Manager Bob Melvin
 - Mariners : GM Jerry Dipoto; Manager Scott Servais
 - Rangers : GM Jon Daniels; Manager Chris Woodward
 
-NL EAST
+### NL EAST
 - Braves : GM Alex Anthopoulos; Manager Brian Snitker
 - Marlins : GM Mike Hill; Manager Don Mattingly
 - New York Mets : GM Van Wagenen; Manager Luis Rojas
 - Nationals : GM Mike Rizzo; Manager David Martinez
 - Phillies : GM Matt Klentak; Manager Joe Girardi
 
-NL CENTRAL
+### NL CENTRAL
 - Brewers : GM David Stearns; Manager Craig Counsell
 - Cardinals : GM Mike Girsch; Manager Mike Shildt
 - Cubs : GM Jed Hoyer; Manager David Ross
 - Pittsburgh Pirates : GM Ben Cherington; Manager Derek Shelton
 - Reds : GM Nick Krall; Manager David Bell
 
-NL WEST
+### NL WEST
 - Diamondbacks : GM Mike Hazen; Manager Torey Lovullo
-- Dodgers : GM Andrew Friedman; Manager Dave Roberts
+- Dodgers : GM Andrew Friedman; Manager Dave Roberts [Dodgers](https://bleacherreport.com/los-angeles-dodgers)
 - Giants : GM Farhan Zaidi; Manager Gabe Kapler
 - San Diego Padres : GM A. J. Preller; Manager Andy Green
 - Rockies : GM Jeff Bridich; Manager Bud Black
-```
+
 
 ```
 top spin : 커브 / 슬라 / 커터
