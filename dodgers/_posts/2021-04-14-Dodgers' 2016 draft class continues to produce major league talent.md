@@ -41,6 +41,10 @@ They were preceded by a quartet of Dodgers regulars – Gavin Lux(first round), 
 정말 많은 선수들이 메이저리그에 도달했고 데뷔에 근접한 선수들이 더 있습니다: Luke Raley(7 round), Jordan Sheffield(supplemental 1 round), Zach McKinstry(33 round), Mitch White(2 round), Andre Scrubb(8 round), Dean Kremer(14 round), Gavin Lux(1 round), Will Smith(supplemental 1 round), Dustin May(3 round), Tony Gonsolin(9 round), Devin Smeltzer(5 round)
 {:.faded}
 
+![20210413](/image/dodgers/20210413/20210413a.png){:data-width="1440" data-height="836"}   
+*2016 Los Angeles Dodgers Picks in the MLB June Amateur Draft*
+{:.figure}
+
 ---
 
 “You feel proud because you’re responsible as a group for drafting a player, but there’s a little guilt it’s with another team that’s competing against us,” he said. “There’s this guilty feeling of being happy. Our talent bar with our major league team is so high, so good. At some level, you feel good for the kid to get a chance somewhere else. We’re outrageously talented at the big league level, so it’s hard.”
