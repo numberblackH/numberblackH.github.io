@@ -56,3 +56,5 @@ They were preceded by a quartet of Dodgers regulars – Gavin Lux (first round),
 {:.faded}
 
 ---
+
+> Billy Gasparino는 다저스 스카우팅 분야 담담 최고 책임자입니다.
