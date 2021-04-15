@@ -19,7 +19,7 @@ categories: spring
 - Royals : GM Dayton Moore; Manager Mike Matheny
 - Tigers : GM Al Avila; Manager Ron Gardenhire
 - Twins : GM Derek Falvey; Manager Rocco Baldelli
-- White Sox : GM Rick Hahn; Manager Rick Renteria
+- White Sox : GM Rick Hahn; Manager Rick Renteria [White Sox](https://bleacherreport.com/chicago-white-sox)
 
 ### AL WEST
 - Angels : GM Billy Eppler; Mananger Joe Maddon

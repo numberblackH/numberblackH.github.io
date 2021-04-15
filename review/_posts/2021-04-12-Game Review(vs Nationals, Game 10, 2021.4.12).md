@@ -67,7 +67,7 @@ Game Notes
 *Clayton Kershaw vs. WSH, 4/12/2021*
 {:.figure}
 
-Clayton Kershaw, 6IP 0ER 5H 6K 86P(54S)
+Clayton Kershaw, 6 IP, 0 R, 5 H, 6 K, 86 P(54 S)
 {:.faded}
 
 ---
@@ -126,4 +126,32 @@ Max Scherzer, 좋은 피칭을 했습니다. 구종별로 던지려는 존에 �
 
 ---
 
-> 다저스는 첫 10경기에서 8승 2패로 월드시리즈 연패를 향해 나아갑니다.
+**NOTE**: [Dodgers do 'pitching gymnastics' in advance of first series vs. Padres](https://www.ocregister.com/2021/04/11/dodgers-do-pitching-gymnastics-in-advance-of-first-series-vs-padres/) &mdash; <Ocregister, BILL PLUNKETT>
+{:.message}
+
+---
+
+### Dustin May will return to the starting rotation Wednesday against the Colorado Rockies. That means Walker Buehler, Clayton Kershaw and Trevor Bauer are lined up to start the three games in San Diego next weekend
+Right-hander Dustin May will return to the Dodgers’ rotation and start on eight days’ rest Wednesday against the Colorado Rockies.
+
+May가 8일을 쉬고 콜로라도 로키스를 상대로 한 수요일 경기(한국 시간 15일)에서 다저스 로테이션에 다시 들어올겁니다.
+{:.faded}
+
+The Dodgers skipped May’s turn in the rotation this weekend, going with Clayton Kershaw on regular rest (four days off) Sunday instead.
+
+이번 주 다저스는 May의 선발 등판을 한 번 건너뛰고, Clayton Kershaw가 원래대로 4일 쉬고 일요일(한국 시간 월요일)에 등판합니다.
+{:.faded}
+
+By inserting May into the Rockies series, the Dodgers have lined up Walker Buehler, Kershaw and Trevor Bauer to start the three-game series against the San Diego Padres at Petco Park next weekend with Buehler and Kershaw each getting extra rest before their starts.
+
+May가 로키스와의 시리즈 첫 날 던지고, Walker Buehler, Kershaw 그리고 Trevor Bauer가 파드레스와의 3연전에 등판할거고 Buehler와 Kershaw는 선발 등판 전에 하루 추가 휴식을 갖게 됩니다.
+{:.faded}
+
+---
+
+The Dodgers and Padres will meet again a week later in a four-game series at Dodger Stadium April 22-25.
+
+다저스와 파드레스는 일주일 후에 다시 만나고 다저스 홈에서 4월 22-25일까지 4연전 시리즈를 합니다.
+---
+
+> 다저스는 첫 10경기에서 8승 2패로 월드시리즈 연패를 향해 나아갑니다. 홈 경기 중간에 하루 휴식일이 있어서 May가 휴식을 받고 로테이션 조정이 있습니다. 앞으로 2주 동안 있을 파드레스와의 3연전 시리즈와 4연전 시리즈 총 7게임을 위한 플랜 수정입니다.
