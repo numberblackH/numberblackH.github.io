@@ -30,13 +30,13 @@ The Dodgers did not receive a trophy for winning the ’68 draft. Maybe they sho
 
 ---
 
-![20210413a](/image/dodgers/20210413/20210413a.png){:data-width="1440" data-height="836"}   
+![20210413](/image/dodgers/20210413/20210413a.png){:data-width="1440" data-height="836"}   
 *2016 Los Angeles Dodgers Picks in the MLB June Amateur Draft*
 {:.figure}
 
-Raley (seventh round) and Colorado Rockies pitcher Jordan Sheffield (supplemental first round) debuted this month. Last year, Dodgers outfielder Zach McKinstry (33rd round) and pitcher Mitch White (second round), Houston Astros pitcher Andre Scrubb (eighth round), and Baltimore Orioles pitcher Dean Kremer (14th round) made their major league debuts.
+Raley(seventh round) and Colorado Rockies pitcher Jordan Sheffield(supplemental first round) debuted this month. Last year, Dodgers outfielder Zach McKinstry(33rd round) and pitcher Mitch White(second round), Houston Astros pitcher Andre Scrubb(eighth round), and Baltimore Orioles pitcher Dean Kremer(14th round) made their major league debuts.
 
-They were preceded by a quartet of Dodgers regulars – Gavin Lux (first round), Will Smith (supplemental first round), Dustin May (third round), Tony Gonsolin (ninth round) – and Twins pitcher Devin Smeltzer (fifth round).
+They were preceded by a quartet of Dodgers regulars – Gavin Lux(first round), Will Smith(supplemental first round), Dustin May(third round), Tony Gonsolin(ninth round) – and Twins pitcher Devin Smeltzer(fifth round).
 
 정말 많은 선수들이 메이저리그에 도달했고 데뷔에 근접한 선수들이 더 있습니다: Luke Raley(7 round), Jordan Sheffield(supplemental 1 round), Zach McKinstry(33 round), Mitch White(2 round), Andre Scrubb(8 round), Dean Kremer(14 round), Gavin Lux(1 round), Will Smith(supplemental 1 round), Dustin May(3 round), Tony Gonsolin(9 round), Devin Smeltzer(5 round)
 {:.faded}
