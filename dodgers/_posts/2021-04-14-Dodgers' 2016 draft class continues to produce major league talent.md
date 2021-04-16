@@ -30,6 +30,11 @@ The Dodgers did not receive a trophy for winning the ’68 draft. Maybe they sho
 
 ---
 
+![20210413a](/image/dodgers/20210413/20210413a.PNG){:data-width="1440" data-height="836"}   
+*2016 Los Angeles Dodgers Picks in the MLB June Amateur Draft*
+{:.figure}
+
+
 Raley(seventh round) and Colorado Rockies pitcher Jordan Sheffield(supplemental first round) debuted this month. Last year, Dodgers outfielder Zach McKinstry(33rd round) and pitcher Mitch White(second round), Houston Astros pitcher Andre Scrubb(eighth round), and Baltimore Orioles pitcher Dean Kremer(14th round) made their major league debuts.
 
 They were preceded by a quartet of Dodgers regulars – Gavin Lux(first round), Will Smith(supplemental first round), Dustin May(third round), Tony Gonsolin(ninth round) – and Twins pitcher Devin Smeltzer(fifth round).
