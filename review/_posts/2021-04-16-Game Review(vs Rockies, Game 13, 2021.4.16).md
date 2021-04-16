@@ -93,15 +93,6 @@ Julio Urías, 6 IP, 5 R, 4 ER, 7 H(1 HR), 6 K, 2 BB, 90 P(71 S)
 
 ---
 
-### Dodgers 7, Rockies 5
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-lang="en">
-  &mdash; Los Angeles Dodgers (@Dodgers)
-  <a href="https://twitter.com/Dodgers/status/1382925719190196226">APR 16, 2021</a>
-</blockquote>
-
----
-
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
   &mdash; Peter Gammons (@pgammo)
@@ -112,6 +103,15 @@ Julio Urías, 6 IP, 5 R, 4 ER, 7 H(1 HR), 6 K, 2 BB, 90 P(71 S)
 
 프라이스가 오늘 거둔 세이브가 정규 시즌 커리어 통산 첫 세이브라고 합니다. 추가로 모든 경기를 볼때 2008년 ALCS G7에서 전체 커리어 통산 첫 세이브를 한적이 있다고 합니다.
 {:.faded}
+
+---
+
+### Dodgers 7, Rockies 5
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en">
+  &mdash; Los Angeles Dodgers (@Dodgers)
+  <a href="https://twitter.com/Dodgers/status/1382925719190196226">APR 16, 2021</a>
+</blockquote>
 
 ---
 
