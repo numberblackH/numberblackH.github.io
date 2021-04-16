@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Game Review(vs Rockies, Game 11, 2021.4.14)
-date: 2021-04-14 05:50:38 -0400
+title: Game Review(vs Rockies, Game 11, 2021.4.16)
+date: 2021-04-16 05:50:37 -0400
 noindex: true
 ---
 
