@@ -26,11 +26,11 @@ Game Notes
 : Mookie Betts is back
 : Max Muncy one-run HR
 
-![20210414b](/image/dodgers/20210414/20210414b.png){:data-width="1440" data-height="836"}   
+![20210413b](/image/dodgers/20210414/20210414b.png){:data-width="1440" data-height="836"}   
 *Dodgers vs. COL, 4/14/2021*
 {:.figure}
 
-![20210414a](/image/dodgers/20210414/20210414a.png){:data-width="1440" data-height="836"}   
+![20210413a](/image/dodgers/20210414/20210414a.png){:data-width="1440" data-height="836"}   
 *Dodgers vs. COL, 4/14/2021*
 {:.figure}
 
@@ -44,10 +44,6 @@ Game Notes
 </blockquote>
 
 ---
-
-![Trevor Bauer](/image/dodgers/20210414/20210414a.png){:data-width="1440" data-height="836"}   
-*Trevor Bauer vs. COL, 4/14/2021*
-{:.figure}
 
 ![Trevor Bauer](/image/dodgers/20210414/4fd1d2c2-262a-4054-8058-32f6be995936.png){:data-width="1440" data-height="836"}   
 *Trevor Bauer vs. COL, 4/14/2021*
