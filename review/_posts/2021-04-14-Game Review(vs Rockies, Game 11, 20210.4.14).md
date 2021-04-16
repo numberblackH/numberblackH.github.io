@@ -17,10 +17,10 @@ noindex: true
 *Dodgers vs. WSH, 4/12/2021*
 {:.figure}
 
-![20210414b](/image/dodgers/20210414/20210414b.png){:data-width="1440" data-height="836"}   
+![20210414b](/image/dodgers/20210414/20210414b.PNG){:data-width="1440" data-height="836"}   
 *Dodgers vs. COL, 4/14/2021*
 {:.figure}
 
-![20210414a](/image/dodgers/20210414/20210414a.png){:data-width="1440" data-height="836"}   
+![20210414a](/image/dodgers/20210414/20210414a.PNG){:data-width="1440" data-height="836"}   
 *Dodgers vs. COL, 4/14/2021*
 {:.figure}
