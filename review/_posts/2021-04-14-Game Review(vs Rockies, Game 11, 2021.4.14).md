@@ -9,6 +9,13 @@ noindex: true
 {:.message}
 
 ---
+![20210412b](/image/dodgers/20210412/20210412b.png){:data-width="1440" data-height="836"}   
+*Dodgers vs. WSH, 4/12/2021*
+{:.figure}
+
+![20210412a](/image/dodgers/20210412/20210412a.png){:data-width="1440" data-height="836"}   
+*Dodgers vs. WSH, 4/12/2021*
+{:.figure}
 
 ### Today's Dodgers lineup at Rockies vs. Antonio Senzatela:
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
