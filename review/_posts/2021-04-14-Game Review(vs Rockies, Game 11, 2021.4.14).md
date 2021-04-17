@@ -81,7 +81,7 @@ Trevor Bauer, 7 IP, 0 R, 1 H, 9 K, 2 BB, 99 P(68 S)
 
 ---
 
-### Dodgers 7, Rockies 0
+### FINAL: Dodgers 7, Rockies 0
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
   &mdash; Los Angeles Dodgers (@Dodgers)

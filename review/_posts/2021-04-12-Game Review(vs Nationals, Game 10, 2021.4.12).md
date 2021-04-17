@@ -99,7 +99,7 @@ Kenley Jansen, 커터가 93 - 94mph 구속이 나왔습니다. 정말 오랜만�
 
 ---
 
-### Dodgers 3, Nationals 0
+### FINAL: Dodgers 3, Nationals 0
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
   &mdash; MLB (@MLB)

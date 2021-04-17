@@ -106,7 +106,7 @@ Julio Urías, 6 IP, 5 R, 4 ER, 7 H(1 HR), 6 K, 2 BB, 90 P(71 S)
 
 ---
 
-### Dodgers 7, Rockies 5
+### FINAL: Dodgers 7, Rockies 5
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-lang="en">
   &mdash; Los Angeles Dodgers (@Dodgers)
