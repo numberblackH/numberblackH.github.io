@@ -7,8 +7,34 @@ MLB를 좋아하고 주식 시장에 관심이 많은 개발자로 다저스의 
 
 ---
 
+## KOREA
+* [DART](http://dart.fss.or.kr/){:.heading.flip-title} --- 기업 공시자료 사이트
+* [네이버](https://finance.naver.com/research/company_list.nhn){:.heading.flip-title} --- 기업 공시자료 사이트
+* [한경컨센서스](http://consensus.hankyung.com/apps.analysis/analysis.list?&skinType=business){:.heading.flip-title} --- 한경컨센서스
+* [WhyNotSellReport](http://www.whynotsellreport.com/){:.heading.flip-title} --- WhyNotSellReport
+* [대신증권](http://money2.daishin.co.kr/E5/ResearchCenter/Work/Research_BasicList.aspx?pr_code=4){:.heading.flip-title} --- 대신증권
+* [미래에셋대우](https://www.miraeassetdaewoo.com/){:.heading.flip-title} --- 미래에셋
+* [키움증권](https://invest.kiwoom.com/inv/analysis){:.heading.flip-title} --- 키움증권
+* [eBEST](https://www.ebestsec.co.kr/){:.heading.flip-title} --- 이베스트증권
+* [신한금융투자](https://open.shinhaninvest.com/phone/investment/3112.jsp){:.heading.flip-title} --- 신한금투
+* [KB 증권](https://www.kbsec.com/go.able?linkcd=m04010010){:.heading.flip-title} --- KB 증권
+* [PAXNET](http://www.paxnet.co.kr/stock/report/report?menuCode=2222){:.heading.flip-title} --- PAXNET
+* [한국IR협의회](https://www.kirs.or.kr/information/tech2020_1.html){:.heading.flip-title} --- 한국IR협의회
+* [MK증권](https://vip.mk.co.kr/newSt/news/news_list2.php?sCode=110){:.heading.flip-title} --- MK증권
+* [KRX](http://data.krx.co.kr/contents/MDC/HARD/hardController/MDCHARD001.cmd){:.heading.flip-title} --- KRX
+{:.related-posts.faded}
+
+---
+
+## News; Membership
+* [Bloomberg](https://www.bloomberg.com/markets){:.heading.flip-title} --- Bloomberg
+* [WSJ](https://www.wsj.com/news/markets){:.heading.flip-title} --- WSJ
+{:.related-posts.faded}
+
+---
+
 ## SEC
-* [SEC](https://www.sec.gov/edgar.shtml){:.heading.flip-title} --- EDGAR; SEC 기업 공시 사이트(공식)
+* [SEC](https://www.sec.gov/edgar.shtml){:.heading.flip-title} --- EDGAR; SEC 기업 공시자료 사이트(공식)
 * [BamSEC](https://www.bamsec.com/){:.heading.flip-title} --- SEC 간편(보기 편함)
 {:.related-posts.faded}
 
@@ -31,12 +57,13 @@ MLB를 좋아하고 주식 시장에 관심이 많은 개발자로 다저스의 
 ## 13F; 억만장자 포트폴리오
 * [Whalewisdom](https://whalewisdom.com/){:.heading.flip-title} --- 13F; ibillionaire 업데이트(사이트 변경)
 * [gurufocus](https://www.gurufocus.com){:.heading.flip-title} --- gurufocus
+* [RS](http://relationalstocks.com/instshow.php?op=summary&id=1){:.heading.flip-title} --- 13F
+* [DATAROMA](https://www.dataroma.com/m/home.php){:.heading.flip-title} --- 13F LOG
 {:.related-posts.faded}
 
 ---
 
 ## News; 뉴스
-* [WSJ](https://www.wsj.com/){:.heading.flip-title} --- THE WALL STREET JOURNAL
 * [CNBC](https://www.cnbc.com){:.heading.flip-title} --- CNBC
 * [yahoo finance](https://finance.yahoo.com/){:.heading.flip-title} --- yahoo! finance
 * [CNN BUSINESS](https://edition.cnn.com/business){:.heading.flip-title} --- CNN BUSINESS
