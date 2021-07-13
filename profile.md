@@ -12,16 +12,53 @@ MLB를 좋아하고 주식 시장에 관심이 많은 개발자로 다저스의 
 * [네이버](https://finance.naver.com/research/company_list.nhn){:.heading.flip-title} --- 기업 공시자료 사이트
 * [한경컨센서스](http://consensus.hankyung.com/apps.analysis/analysis.list?&skinType=business){:.heading.flip-title} --- 한경컨센서스
 * [WhyNotSellReport](http://www.whynotsellreport.com/){:.heading.flip-title} --- WhyNotSellReport
-* [대신증권](http://money2.daishin.co.kr/E5/ResearchCenter/Work/Research_BasicList.aspx?pr_code=4){:.heading.flip-title} --- 대신증권
-* [미래에셋대우](https://www.miraeassetdaewoo.com/){:.heading.flip-title} --- 미래에셋
-* [키움증권](https://invest.kiwoom.com/inv/analysis){:.heading.flip-title} --- 키움증권
-* [eBEST](https://www.ebestsec.co.kr/){:.heading.flip-title} --- 이베스트증권
-* [신한금융투자](https://open.shinhaninvest.com/phone/investment/3112.jsp){:.heading.flip-title} --- 신한금투
-* [KB 증권](https://www.kbsec.com/go.able?linkcd=m04010010){:.heading.flip-title} --- KB 증권
-* [PAXNET](http://www.paxnet.co.kr/stock/report/report?menuCode=2222){:.heading.flip-title} --- PAXNET
-* [한국IR협의회](https://www.kirs.or.kr/information/tech2020_1.html){:.heading.flip-title} --- 한국IR협의회
-* [MK증권](https://vip.mk.co.kr/newSt/news/news_list2.php?sCode=110){:.heading.flip-title} --- MK증권
+* [PAXNET](http://www.paxnet.co.kr/stock/report/report?menuCode=2222){:.heading.flip-title} --- PAXNET(SK증권, 메르츠증권, 하이투자증권)
+* [한국IR협의회](https://www.kirs.or.kr/information/tech2020_1.html){:.heading.flip-title} --- NICE디앤비, NICE평가정보
+* [MK증권](https://vip.mk.co.kr/newSt/news/news_list2.php?sCode=110){:.heading.flip-title} --- MK증권, 열람안되는 리포트 열람 가능
 * [KRX](http://data.krx.co.kr/contents/MDC/HARD/hardController/MDCHARD001.cmd){:.heading.flip-title} --- KRX
+{:.related-posts.faded}
+
+---
+
+* [미래에셋증권](https://securities.miraeasset.com/bbs/board/message/list.do?categoryId=1521){:.heading.flip-title} --- 미래에셋증권
+* [신한금융투자](https://open.shinhaninvest.com/phone/investment/3112.jsp){:.heading.flip-title} --- 신한금융투자
+* [키움증권](https://invest.kiwoom.com/inv/main){:.heading.flip-title} --- 키움증권
+* [하나금융투자](https://www.hanaw.com/main/research/research/RC_000000_M.cmd){:.heading.flip-title} --- 하나금융투자
+* [삼성증권](https://www.samsungpop.com/sscommon/jsp/search_m/research.jsp){:.heading.flip-title} --- 삼성증권
+* [현대차투자증권](https://m.hmsec.com/mobile/research/research01_list.do?Menu_category=6){:.heading.flip-title} --- 현대차투자증권
+* [IBK투자증권](https://www.ibks.com/index.do){:.heading.flip-title} --- IBK투자증권
+{:.related-posts.faded}
+
+---
+
+* [대신증권](http://money2.daishin.co.kr/E5/ResearchCenter/Work/Research_BasicList.aspx?pr_code=4){:.heading.flip-title} --- 대신증권, 해외 로그인 필요
+* [eBEST](https://www.ebestsec.co.kr/){:.heading.flip-title} --- 이베스트증권, 해외 로그인 필요
+* [한국투자증권](https://www.truefriend.com/main/bond/research/_static/TF03cc030300.jsp){:.heading.flip-title} --- 한국투자증권, 해외 ALL
+{:.related-posts.faded}
+
+---
+
+* [교보증권](https://m.iprovest.com/weblogic/ResearchServlet/newReports){:.heading.flip-title} --- 교보증권
+* [유안타증권](https://www.myasset.com/myasset/research/rs_list/rs_list.cmd?cd006=&cd007=RE01&cd008=){:.heading.flip-title} --- 유안타증권
+* [유진투자증권](https://www.eugenefn.com/comm/msgList.do){:.heading.flip-title} --- 유진투자증권
+* [리딩투자증권](http://www.leading.co.kr/board/EquityResearch/list){:.heading.flip-title} --- 리딩투자증권
+* [부국증권](http://www.bookook.co.kr/research/research_5_0){:.heading.flip-title} --- 부국증권
+* [DS투자증권](http://www.ds-sec.co.kr/bbs/board.php?bo_table=sub03_02){:.heading.flip-title} --- DS투자증권
+* [한양증권](http://www.hygood.co.kr/board/researchAnalyzeCompany/list){:.heading.flip-title} --- 한양증권
+* [흥국증권](http://www.heungkuksec.co.kr/research/company/list.do){:.heading.flip-title} --- 흥국증권
+* [유화증권](https://www.yhs.co.kr/yhsBoard/mboard.asp?strBoardID=ya_busi_analysis){:.heading.flip-title} --- 유화증권
+{:.related-posts.faded}
+
+---
+
+* [KB증권](https://www.kbsec.com/go.able?linkcd=m04010010){:.heading.flip-title} --- KB증권, 무조건 로그인 필요
+* [한화투자증권](https://www.hanwhawm.com/main/research/main/list.cmd?depth2_id=1002&mode=depth2&viewclass=){:.heading.flip-title} --- 한화투자증권, 무조건 로그인 필요
+* [KTB투자증권](https://www.ktb.co.kr/research/article/common.jspx?rGubun=I01&sctrGubun=I01&web=0){:.heading.flip-title} --- KTB투자증권, 무조건 로그인 필요
+* [DB금융투자](https://www.db-fi.com/main/main.do){:.heading.flip-title} --- DB금융투자, 무조건 로그인 필요
+* [NH투자증권](https://www.nhqv.com/){:.heading.flip-title} --- NH투자증권, 무조건 로그인 필요
+* [SK증권](https://www.sks.co.kr/main/index.cmd){:.heading.flip-title} --- SK투자증권, 무조건 로그인 필요
+* [하이투자증권](https://www.hi-ib.com/){:.heading.flip-title} --- 하이투자증권, 무조건 로그인 필요
+* [메리츠증권](https://home.imeritz.com/dalyrpt/InfoMain.do){:.heading.flip-title} --- 메리츠증권, 무조건 로그인 필요
 {:.related-posts.faded}
 
 ---
