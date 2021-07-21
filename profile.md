@@ -2,18 +2,18 @@
 ---
 
 # Profile
-MLB를 좋아하고 주식 시장에 관심이 많은 개발자로 다저스의 소식을 위주로 저에게 흥미가 있는 스탯, 데이터, 비즈니스 또는 다른 팀의 주제와 칼럼을 다룹니다. 해석과 의역에 전문성은 없습니다.
+우리는 숫자로 말합니다
 {:.faded}
 
 ---
 
 ## KOREA
 * [DART](http://dart.fss.or.kr/){:.heading.flip-title} --- 기업 공시자료 사이트
-* [네이버](https://finance.naver.com/research/company_list.nhn){:.heading.flip-title} --- 기업 공시자료 사이트
+* [네이버](https://finance.naver.com/research/company_list.nhn){:.heading.flip-title} --- 네이버 기업 리포트
 * [한경컨센서스](http://consensus.hankyung.com/apps.analysis/analysis.list?&skinType=business){:.heading.flip-title} --- 한경컨센서스
 * [WhyNotSellReport](http://www.whynotsellreport.com/){:.heading.flip-title} --- WhyNotSellReport
-* [PAXNET](http://www.paxnet.co.kr/stock/report/report?menuCode=2222){:.heading.flip-title} --- PAXNET(SK증권, 메르츠증권, 하이투자증권)
-* [한국IR협의회](https://www.kirs.or.kr/information/tech2020_1.html){:.heading.flip-title} --- NICE디앤비, NICE평가정보
+* [PAXNET](http://www.paxnet.co.kr/stock/report/report?menuCode=2222){:.heading.flip-title} --- PAXNET(SK증권, 메리츠증권, 하이투자증권)
+* [한국IR협의회](https://www.kirs.or.kr/information/tech2020_1.html){:.heading.flip-title} --- 한국IR협의회(NICE디앤비, NICE평가정보)
 * [MK증권](https://vip.mk.co.kr/newSt/news/news_list2.php?sCode=110){:.heading.flip-title} --- MK증권, 열람안되는 리포트 열람 가능
 * [KRX](http://data.krx.co.kr/contents/MDC/HARD/hardController/MDCHARD001.cmd){:.heading.flip-title} --- KRX
 {:.related-posts.faded}
@@ -77,14 +77,14 @@ MLB를 좋아하고 주식 시장에 관심이 많은 개발자로 다저스의 
 
 ---
 
-## Earnings; 실적 발표
+## Earnings
 * [Earnings Whisper](https://www.earningswhispers.com){:.heading.flip-title} --- Earnings Whisper(실적 보기 편함, 달력)
 * [TipRanks](https://www.tipranks.com){:.heading.flip-title} --- TipRanks(실적 보기 편함, 달력)
 {:.related-posts.faded}
 
 ---
 
-## Dividend; 배당
+## Dividend
 * [Dividend](https://www.dividend.com/){:.heading.flip-title} --- 배당 확인 대표 사이트
 * [dividendinvestor](https://www.dividendinvestor.com){:.heading.flip-title} --- dividendinvestor
 {:.related-posts.faded}
@@ -100,7 +100,7 @@ MLB를 좋아하고 주식 시장에 관심이 많은 개발자로 다저스의 
 
 ---
 
-## News; 뉴스
+## News
 * [CNBC](https://www.cnbc.com){:.heading.flip-title} --- CNBC
 * [yahoo finance](https://finance.yahoo.com/){:.heading.flip-title} --- yahoo! finance
 * [CNN BUSINESS](https://edition.cnn.com/business){:.heading.flip-title} --- CNN BUSINESS
@@ -117,7 +117,7 @@ MLB를 좋아하고 주식 시장에 관심이 많은 개발자로 다저스의 
 
 ---
 
-## IPO; 기업공개, SPAC; 스팩
+## IPO, SPAC
 * [NYSE IPO](https://www.nyse.com/ipo-center/filings){:.heading.flip-title} --- NYSE IPO
 * [NASDAQ IP](https://www.nasdaq.com/market-activity/ipos){:.heading.flip-title} --- NASDAQ IPO
 * [SPAC Research](https://www.spacresearch.com/){:.heading.flip-title} --- SPAC Research  
@@ -138,7 +138,7 @@ MLB를 좋아하고 주식 시장에 관심이 많은 개발자로 다저스의 
 
 ---
 
-## Trading; 트레이딩, Chart; 기술적 분석
+## Trading, Chart
 * [Seeking Alpha](https://www.seekingalpha.com){:.heading.flip-title} --- Seeking Alpha; 트레이딩 아이디어
 * [The Motley Fool](https://www.fool.com){:.heading.flip-title} --- The Motley Fool; 트레이딩 아이디어
 * [VIC](https://www.valueinvestorsclub.com){:.heading.flip-title} --- Value Investors Club; VIC(가입 좆같음); 내 트레이딩 결과 확인 가능

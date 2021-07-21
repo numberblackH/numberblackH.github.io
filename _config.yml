@@ -48,34 +48,15 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Dodgers
-    url:               /dodgers/
-  - title:             Game Review
-    url:               /review/
-  - title:             News Briefing
-    url:               /briefing/
-  - title:             MLB News
-    url:               /news/
-  - title:             Column
-    url:               /column/
-#  - title:             Prospect
-#    url:               /prospect/
-  - title:             Story
-    url:               /story/
-  - title:             Old Story
-    url:               /oldstory/
-#  - title:             Data & R
-#    url:               /data/
-#  - title:             Other
-#    url:               /other/
-  - title:             Reference
+  - title:             Stock
+    url:               /profile/
+  - title:             MLB Link
     url:               /reference/
   - title:             Football Link
     url:               /FOOTBALL/
   - title:             NBA Link
     url:               /NBA/
-  - title:             Profile
-    url:               /profile/
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

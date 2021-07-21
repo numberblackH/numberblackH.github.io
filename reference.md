@@ -133,7 +133,6 @@
 * [김형준의 베이스볼+]{:.heading.flip-title} --- 김형준의 베이스볼+
 * [이창섭의 올 어바웃 베이스볼]{:.heading.flip-title} --- 이창섭의 올 어바웃 베이스볼
 * [조미예의 MLB 현장]{:.heading.flip-title} --- 조미예의 MLB 현장
-* [민기자 칼럼]{:.heading.flip-title} --- 민기자 칼럼
 {:.related-posts.faded}
 
 [주경야덕]: https://post.naver.com/my.nhn?memberNo=25448623
@@ -147,7 +146,6 @@
 [김형준의 베이스볼+]: https://sports.news.naver.com/column/columnList.nhn?expertId=214
 [이창섭의 올 어바웃 베이스볼]: https://sports.news.naver.com/column/columnList.nhn?expertId=656
 [조미예의 MLB 현장]: https://sports.media.daum.net/sports/column/355
-[민기자 칼럼]: https://sports.media.daum.net/sports/column/351
 
 ## KBO
 * [코치라운드]{:.heading.flip-title} --- 아이들의 몸과 마음을 돌보는 위대한 직업, 스포츠 코치들의 나눔터
@@ -161,7 +159,6 @@
 * [만화야구규칙]{:.heading.flip-title} --- 마치의 만화야구규칙
 * [한국스포츠통신]{:.heading.flip-title} --- 아마야구 소식
 * [KBSA]{:.heading.flip-title} --- 아마야구 기록실
-* [백종인의 야구는 구라다]{:.heading.flip-title} --- 백종인의 야구는 구라다
 {:.related-posts.faded}
 
 [코치라운드]: http://coachround.com/
@@ -175,4 +172,5 @@
 [만화야구규칙]: https://blog.naver.com/march322/10167300485
 [한국스포츠통신]: http://www.apsk.co.kr/news/articleList.html?sc_section_code=S1N1&view_type=sm
 [KBSA]: http://www.korea-baseball.com/record/record/player_record
-[백종인의 야구는 구라다]: https://sports.media.daum.net/sports/column/353
+
+---
