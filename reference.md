@@ -5,6 +5,24 @@
 
 ## News
 * [MLB]{:.heading.flip-title} --- MLB
+* [LA Times Dodgers]{:.heading.flip-title} --- LA Times Dodgers
+* [ocregister Dodgers]{:.heading.flip-title} --- ocregister Dodgers
+* [SB Dodgers]{:.heading.flip-title} --- SB Dodgers
+* [Dodgers Insider]{:.heading.flip-title} --- Dodgers Insider
+* [Dodgers Nation]{:.heading.flip-title} --- Dodgers Nation
+{:.related-posts.faded}
+
+[B/R Dodgers]: https://bleacherreport.com/los-angeles-dodgers
+[LA Times Dodgers]: https://www.latimes.com/sports/dodgers
+[ocregister Dodgers]: https://www.ocregister.com/sports/mlb/los-angeles-dodgers/
+[SB Dodgers]: https://www.truebluela.com/
+[Dodgers Insider]: https://dodgers.mlblogs.com/
+[Dodgers Nation]: https://www.dodgersnation.com/
+
+---
+
+## News
+* [MLB]{:.heading.flip-title} --- MLB
 * [B/R]{:.heading.flip-title} --- Bleacher Report
 * [MTR]{:.heading.flip-title} --- MLB Trdae Rumors
 * [ESPN]{:.heading.flip-title} --- ESPN MLB
@@ -28,6 +46,8 @@
 [FANCRED]: https://fancredsports.com/Categories/baseball/
 [Sport Spyder]: http://sportspyder.com/sports/mlb/news/
 [USA TODAY]: https://www.usatoday.com/sports/mlb/
+
+---
 
 ## Column
 * [THE ATHLETIC]{:.heading.flip-title} --- THE ATHLETIC
@@ -55,6 +75,8 @@
 [THE RINGER]: https://www.theringer.com/mlb/
 [Pitcher List]: https://www.pitcherlist.com/
 
+---
+
 ## Prospect
 * [MiLB]{:.heading.flip-title} --- MiLB
 * [BA]{:.heading.flip-title} --- Baseball America
@@ -68,6 +90,8 @@
 [BP]: https://www.baseballprospectus.com/
 [The Baseball Cube]: http://www.thebaseballcube.com/prospects/
 [MINOR LEAGUE BALL]: https://www.minorleagueball.com/
+
+---
 
 ## Stat & PITCHf/x Tool
 * [BASEBALL-REFERENCE]{:.heading.flip-title} --- Baseball Stats and History
@@ -93,6 +117,8 @@
 [TexasLeaguers]: http://pitchfx.texasleaguers.com/
 [BASEBALL ANALYSTS]: http://baseballanalysts.com/archives/fx_visualizatio_1/
 
+---
+
 ## Data & R
 * [Importing data into R]{:.heading.flip-title} --- Importing data into R tht.Fangraphs
 * [RETROSHEET]{:.heading.flip-title} --- RETROSHEET
@@ -104,6 +130,8 @@
 [Importing data into R]: https://tht.fangraphs.com/tht-live/importing-data-into-r/
 [Statcast-Modeling]: https://github.com/BillPetti/Statcast-Modeling/
 [SeanLahman]: http://www.seanlahman.com/
+
+---
 
 ## Other
 * [THE PLAYERS TRIBUNE]{:.heading.flip-title} --- The Players' Tribune : STORY
@@ -120,6 +148,8 @@
 [Baseball Think Factory]: http://www.baseballthinkfactory.org/
 [spotrac]: https://www.spotrac.com/mlb/payroll/
 [MLB Technology]: https://technology.mlblogs.com/
+
+---
 
 ## MLB-KOR
 * [주경야덕]{:.heading.flip-title} --- MLB 포스트 번역
@@ -146,6 +176,8 @@
 [김형준의 베이스볼+]: https://sports.news.naver.com/column/columnList.nhn?expertId=214
 [이창섭의 올 어바웃 베이스볼]: https://sports.news.naver.com/column/columnList.nhn?expertId=656
 [조미예의 MLB 현장]: https://sports.media.daum.net/sports/column/355
+
+---
 
 ## KBO
 * [코치라운드]{:.heading.flip-title} --- 아이들의 몸과 마음을 돌보는 위대한 직업, 스포츠 코치들의 나눔터
