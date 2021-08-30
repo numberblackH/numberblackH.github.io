@@ -81,7 +81,7 @@
 {:.related-posts.faded}
 
 [BTP]: https://betweentheposts.net/
-[CV]: https://www.coachesvoice.com/category/the-game/
+[CV]: https://www.coachesvoice.com/category/analysis/
 [EPL ANALYSIS]: https://eplanalysis.com/
 [Red Devils Report]: https://reddevilsreport.com/category/analysis/match-analysis
 [Football Bloody Hell]: https://footballbh.net/
