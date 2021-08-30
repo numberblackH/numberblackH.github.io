@@ -20,6 +20,7 @@
 
 ---
 
+* [한국투자증권](http://openreport.kr/research.jsp?cPage=1&cmd=&pid=){:.heading.flip-title} --- 한국투자증권
 * [미래에셋증권](https://securities.miraeasset.com/bbs/board/message/list.do?categoryId=1521){:.heading.flip-title} --- 미래에셋증권
 * [신한금융투자](https://open.shinhaninvest.com/phone/investment/3112.jsp){:.heading.flip-title} --- 신한금융투자
 * [키움증권](https://invest.kiwoom.com/inv/main){:.heading.flip-title} --- 키움증권
