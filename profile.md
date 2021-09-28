@@ -16,6 +16,7 @@
 * [한국IR협의회](https://www.kirs.or.kr/information/tech2020_1.html){:.heading.flip-title} --- 한국IR협의회(NICE디앤비, NICE평가정보)
 * [MK증권](https://vip.mk.co.kr/newSt/news/news_list2.php?sCode=110){:.heading.flip-title} --- MK증권, 열람안되는 리포트 열람 가능
 * [KRX](http://data.krx.co.kr/contents/MDC/HARD/hardController/MDCHARD001.cmd){:.heading.flip-title} --- KRX
+* [감시통합포털](https://sims.krx.co.kr/p/Fids0101){:.heading.flip-title} --- 감시통합포털
 {:.related-posts.faded}
 
 ---
