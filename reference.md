@@ -21,6 +21,46 @@
 
 ---
 
+## B/R MLB
+* [B/R Orioles](https://bleacherreport.com/baltimore-orioles){:.heading.flip-title} --- Baltimore Orioles
+* [B/R Red Sox](https://bleacherreport.com/boston-red-sox){:.heading.flip-title} --- Boston Red Sox
+* [B/R Yankees](https://bleacherreport.com/new-york-yankees){:.heading.flip-title} --- New York Yankees
+* [B/R Rays](https://bleacherreport.com/tampa-bay-rays){:.heading.flip-title} --- Tempa Bay Rays
+* [B/R Blue Jays](https://bleacherreport.com/toronto-blue-jays){:.heading.flip-title} --- Toronto Blue Jays
+
+* [B/R White Sox](https://bleacherreport.com/chicago-white-sox){:.heading.flip-title} --- Chicago White Sox
+* [B/R Guardians](https://bleacherreport.com/cleveland-guardians){:.heading.flip-title} --- Cleveland Guardians
+* [B/R Tigers](https://bleacherreport.com/detroit-tigers){:.heading.flip-title} --- Detroit Tigers
+* [B/R Royals](https://bleacherreport.com/kansas-city-royals){:.heading.flip-title} --- Kansas City Royals
+* [B/R Twins](https://bleacherreport.com/minnesota-twins){:.heading.flip-title} --- Minnesota Twins
+
+* [B/R Astros](https://bleacherreport.com/houston-astros){:.heading.flip-title} --- Houston Astros
+* [B/R Angels](https://bleacherreport.com/los-angeles-angels){:.heading.flip-title} --- Los Angelese Angels
+* [B/R Athletics](https://bleacherreport.com/oakland-athletics){:.heading.flip-title} --- Oakland Athletics
+* [B/R Mariners](https://bleacherreport.com/seattle-mariners){:.heading.flip-title} --- Seattle Mariners
+* [B/R Rangers](https://bleacherreport.com/texas-rangers){:.heading.flip-title} --- Texas Rangers
+
+* [B/R Braves](https://bleacherreport.com/atlanta-braves){:.heading.flip-title} --- Atlanta Braves
+* [B/R Marlins](https://bleacherreport.com/miami-marlins){:.heading.flip-title} --- Miami Marlins
+* [B/R Mets](https://bleacherreport.com/new-york-mets){:.heading.flip-title} --- New York Mets
+* [B/R Phillies](https://bleacherreport.com/philadelphia-phillies){:.heading.flip-title} --- Philadelphia Phillies
+* [B/R Nationals](https://bleacherreport.com/washington-nationals){:.heading.flip-title} --- Washington Nationals
+
+* [B/R Cubs](https://bleacherreport.com/chicago-cubs){:.heading.flip-title} --- Chicago Cubs
+* [B/R Reds](https://bleacherreport.com/cincinnati-reds){:.heading.flip-title} --- Cincinnati Reds
+* [B/R Brewers](https://bleacherreport.com/milwaukee-brewers){:.heading.flip-title} --- Milwaukee Brewers
+* [B/R Pirates](https://bleacherreport.com/pittsburgh-pirates){:.heading.flip-title} --- Pittsburgh Pirates
+* [B/R Cardinals](https://bleacherreport.com/st-louis-cardinals){:.heading.flip-title} --- St.Louis Cardinals
+
+* [B/R Diamondbacks](https://bleacherreport.com/arizona-diamondbacks){:.heading.flip-title} --- Arizona Diamondbacks
+* [B/R Rockies](https://bleacherreport.com/colorado-rockies){:.heading.flip-title} --- Colorado Rockies
+* [B/R Dodgers](https://bleacherreport.com/los-angeles-dodgers){:.heading.flip-title} --- Los Angeles Dodgers
+* [B/R Padres](https://bleacherreport.com/san-diego-padres){:.heading.flip-title} --- San Diego Padres
+* [B/R Giants](https://bleacherreport.com/san-francisco-giants){:.heading.flip-title} --- San Francisco Giants
+{:.related-posts.faded}
+
+---
+
 ## News
 * [MLB]{:.heading.flip-title} --- MLB
 * [B/R]{:.heading.flip-title} --- Bleacher Report

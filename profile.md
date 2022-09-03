@@ -7,6 +7,14 @@
 
 ---
 
+## KOREA Global
+* [한국투자증권](https://www.truefriend.com/main/bond/research/_static/TF03cc030300.jsp){:.heading.flip-title} --- 한국투자증권, USA ALL
+* [Global Market Monitor USA](http://globalmonitor.einfomax.co.kr/sh_usa.html#/2/1){:.heading.flip-title} --- Global Market Monitor, USA ALL
+* [Global Market Monitor CHINA](http://globalmonitor.einfomax.co.kr/sh_china.html#/2/1){:.heading.flip-title} --- Global Market Monitor, CHINA ALL
+{:.related-posts.faded}
+
+---
+
 ## KOREA
 * [DART](http://dart.fss.or.kr/){:.heading.flip-title} --- 기업 공시자료 사이트
 * [네이버](https://finance.naver.com/research/company_list.nhn){:.heading.flip-title} --- 네이버 기업 리포트
@@ -15,8 +23,10 @@
 * [PAXNET](http://www.paxnet.co.kr/stock/report/report?menuCode=2222){:.heading.flip-title} --- PAXNET(SK증권, 메리츠증권, 하이투자증권)
 * [한국IR협의회](https://www.kirs.or.kr/information/tech2020_1.html){:.heading.flip-title} --- 한국IR협의회(NICE디앤비, NICE평가정보)
 * [MK증권](https://vip.mk.co.kr/newSt/news/news_list2.php?sCode=110){:.heading.flip-title} --- MK증권, 열람안되는 리포트 열람 가능
-* [KRX](http://data.krx.co.kr/contents/MDC/HARD/hardController/MDCHARD001.cmd){:.heading.flip-title} --- KRX
-* [감시통합포털](https://sims.krx.co.kr/p/Fids0101){:.heading.flip-title} --- 감시통합포털
+* [KRX](http://data.krx.co.kr/contents/MDC/HARD/hardController/MDCHARD001.cmd){:.heading.flip-title} --- KRX, (NICE디앤비, 한국기업데이터, NICE평가정보)
+* [금융투자협회](https://www.kofia.or.kr/brd/m_48/list.do){:.heading.flip-title} --- 금융투자협회, 코스닥 리포트
+* [KIND](https://kind.krx.co.kr/corpgeneral/irschedule.do?method=searchIRScheduleMain&gubun=iRMaterials){:.heading.flip-title} --- 대한민국 대표 기업공시채널 KIND, 회사 IR 자료
+* [감시통합포털](https://sims.krx.co.kr/p/Fids0101){:.heading.flip-title} --- 감시통합포털, 지분자료 간편 보기
 {:.related-posts.faded}
 
 ---
@@ -35,7 +45,6 @@
 
 * [대신증권](http://money2.daishin.co.kr/E5/ResearchCenter/Work/Research_BasicList.aspx?pr_code=4){:.heading.flip-title} --- 대신증권, 해외 로그인 필요
 * [eBEST](https://www.ebestsec.co.kr/){:.heading.flip-title} --- 이베스트증권, 해외 로그인 필요
-* [한국투자증권](https://www.truefriend.com/main/bond/research/_static/TF03cc030300.jsp){:.heading.flip-title} --- 한국투자증권, 해외 ALL
 {:.related-posts.faded}
 
 ---
@@ -149,3 +158,7 @@
 {:.related-posts.faded}
 
 ---
+
+## 블로거님들의 생각
+* [Seeking Alpha](https://www.seekingalpha.com){:.heading.flip-title} --- Seeking Alpha; 트레이딩 아이디어
+{:.related-posts.faded}
